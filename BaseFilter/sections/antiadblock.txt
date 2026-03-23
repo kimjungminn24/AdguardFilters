@@ -1253,6 +1253,11 @@ youporn.com$$script:contains(/window\.[\s\S]*?_zone_[\s\S]*?{"zone_id":/)
 !
 ! NOTE: Regular rules
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/227522
+fc-lc.xyz#%#//scriptlet('remove-node-text', 'script', 'AdscoreInit')
+!+ PLATFORM(ios, ext_android_cb, ext_safari)
+@@||c.adsco.re$script,domain=fc-lc.xyz
+@@||adsco.re/p$script,domain=fc-lc.xyz
 ! https://github.com/AdguardTeam/AdguardFilters/issues/227519
 mmsmasala27.com#%#//scriptlet('prevent-fetch', 'adsbygoogle')
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
