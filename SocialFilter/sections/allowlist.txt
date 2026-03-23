@@ -6,8 +6,7 @@
 !
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/227472
-hatenablog-parts.com#@#a[href*="//b.hatena.ne.jp/entry/"]:not(.http-bookmark)
-cero-t.hatenadiary.jp#@#a[href*="//b.hatena.ne.jp/entry/"]:not(.http-bookmark)
+hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,hatenadiary.org,hatenablog-parts.com#@#a[href*="//b.hatena.ne.jp/entry/"]:not(.http-bookmark)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/226624
 @@||platform.twitter.com/widgets.js$domain=livejupiter2.blog.jp|nanjpride.blog.jp|j-seiji.blog.jp|akb48matomemory.com|femimatsu.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/225334
