@@ -1419,6 +1419,9 @@ mob.hr##.side_banner
 !
 ! NOTE: Czech and Slovakian
 !
+||cdn.telekomunikace.cz/banners
+telekomunikace.cz##section[data-static-section="head-banners"]
+telekomunikace.cz##section.mx-auto:has(> .grid:only-child > a[target="_blank"] > img)
 creditlose.com,pregnancycalculator.site##.click-gate-overlay
 prozeny.cz##.tpl-royalty > div[class] > div[data-e2e="ogm-branding"] > div[class]:has(> .ogm-advert-static)
 prozeny.cz##.ogm-advert-static
