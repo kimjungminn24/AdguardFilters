@@ -14,6 +14,8 @@ gorod24.online,vedomosti.ru,kommersant.ru,rg.ru,glavbukh.ru,chehov-vid.ru,161.ru
 !
 !
 !
+||image.krasview.ru/thread/1946128/a1033c691da65e2dfa15749f4ea0dfa4_700.jpg
+shazoo.ru##a[href^="https://yandex.ru/adfox/"]
 ||static.ofd.ru/mail/all/*/banner*.png
 ofd.ru##a[href^="https://ofd.ru/ReceiptBanner/Click?"]
 platformaofd.ru###cheque_html_block > table:not([class]):has(#big_data_container)
@@ -10425,6 +10427,8 @@ muzmo.org##.mm-listview > li > a.menu_item[href*="vpopke.org"]
 muzmo.org##.mm-listview > li > a.menu_item[href*="new.eromo.org"]
 !#endif
 !
+!+ NOT_PLATFORM(ios, android, ext_android_cb)
+overclockers.ru##.grid > div.container-block:has(> div[class="sixteen wide center aligned column"])
 !+ NOT_PLATFORM(ios, android, ext_android_cb)
 offside.kz#$?#.content { padding-top: 90px !important; }
 !+ PLATFORM(ios, android)

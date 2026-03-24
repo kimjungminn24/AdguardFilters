@@ -25,6 +25,10 @@
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/227517
+@@||dapi.kakao.com/v*/local/search/address?$stealth=3p-auth
+! https://github.com/AdguardTeam/AdguardFilters/issues/227597
+@@||search-myfonts-api.monotype.com^$stealth=referrer
 ! https://github.com/AdguardTeam/AdguardFilters/issues/227523
 @@||supercachecdn.com/play/$media,stealth=referrer,domain=pornmedium.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/226665
@@ -1102,7 +1106,7 @@
 ! https://github.com/AdguardTeam/AdguardFilters/issues/171666
 @@||nv7s.com/key=*/referer=$media,stealth=referrer
 ! https://github.com/AdguardTeam/AdguardFilters/issues/171898 (regardless of options)
-@@ws://localhost^$stealth,domain=play.sooplive.co.kr
+@@ws://localhost^$stealth,domain=play.sooplive.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/171731
 @@||theolivepress.es^$stealth=useragent
 ! https://github.com/AdguardTeam/AdguardFilters/issues/171591

@@ -43,6 +43,12 @@ sport-express.ru,pikabu.ru##iframe[src^="https://autofill.yandex.ru/suggest?"]
 !
 ! SECTION: Popups - Regular rules
 !
+bloomberght.com##.sticky-brand-logo
+lampenwelt.de#$#.modals-overlay { display: none !important; }
+lampenwelt.de#$#.modal-popup { display: none !important; }
+lampenwelt.de#$#body { overflow: auto !important; }
+shop.purina.ru#%#//scriptlet('remove-node-text', 'script', 'dalee_promo_modal_delay')
+officebusters.com###cleaning-mov
 eda.yandex.ru##section > div[class]:has(> div[class] > button[aria-label="Promo"][style^="background-image:"])
 pachca.com##body > div.min-h-screen > div.animate-in:has(> div.bg-background > div.relative > div.items-left > img[alt="Таблица сравнения"])
 technopark.ru#%#//scriptlet('set-cookie', 'promo500closed', 'true')
@@ -343,8 +349,8 @@ news.bitcoin.com#%#//scriptlet('trusted-click-element', '#youtube-player + img[a
 iqos.ru$$script:contains(new PopupAuth)
 iqos.ru#%#//scriptlet('remove-node-text', 'script', 'new PopupAuth')
 global.novelpia.com#$#body { overflow: auto !important; pointer-events: auto !important; }
-global.novelpia.com#$#div[class^="fixed inset-0 bg-black"] { display: none !important; }
-global.novelpia.com#$#div[class^="fixed inset-0 bg-black"] + div[data-dismissable-layer][role="dialog"] { display: none !important; }
+global.novelpia.com#$#div[data-state="open"][style="pointer-events: auto;"]:empty + div[data-dismissable-layer]:not([class*="state=open"]) { display: none !important; }
+global.novelpia.com#$#div[data-state="open"][style="pointer-events: auto;"]:empty { display: none !important; }
 youtube.com##tp-yt-paper-dialog:has(> .ytd-popup-container > #options.ytd-checkbox-survey-renderer)
 rutube.ru###communicationBanner
 behance.net##div[class*="Project-followsAppreciationsOverlay"]
@@ -5052,7 +5058,7 @@ bt.no#$#body { overflow: auto !important; }
 dell.com#$#body { overflow: auto !important; }
 dell.com#$#.ask-question-banner-wrapper { display: none !important; }
 harpersbazaar.com.ua,cosmo.com.ua###magazine_popup
-hromadske.ua##.Questionnaire
+smfg.co.jp,hromadske.ua##.Questionnaire
 mathebibel.de##form[style^="display: block; width: 100%; height: 100%; position: fixed; z-index:"]
 carnegie.ru##.analytics-stay-in-the-know
 carnegie.ru##div[class="section banded padded"]
@@ -7624,6 +7630,7 @@ kurashiru.com#$#html.dly-modal-active { overflow: auto !important; }
 ! SECTION: Popups - Mobile sites only
 !#if (adguard_app_android || adguard_app_ios || adguard_ext_android_cb || ext_ublock)
 !
+trip.com#%#//scriptlet('trusted-click-element', '.oneTapLogin-c-popup div[style^="background-image:"][style*="https://pages.trip.com/Accounts/h5Accounts/oneTapTitleIcon.png"] ~ div[class^="index__headerRight"]')
 estadao.com.br#$##house-ad-link { display: none !important; }
 estadao.com.br#$#div[class^="styles__TopAndMainSiteContainer"] div.navbar-v3-content { top: 0 !important; }
 estadao.com.br#$#.bthQTE.menu-produtos-container-novo-site > div.container-fixed { top: 40px !important; }

@@ -1419,6 +1419,9 @@ mob.hr##.side_banner
 !
 ! NOTE: Czech and Slovakian
 !
+||cdn.telekomunikace.cz/banners
+telekomunikace.cz##section[data-static-section="head-banners"]
+telekomunikace.cz##section.mx-auto:has(> .grid:only-child > a[target="_blank"] > img)
 creditlose.com,pregnancycalculator.site##.click-gate-overlay
 prozeny.cz##.tpl-royalty > div[class] > div[data-e2e="ogm-branding"] > div[class]:has(> .ogm-advert-static)
 prozeny.cz##.ogm-advert-static
@@ -5421,12 +5424,6 @@ automoto.it,moto.it##.crm-unit
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,domain=highlights.legaseriea.it
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=highlights.legaseriea.it
-! https://github.com/AdguardTeam/AdguardFilters/issues/204010
-! https://github.com/AdguardTeam/AdguardFilters/issues/165897
-fritzbox-forum.com##main > div > div[style*="min-height:"][class]:has(> .banniere)
-fritzbox-forum.com##div[style*="max-height: 90px; min-width: 728px;"]
-!+ PLATFORM(windows, mac, android, cli)
-fritzbox-forum.com#$#div[style*="max-height: 90px; min-width: 728px;"] { position: absolute !important; left: -3000px !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/165835
 ilfattoquotidiano.it#?#.fq-extra-pushbar__content:has(> div.ifq-dfp > div.ifq-adv)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/164802#issuecomment-1793373741
@@ -6983,6 +6980,7 @@ roweroweporady.pl#@#.ad_container
 @@||lib.wtg-ads.com/prebid/prebid_*.js$domain=tvn.pl
 !
 !
+silesia.info.pl,mojbytom.pl,mojchorzow.pl,mojegliwice.pl,mojekatowice.pl,laziska.com.pl,mojmikolow.pl,m-ce.pl,orzesze.com.pl,piekaryslaskie.com.pl,pyskowice.com.pl,rudaslaska.com.pl,rybnicki.com,siemianowice.net.pl,sosnowiecki.pl,swiony.pl,wodzislaw.com.pl,zabrze.com.pl,zory.com.pl##div[class*="-revive-ads-"]
 atlasetf.pl##a.nav-link[target="_blank"] > img
 forexclub.pl###a_flex
 forexclub.pl###header_widget-6
@@ -11033,17 +11031,26 @@ anime-odcinki.pl##a[href="https://e-neko.pl/"] > img
 @@||anime-odcinki.pl^$generichide
 ! https://github.com/AdguardTeam/AdguardFilters/issues/223279
 bezprawnik.pl###adSlotXL2
-bezprawnik.pl##div[data-no-partner-ads] > div.relative
 ! https://github.com/AdguardTeam/AdguardFilters/issues/213127
+!+ NOT_OPTIMIZED
 bezprawnik.pl###adSlotsSidebar
+!+ NOT_OPTIMIZED
 bezprawnik.pl###sponsor-special-section
+!+ NOT_OPTIMIZED
 bezprawnik.pl##.sticky.gap-3 > .relative:has(> .pointer-events-none)
+!+ NOT_OPTIMIZED
 bezprawnik.pl##.pointer-events-none > .relative[style*="min-height:"]:only-child:empty
+!+ NOT_OPTIMIZED
 bezprawnik.pl##.pointer-events-none > .relative:has(> .relative > div[id^="Bepzrawnik_"])
+!+ NOT_OPTIMIZED
 bezprawnik.pl##article .pointer-events-none + .container > .relative:empty
-bezprawnik.pl##article div[class^="relative mx-auto flex items-center"]:has(> .relative:only-child:empty)
-bezprawnik.pl##article div[class^="relative mx-auto flex items-center"]:has(> .relative > div[id^="Bepzrawnik_"])
+!+ NOT_OPTIMIZED
+bezprawnik.pl##article div[class*="relative mx-auto flex items-center"]:has(> .relative:only-child:empty)
+!+ NOT_OPTIMIZED
+bezprawnik.pl##article div[class*="relative mx-auto flex items-center"]:has(> .relative > div[id^="Bepzrawnik_"])
+!+ NOT_OPTIMIZED
 bezprawnik.pl##div[data-no-partner-ads] .font-moderat:has(> .flex > .items-center > .items-center > .items-center > a[href*="://ad.doubleclick.net/"])
+!+ NOT_OPTIMIZED
 bezprawnik.pl#$##nextPost .w-screen > .relative { background-color: transparent !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/26020
 polsatsport.pl##.fl-right > a[href^="http://redefineadpl.hit.gemius.pl/hitredir/"][href*="url=https://ad.doubleclick.net/ddm/trackclk/"]
@@ -11123,7 +11130,7 @@ wykop.pl#?#aside.tag-top > .hits-slider:matches-css(before, content: /^reklama$/
 wykop.pl##.lisek-app
 wykop.pl##.lidl-polska
 wykop.pl##body .pub-slot-wrapper
-wykop.pl##.sidebar > aside > section[class]:has(> .wrapper > a[href*="clk.tradedoubler.com"])
+wykop.pl##section[class]:has(> .wrapper:only-child > a[href*="clk.tradedoubler.com"])
 ! https://github.com/AdguardTeam/AdguardFilters/issues/23704
 wykop.pl###wpladtop
 wykop.pl##a[href^="https://www.wykop.pl/adverts"]

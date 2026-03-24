@@ -69,6 +69,7 @@
 !
 !
 !
+||vault.nqintelligence.com^
 ||rudder-server-prd.arena.im^
 ||wobs.route.com^
 ||mythtracker.com^
@@ -2350,7 +2351,7 @@
 ||apollofind.com^$third-party
 ||appboycdn.com^$third-party
 ||apptentive.com^$redirect=nooptext
-||apptimize.com^$redirect=nooptext
+||apptimize.com^$redirect=nooptext,domain=~synchrony.com
 ||aprtx.com^$third-party
 ||aqtracker.com^$third-party
 ||arcadeweb.com^$third-party

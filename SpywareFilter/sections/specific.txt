@@ -83,6 +83,10 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 !
 ! NOTE: Specific rules
 !
+||91jp3.beauty/000/flink/analytics.php
+||s.yimg.com/ss/analytics-*.js
+||apptimize.com^$domain=synchrony.com
+||checkout.paze.com/api/v*/logging/logEvent
 ||sui.ssgcdn.com/ui/ssg/js/affiliate/wiselog_makePCookie.js
 ||adpay.ssg.com/adpayapi/pay/send.ssg
 ||fcbayern.com/static/*/collect?
@@ -1342,8 +1346,8 @@ wowhead.com#%#//scriptlet('set-local-storage-item', 'zafusr', '$remove$')
 wowhead.com#%#//scriptlet('set-session-storage-item', 'zafusr', '$remove$')
 ||slack.com/clog/track/
 ||vault.gostatera.com/collect/rap
-||sooplive.co.kr/js/google.analytics.js
-||sooplive.co.kr/asset/service/common/common_analysis.js
+||sooplive.com/js/google.analytics.js
+||sooplive.com/asset/service/common/common_analysis.js
 ||kapang.com/api/stats|$xmlhttprequest
 ||fastpic.org/viewed.php?url=/*.html&ref=$xmlhttprequest
 ||box.com/data/ptm.gif/
@@ -2467,7 +2471,7 @@ newsweekjapan.jp##.taboola-below-article-thumbnails-desktop-2-wrap
 ||jav4tv.com/player/analytics
 nukigazo.com###text-2
 ||smart-bdash.com/receptions/action/impression
-||st.sooplive.co.kr/api/da_block_api.php
+||st.sooplive.com/api/da_block_api.php
 ||navitime.co.jp/*/common/nt_count.js
 ||navitime.co.jp/*/jquery.adcount.js
 ||navitime.co.jp/*/log/logger.js
@@ -3641,7 +3645,7 @@ sports.goo.ne.jp###taboola-below-sokuho-thumbnails
 ||locondo.jp/*/analysis/tracker.js
 ||wazzup.me/libs/track.js
 ||imstream.jp/analytics/js/
-||stbbs.sooplive.co.kr/api/*_log.php
+||stbbs.sooplive.com/api/*_log.php
 ||terabox.com/statistics^
 ||terabox.com/api/analytics
 ||video-library.showheroes.com/player/ad_tag?
@@ -5632,6 +5636,9 @@ gmarket.co.kr#%#//scriptlet('fingerprintjs2')
 !
 ! NOTE: Specific rules
 !
+! newegg.com
+newegg.com/mr/*.gif?r=
+newegg.com%2Fmr%2F*.gif%3Fr%3D
 ! digital-eliteboard.com
 digital-eliteboard.com/b/image.gif?p=
 digital-eliteboard.com%2Fb%2Fimage.gif%3Fp%3D

@@ -43,8 +43,9 @@ $script,xmlhttprequest,third-party,domain=00ksw.com|01zww.com|0biquge.com|114zw.
 !
 ! NOTE: Specific rules
 !
+||91jp3.beauty/abc/data*.json
 tw.stock.yahoo.com###nonStickyHeader-0-AdWrapper-Proxy
-.gif|$image,third-party,domain=jiuqugan.top
+.gif|$image,third-party,domain=jiuqugan.top|91jp3.beauty
 wikisport.cc#%#//scriptlet('prevent-addEventListener', 'click', 'window.open')
 wikisport.cc#%#//scriptlet('prevent-window-open')
 twmanga.com###baoziAdPopup
