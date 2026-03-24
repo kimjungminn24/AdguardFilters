@@ -10654,7 +10654,7 @@ gab.com##article[data-id^="gab-ad-status-timeline-injection-"]
 /assets/jquery/main*.js?v=$domain=filelions.to|mwish.pro|javplaya.com|awish.pro|wishfast.top|sfastwish.com|fsdcmo.sbs|obeywish.com
 /assets/jquery/adult*.js$domain=javb1.com|streamwish.to|filelions.to|streamxxx.online|streamvid.top|javhahaha.us|javsw.me|javlion.xyz|embedwish.com|jwplayerhls.com
 /assets/*.min.js?*=*&$domain=streamsss.net|faptiti.com|anigogo.net|mm9844.*|sbchill.com|sbbrisk.com|sbhight.com|rbtstream.info|sbface.com|streamsb.click|sbrity.com
-/asset/*.min.js?*=*&$domain=vcdn.io|diasfem.com|izleorg3.org|dfmagazine.co.uk|javlove.club|videogreen.xyz|ujav.me|mavplayer.xyz|vidcloud.*|javmvp.com|mm9842.com|fplayer.info|streamabc.xyz|hentai4.me|cutl.xyz|myvideoplayer.monster|obaplayer.xyz|yuamikami.xyz|cloudrls.com|watch-jav-english.live|vcdn-stream.xyz|av4asia.com|javsubbed.xyz|mavavid.com|streamm4u.club
+/asset/*.min.js?*=*&$domain=vcdn.io|diasfem.com|izleorg3.org|dfmagazine.co.uk|javlove.club|ujav.me|mavplayer.xyz|vidcloud.*|javmvp.com|mm9842.com|fplayer.info|streamabc.xyz|hentai4.me|cutl.xyz|myvideoplayer.monster|obaplayer.xyz|yuamikami.xyz|cloudrls.com|watch-jav-english.live|vcdn-stream.xyz|av4asia.com|javsubbed.xyz|mavavid.com|streamm4u.club
 wellandgood.com##.container__ad
 uniindia.com##.header_bottom > div[style^="float:"]:last-child
 businessinsider.in##.fc_clmb_ad
@@ -14145,7 +14145,6 @@ bloggif.com##.sky
 ||promoted.soundcloud.com/event?*=audio-ad-web-vast-api-
 ||newepisodes.co/sw.js
 dailynewshungary.com##.dnh-ad-header-banner
-||videogreen.xyz/asset/default/player/plugins/vast*.js
 3dzip.org##img.sphyerf-image
 3dzip.org##.better-ads-listitemad
 typingtestnow.com##a[href$=".clickbank.net/"] > img
