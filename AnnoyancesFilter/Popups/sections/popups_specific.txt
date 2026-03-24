@@ -43,6 +43,7 @@ sport-express.ru,pikabu.ru##iframe[src^="https://autofill.yandex.ru/suggest?"]
 !
 ! SECTION: Popups - Regular rules
 !
+bloomberght.com##.sticky-brand-logo
 lampenwelt.de#$#.modals-wrapper { display: none !important; }
 lampenwelt.de#$#body { overflow: auto !important; }
 shop.purina.ru#%#//scriptlet('remove-node-text', 'script', 'dalee_promo_modal_delay')
