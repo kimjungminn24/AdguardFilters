@@ -1287,8 +1287,6 @@ share.weiyun.com#@#.page-ad
 @@||amazonaws.com/*/ui-service/wagenreihung-de.html$elemhide,jsinject,extension,xmlhttprequest,domain=reiseauskunft.bahn.de
 ! https://github.com/AdguardTeam/AdguardFilters/issues/122005
 /^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=strtape.cloud,badfilter
-! https://github.com/AdguardTeam/AdguardFilters/issues/120527
-||topeuropix.site/svop4/$popup,badfilter
 ! https://github.com/AdguardTeam/AdguardFilters/issues/133283
 @@||aniview.com/api/adserver/spt?$domain=sportbible.com
 @@||player.avplayer.com/script/*/avcplayer.js$domain=sportbible.com

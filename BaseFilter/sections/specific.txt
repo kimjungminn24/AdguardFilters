@@ -9584,7 +9584,6 @@ order-order.com###stickyfooterwrap
 mediafire.com,torrents-proxy.com##div[class$="-banner"]
 crackdj.com##button[class^="buttonPress-"]
 miltonkeynes.co.uk,whatsonstage.com##div[class*="AdContainer"]
-topeuropix.site###MyAdsId300x250
 pixlr.com##body > #right-space
 windowsnoticias.com,movilforum.com,mrlabtest.com##.publi
 ||tut.az/iframe/index$third-party
@@ -11115,7 +11114,7 @@ businessinsider.com,insider.com##.l-ad
 insider.com,businessinsider.com##.sticky-rail-ad-container
 genius.com##div[class^="InreadAd_"]
 ||ip.sb/assets/images/rivencloud_ads.gif
-topeuropix.site,123europix.pro###closex
+123europix.pro###closex
 go.gets4link.com##.mx-auto > center
 engdic.org##.gb-container
 indiatoday.in###block-itg-front-end-common-recommend-news-block
