@@ -9,6 +9,8 @@
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/227703
+pkproject.net#%#//scriptlet('prevent-setTimeout', 'adblock')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/227346
 ||outbound-proxy-us-east1-0-glob-usercontent-client-id-4143213601.googleapis.com.do/*/sweetalert
 ! https://github.com/AdguardTeam/AdguardFilters/issues/227120
