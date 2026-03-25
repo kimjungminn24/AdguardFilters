@@ -69,6 +69,7 @@
 !
 !
 !
+||plausible.vidsonic.net^
 ||delivery.dighty.com^
 ||vault.nqintelligence.com^
 ||rudder-server-prd.arena.im^
