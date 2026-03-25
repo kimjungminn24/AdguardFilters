@@ -4384,6 +4384,13 @@ lovefilmizle.net,elzemfilm.org,dizicaps.*,erotikfilmtube.com,sexfilmleriizle.com
 ! WARNING: When adding new rules here, try to find an initial source of an actual domain,
 !          or add a last known domain
 !
+! Frequently changed domains: turkifsalink*.store
+! Source: turkifsalink3.store
+[$domain=/turkifsalink\d+\.store$/]##a[href="http://ank.ac/"]
+!#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
+turkifsalink3.store,turkifsalink4.store,turkifsalink5.store,turkifsalink6.store,turkifsalink7.store,turkifsalink8.store,turkifsalink9.store,turkifsalink10.store,turkifsalink11.store,turkifsalink12.store,turkifsalink13.store,turkifsalink14.store,turkifsalink15.store,turkifsalink16.store,turkifsalink17.store,turkifsalink18.store,turkifsalink19.store,turkifsalink20.store,turkifsalink21.store,turkifsalink22.store,turkifsalink23.store,turkifsalink24.store,turkifsalink25.store,turkifsalink26.store,turkifsalink27.store,turkifsalink28.store,turkifsalink29.store,turkifsalink30.store,turkifsalink31.store,turkifsalink32.store##a[href="http://ank.ac/"]
+!#endif
+!
 ! Frequently changed domains: turktube*.xyz; turktube*.site; turktube*.online
 ! Source: turktube1.xyz; turktube6.site; turktube1.online
 [$domain=/turktube\d+\.xyz$/]##a[href^="https://tinyurl.com/"]
