@@ -131,6 +131,8 @@ $popup,third-party,domain=dood.ws,badfilter
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/227720
+@@||roomlala.*/assets/myspace/myprofile/sponsorship_controller-*.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/227189
 !+ PLATFORM(windows, mac, android, cli)
 ||flashtalking.com^$image,redirect-rule=1x1-transparent.gif,domain=racenet.com.au
