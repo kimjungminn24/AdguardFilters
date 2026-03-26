@@ -923,6 +923,7 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+asiaxbit.com##.happy-under-player-mobile
 freeconvert.com##.ad-sticky-wrapper:not(#style_important)
 ||xcafe.com/js/script_new.js
 filespayouts.com##center > a[target="_blank"]:not([href*="filespayouts.com"])
