@@ -835,10 +835,12 @@ nbclosangeles.com#@##onetrust-consent-sdk
 ew.com#@##onetrust-consent-sdk
 ! https://github.com/uBlockOrigin/uAssets/pull/26808
 dhl.de,questdiagnostics.com#@##onetrust-consent-sdk
+! https://github.com/AdguardTeam/AdguardFilters/issues/227812
 ! https://github.com/AdguardTeam/AdguardFilters/issues/195968
 ! https://github.com/AdguardTeam/AdguardFilters/issues/195966
-@@||consent.trustarc.com/notice$domain=elmex.pl|colgate.pl|meridol.pl|hillspet.pl
-@@||consent.trustarc.com/asset/notice.js/$domain=elmex.pl|colgate.pl|meridol.pl|hillspet.pl
+@@||consent.trustarc.com/notice$domain=elmex.pl|colgate.pl|meridol.pl|hillspet.pl|delonghi.com
+@@||consent.trustarc.com/asset/notice.js/$domain=elmex.pl|colgate.pl|meridol.pl|hillspet.pl|delonghi.com
+delonghi.com#@##truste-consent-track
 ! https://github.com/AdguardTeam/AdguardFilters/issues/195878
 sony.pl#@##onetrust-consent-sdk
 ! https://github.com/uBlockOrigin/uAssets/issues/26670

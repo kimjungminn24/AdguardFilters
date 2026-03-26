@@ -2552,6 +2552,7 @@ joyn.de#%#//scriptlet('trusted-click-element', 'cmp-banner >>> .banner cmp-dialo
 tandem.net##section[class^="styles_cookieBanner"]
 /wp-content/plugins/fhmm-consent-mode/*$domain=hajsonline.pl|finhack.pl|tarata.pl
 tarata.pl,hajsonline.pl,finhack.pl##[class^="fhmm-consent-mode"]
+delonghi.com#%#//scriptlet('trusted-click-element', '#consent_blackbar #truste-consent-required')
 hillspet.pl,meridol.pl,colgate.pl,elmex.pl#%#//scriptlet('trusted-click-element', '#consent_blackbar #truste-consent-button')
 hungermag.com##cookie-consent-banner
 weather.com##section[data-testid="PrivacyFeedCard"]
