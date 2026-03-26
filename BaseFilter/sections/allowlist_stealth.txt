@@ -25,6 +25,8 @@
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/227848
+@@||api-gtm.grubhub.com^$stealth=3p-auth,domain=seamless.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/227798
 @@||tubexplayer.com^$subdocument,stealth=referrer,domain=pornobae.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/227820
