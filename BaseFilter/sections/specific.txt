@@ -923,6 +923,7 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+freeconvert.com##.ad-sticky-wrapper:not(#style_important)
 filespayouts.com##center > a[target="_blank"]:not([href*="filespayouts.com"])
 gmapgis.com#%#//scriptlet('set-constant', 'googletag', 'noopFunc')
 gmapgis.com#%#//scriptlet('set-constant', 'googletag.cmd', 'noopFunc')
