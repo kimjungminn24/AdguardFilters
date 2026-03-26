@@ -960,7 +960,7 @@ bigshare.io##.artplayer-ads
 bigshare.io##.artplayer-overlay
 bigshare.io##.artplayer-counter
 pornhub.org##.emptyBlockSpace
-streamporn.nl,pandamovies.*#%#//scriptlet('remove-node-text', 'script', 'mainAds')
+mangoporn.net,streamporn.nl,pandamovies.*#%#//scriptlet('remove-node-text', 'script', 'mainAds')
 metacritic.com##.fandom-ad-placeholder
 perezhilton.com##.lazy-ad-parent
 perezhilton.com##div[class$="-ad-container"]
