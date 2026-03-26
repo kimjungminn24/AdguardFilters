@@ -69,6 +69,7 @@ dirilispostasi.com,turkuazgazetesi.net,yenialanya.com,bugunkocaeli.com.tr,cagdas
 !
 ! NOTE: Specific rules
 !
+webteknolife.com##.wtl-ad-wrap
 webteknolife.com##.svd-box
 ||kartalhaber.com/images/banners/
 fotospor.com.tr##.container > div[align="center"]:has(> the-ads)
