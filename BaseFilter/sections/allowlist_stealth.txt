@@ -25,6 +25,8 @@
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/227810
+@@||supabase.co/auth/v*/user|$stealth=3p-auth
 ! https://github.com/AdguardTeam/AdguardFilters/issues/227784
 @@/video.m3u8$stealth=referrer,domain=missav.live
 @@||surrit.com^$image,stealth=referrer,domain=missav.live
