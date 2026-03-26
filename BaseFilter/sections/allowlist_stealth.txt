@@ -25,6 +25,8 @@
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/227798
+@@||tubexplayer.com^$subdocument,stealth=referrer,domain=pornobae.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/227820
 @@||xxvideoss.net/e/$subdocument,stealth=useragent
 ! https://github.com/AdguardTeam/AdguardFilters/issues/225737
