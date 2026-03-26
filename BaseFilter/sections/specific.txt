@@ -22244,9 +22244,9 @@ thepostmillennial.com##.surfsharkcontent
 !+ NOT_OPTIMIZED
 masalaseen.com##a[target="_blank"] > img
 ! https://github.com/AdguardTeam/AdguardFilters/issues/224811
-!+ PLATFORM(ext_ff)
-thetrainline.com#%#new MutationObserver((_,o)=>{const c=document.getElementById('bookingPromo');c?.checked&&(c.click(),o.disconnect())}).observe(document,{childList:true,subtree:true});
 !+ NOT_PLATFORM(ext_ff)
+thetrainline.com#%#new MutationObserver((_,o)=>{const c=document.getElementById('bookingPromo');c?.checked&&(c.click(),o.disconnect())}).observe(document,{childList:true,subtree:true});
+!+ PLATFORM(ext_ff)
 thetrainline.com#%#//scriptlet('trusted-create-element', 'head', 'script', '', '(()=>{new MutationObserver((_,o)=>{const c=document.getElementById("bookingPromo");c?.checked&&(c.click(),o.disconnect())}).observe(document,{childList:true,subtree:true});})();')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/194402
 softpedia.com#%#//scriptlet('set-constant', 'ads_skipped_due_policy', 'true')
