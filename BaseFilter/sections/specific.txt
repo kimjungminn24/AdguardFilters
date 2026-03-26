@@ -923,6 +923,9 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+gmapgis.com#%#//scriptlet('set-constant', 'googletag', 'noopFunc')
+gmapgis.com#%#//scriptlet('set-constant', 'googletag.cmd', 'noopFunc')
+gmapgis.com#%#//scriptlet('set-constant', 'googletag.cmd.push', 'noopFunc')
 letmejerk.com#%#//scriptlet('abort-current-inline-script', 'document.createElement', 'new Function')
 ||megatube.xxx/sum.js
 megatube.xxx##.content > div.related-videos:has(> div.box script#fapcash-videos)
