@@ -920,6 +920,7 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+xtapes.la##iframe[src^="//qia.izerv.online/api/spots/"]
 latestpornvideo.com##iframe[src^="https://willingcease.com/"]
 sinparty.com##.popunder-overlay
 hornyhill.com###floating-player
