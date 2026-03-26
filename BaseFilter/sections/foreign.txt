@@ -9888,7 +9888,7 @@ encyklopedia.pwn.pl##.banner
 sjp.pwn.pl##.banner
 sjp.pwn.pl##.relative[aria-label="Reklama"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/69894
-pwn.pl,translatica.pl###top-banners
+pwn.pl###top-banners
 ! https://github.com/AdguardTeam/AdguardFilters/issues/69069
 eska.pl#%#//scriptlet("set-constant", "sas.cmp", "noopFunc")
 !+ PLATFORM(ios, ext_safari, ext_android_cb)
