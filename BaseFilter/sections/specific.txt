@@ -923,6 +923,7 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+new Function
 ||megatube.xxx/sum.js
 megatube.xxx##.content > div.related-videos:has(> div.box script#fapcash-videos)
 megatube.xxx##.footer-margin > div.content:has(> div.box > div.content--right-ads)
