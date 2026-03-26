@@ -3343,7 +3343,6 @@ khaleejtimes.com##div[id^="agora-article-below"]
 cinejosh.com##.stick-desktop-right
 cinejosh.com##.home_dt_mob_responsive_top_middle_container
 cinejosh.com##.panel-default > div[style]:has(> .adsbygoogle)
-||m.media-amazon.com/images/S/al-*.mp4$media,domain=imdb.com
 filmyfocus.com#%#//scriptlet('abort-on-property-write', 'isRoadBlock')
 filmyfocus.com###popup
 telugucinema.com#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'ays-pb-screen-')
@@ -21545,6 +21544,8 @@ adultlingeriepics.com,adultlingeriepics.com,adultspankingtgp.com,allfeetporn.com
 !
 !
 !
+!+ NOT_OPTIMIZED
+||m.media-amazon.com/images/S/al-*.mp4$media,domain=imdb.com
 !+ NOT_OPTIMIZED
 bananamovies.org,watchporn4k.com###video-overlay
 !+ NOT_OPTIMIZED
