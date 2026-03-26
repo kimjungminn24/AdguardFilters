@@ -8636,8 +8636,6 @@ expat.com##.ad-inside-list
 chapmanganato.com##div[style^="width: 100%;overflow: hidden;"]
 ||ipleak.org/bannerbest*.$image
 ||smailpro.com/js/chunks/aff_a.js
-!+ NOT_OPTIMIZED
-watchporn4k.com###video-overlay
 mydesi.click,watchporn4k.com,fucking-tube.com##.video-block-happy
 watchporn4k.com,mdhstream.cc,fucking-tube.com##.happy-section
 ||hotlinkie.com^*index.php$third-party
@@ -21531,6 +21529,8 @@ adultlingeriepics.com,adultlingeriepics.com,adultspankingtgp.com,allfeetporn.com
 !
 !
 !
+!+ NOT_OPTIMIZED
+bananamovies.org,watchporn4k.com###video-overlay
 !+ NOT_OPTIMIZED
 mobdisc.com##[href^="https://mq.omenpenial.com/"]
 !+ NOT_OPTIMIZED
