@@ -8510,7 +8510,7 @@ account.xiaomi.com##.mi-cookie-banner
 account.xiaomi.com##div[class^="Mui-src-portals-mobile-components-CookieBanner-"]
 nbastore.jp,kitbag.com##.cookie-consent-container-v2
 it-szkola.edu.pl##.md-cookie-blocker
-dalmatinskiportal.hr##.accept-cookies-modal
+vrsmash.com,dalmatinskiportal.hr##.accept-cookies-modal
 truphone.com#$#body { overflow: auto !important; padding-right: 0 !important; }
 truphone.com#$#div[aria-describedby="cookie-modal"] { display: none !important; }
 truphone.com#$#div[class^="jss"][style*="filter"] { filter: none !important; }
