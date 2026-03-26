@@ -1252,6 +1252,14 @@ youporn.com$$script:contains(/window\.[\s\S]*?_zone_[\s\S]*?{"zone_id":/)
 !
 ! NOTE: Regular rules
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/227823
+claimcoin.in#%#//scriptlet('prevent-element-src-loading', 'script', 'static.surfe.pro')
+claimcoin.in#%#//scriptlet('prevent-fetch', 'adoto.net')
+claimcoin.in#%#//scriptlet('prevent-xhr', 'adoto.net')
+!#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb)
+@@||static.surfe.pro/js/net.js$domain=claimcoin.in
+@@||adoto.net/dashboard/display/items.php$domain=claimcoin.in
+!#endif
 ! https://github.com/AdguardTeam/AdguardFilters/issues/227494
 vidsonic.net#%#//scriptlet('prevent-xhr', 'adsbygoogle')
 vidsonic.net#%#//scriptlet('prevent-fetch', 'adsbygoogle')
