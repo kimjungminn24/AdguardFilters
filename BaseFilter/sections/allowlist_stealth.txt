@@ -25,6 +25,9 @@
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/227879
+@@||volces.com/*^upload$stealth=3p-cache
+@@||volces.com/*^upload$stealth=3p-auth
 ! https://github.com/AdguardTeam/AdguardFilters/issues/227848
 @@||api-gtm.grubhub.com^$stealth=3p-auth,domain=seamless.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/227798
