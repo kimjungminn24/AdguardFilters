@@ -923,6 +923,10 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+porndig.com###co_sponsor
+porndig.com##.dt_porndig
+porndig.com#?#.main_menu > li.main_menu_item:has(> span.obfs > span.main_menu_txt:contains(/Local MILFs|AI Jerkoff/i))
+porndig.com#%#//scriptlet('set-constant', 'tkn_common.promo_tool', 'emptyObj')
 leakslove.com##.header-ad-all
 leakslove.com##a[href^="https://candyai.gg/"]
 leakslove.com##.footer-ad-all
