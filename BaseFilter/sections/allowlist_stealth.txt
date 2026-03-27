@@ -25,6 +25,8 @@
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/227881
+@@||lensfrontend-pa.clients6.google.*/v*/crupload$stealth=referrer
 ! https://github.com/AdguardTeam/AdguardFilters/issues/227884
 @@||live-video.net^$stealth=3p-auth
 ! https://github.com/AdguardTeam/AdguardFilters/issues/227879
