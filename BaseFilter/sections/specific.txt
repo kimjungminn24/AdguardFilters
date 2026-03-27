@@ -924,6 +924,9 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+sulasok.uno#%#//scriptlet('remove-node-text', 'script', 'lastRunKey')
+sulasokvids.net##.col-md-8 > div[style]:has(> p > a[href="https://Xpinay.tv"])
+sulasok.uno,sulasokvids.net##a[href="https://otits.tv/"]
 amigosporn.com##.pm-banner
 cypnow.co.uk##.row-padding:has(+ div[id^="div-gpt-ad"])
 porndig.com###co_sponsor
