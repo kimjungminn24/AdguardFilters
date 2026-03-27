@@ -85,6 +85,7 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 !
 ||aviasales.*-analytics.
 ||aviasales.*/analytics_pv.
+||aviasales.*/sentry-replay.
 ||us-central1-terrific-live.cloudfunctions.net/userEvents|
 ||openpanel.velarium.cc/api/track|
 ||mk-log.makeshop.co.kr/static/js/analytics.min.js
