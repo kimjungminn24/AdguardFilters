@@ -923,6 +923,7 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+||xyz^$third-party,xmlhttprequest,domain=usescarlet.com
 youperv.com##li.catmen2:has(> a[href^="https://theporndude.com/"])
 ||youperv.com/*.php|$script,~third-party
 freeonestube.com##.row > div.video-block-wrapper ~ div.order-0
