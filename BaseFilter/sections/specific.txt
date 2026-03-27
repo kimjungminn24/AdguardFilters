@@ -923,6 +923,7 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+amigosporn.com##.pm-banner
 cypnow.co.uk##.row-padding:has(+ div[id^="div-gpt-ad"])
 porndig.com###co_sponsor
 porndig.com##.dt_porndig
@@ -1418,7 +1419,7 @@ zeenews.india.com#$##read_button { display: none !important; }
 hexload.com##a[href*="?key="]
 krakenfiles.com#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'history.go')
 krakenfiles.com##.myardbox
-sport.seekplays.com,streamporn.nl,upns.online,player4me.*,seekplayer.vip,speedporn.net,pornwatch.ws,rpmplay.online,pandamovies.*#%#//scriptlet('prevent-window-open')
+upns.live,sport.seekplays.com,streamporn.nl,upns.online,player4me.*,seekplayer.vip,speedporn.net,pornwatch.ws,rpmplay.online,pandamovies.*#%#//scriptlet('prevent-window-open')
 embedseek.online#%#//scriptlet('prevent-addEventListener', 'click', 'popunder')
 pandamovies.org##a[href^="https://freepopnews.skin/"]
 ||connatix.com/rtb/
