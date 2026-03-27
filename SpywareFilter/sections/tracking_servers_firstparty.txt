@@ -28,6 +28,10 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||spm.gmarket.co.kr^
+||atsssl.gmarket.co.kr^
+||utsssl.gmarket.co.kr^
+||ats.gmarket.co.kr
 ||weblog.eseoul.go.kr^
 ||qa-track.ssg.com^
 ||track.ssg.com^
