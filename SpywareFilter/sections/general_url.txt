@@ -24,6 +24,7 @@
 !+ NOT_OPTIMIZED
 /.well-known/private-click-measurement
 !
+/nelio-ab-testing/assets/dist/js/visitor-type.js
 /elastic-apm-rum.umd.min.js
 /sftouch?branchId=
 /digibox.gif?c=$image
