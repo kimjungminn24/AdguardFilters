@@ -923,6 +923,8 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+freeonestube.com##.row > div.video-block-wrapper ~ div.order-0
+freeonestube.com##.tracking-url
 asiaxbit.com##.happy-under-player-mobile
 freeconvert.com##.ad-sticky-wrapper:not(#style_important)
 ||xcafe.com/js/script_new.js
@@ -18474,7 +18476,7 @@ coub.com##.viewer__ads
 androidcentral.com,windowscentral.com##.visor-breaker-ad
 vancouversun.com##.vjs-loading-spinner
 newshub.co.nz##.vjs-onceux-ad-container
-bravotube.net,bravoteens.com,pornoaffe.com,hd-pornos.net##.vjs-overlay
+freeonestube.com,bravotube.net,bravoteens.com,pornoaffe.com,hd-pornos.net##.vjs-overlay
 gamespot.com##.vjs-overlay-onceux-countdown-text
 newshub.co.nz##.vjs-overlay.vjs-overlay-onceux-countdown
 heraldsun.com.au,dailytelegraph.com.au##.w_ad
