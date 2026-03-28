@@ -924,6 +924,8 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+cloudfam.io#%#//scriptlet('abort-on-stack-trace', 'document.createElement', 'openAdWithFallback')
+cloudfam.io#%#//scriptlet('prevent-eval-if', 'l.parentNode.insertBefore(s')
 ||fapnado.com/ads/$media
 fapnado.com##.fluid_html_on_pause_container
 fapnado.com##div[style="height: 400px; width: 1240px; margin: 0 auto; text-align: center;"]
