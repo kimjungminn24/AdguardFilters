@@ -924,6 +924,8 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+uploadg.com##div.backdrop-blur-sm > div.relative > div.flex.rounded-xl
+uploadg.com##.ad-host
 cloudfam.io#%#//scriptlet('abort-on-stack-trace', 'document.createElement', 'openAdWithFallback')
 cloudfam.io#%#//scriptlet('prevent-eval-if', 'l.parentNode.insertBefore(s')
 ||fapnado.com/ads/$media
