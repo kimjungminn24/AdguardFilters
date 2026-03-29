@@ -924,6 +924,9 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+hotcleaner.com##figure[regularization]
+hotcleaner.com##div[caching]
+hotcleaner.com##div:empty
 psa.wf##a[href^="https://fileserve.com/"]
 uploadg.com##div.backdrop-blur-sm > div.relative > div.flex.rounded-xl
 uploadg.com##.ad-host
