@@ -18,6 +18,7 @@ rxgo.com,alfastrah.ru,turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepe
 !
 !
 !
+super.com##.AtlasPromoBanner-root
 finuslugi.ru###headerMobileBanner
 bikemap.net##div[class^="app-qr-code-module"]
 xn--90aijkdmaud0d.xn--p1ai##.application-link
