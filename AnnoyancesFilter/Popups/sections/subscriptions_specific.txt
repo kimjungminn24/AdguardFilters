@@ -57,6 +57,7 @@ gaugau.futabanet.jp,newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,n
 !
 ! SECTION: Subscriptions - Regular rules
 !
+tr.tommy.com#%#//scriptlet('set-cookie', 'timer_ok', 'ok')
 xda-developers.com##.w-google-addus-btn
 libertycity.net,libertycity.ru#$#.soc_fullscr[data-umami="TG"] { display: none !important; }
 libertycity.net,libertycity.ru#$#body { overflow: auto !important; }
