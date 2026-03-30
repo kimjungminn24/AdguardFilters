@@ -167,6 +167,7 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||api.event.appstack.tech^
 ||detailroi.com^
 ||detaillog-global-dual.coolgcloud.com^
 ||logapi.bodyevey.com^
