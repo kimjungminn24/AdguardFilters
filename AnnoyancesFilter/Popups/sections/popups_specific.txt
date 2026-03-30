@@ -43,6 +43,8 @@ sport-express.ru,pikabu.ru##iframe[src^="https://autofill.yandex.ru/suggest?"]
 !
 ! SECTION: Popups - Regular rules
 !
+levelblue.com#$##hs-web-interactives-top-anchor { display: none !important; }
+levelblue.com#$#body { overflow: auto !important; }
 xtusubs.com##.tador
 xtusubs.com##.poemts
 locipo.jp#%#//scriptlet('set-cookie', 'is_user_attribute_questionnaire_answered', '1')
