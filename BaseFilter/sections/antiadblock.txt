@@ -3456,8 +3456,8 @@ live.golato.io#@#.ad-placeholder:not(#filter_ads_by_classname):not(#detect_ad_em
 ! https://github.com/AdguardTeam/AdguardFilters/issues/225109
 ! https://github.com/AdguardTeam/AdguardFilters/issues/202352
 ! https://github.com/AdguardTeam/AdguardFilters/issues/181517
-@@||codicibancari.it/javascripts/ads/banner/*.js$domain=decompiler.com
-decompiler.com#%#//scriptlet('abort-current-inline-script', 'document.createElement', 'alert')
+@@||codicibancari.it/*script*/*.js$domain=decompiler.com
+decompiler.com#%#//scriptlet('abort-current-inline-script', 'document.createElement', '/disabled-link[\s\S]*?advertisement/')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/180134
 ! shrtfly
 airevue.net,veroan.com,amalot.net,carribo.net,stfly.biz,stfly.cc,bookbucketlyst.com#%#//scriptlet('abort-on-property-read', 'abwn')
