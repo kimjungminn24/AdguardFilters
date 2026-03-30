@@ -924,6 +924,7 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+liteapks.com###ad-unit-1
 uiil.ink#%#//scriptlet('remove-attr', 'onclick', 'button[onclick^="window.open("]')
 ||crcdn.org^$image,domain=uiil.ink
 uiil.ink##div[style="height:50px; text-align:center;"]
