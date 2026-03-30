@@ -18,6 +18,7 @@ rxgo.com,alfastrah.ru,turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepe
 !
 !
 !
+binance.tr##.has-tip.home-m-download
 zarahome.com#%#//scriptlet('set-local-storage-item', 'native-app', 'true')
 super.com##.AtlasPromoBanner-root
 finuslugi.ru###headerMobileBanner
