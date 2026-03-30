@@ -3108,8 +3108,8 @@ gulte.com###main-content > a[target="_blank"] > img
 abtranny.com##div[style*="width:"][style*="height"]:not([class], [id]):has(> .ad__title)
 erosxsun.xyz,westmanga.me###teaserbottom
 ||strbh.com/wbstm.js
-4kporn.xxx$$script:contains(initPopunder)
-4kporn.xxx#%#//scriptlet('remove-node-text', 'script', 'initPopunder')
+crazyporn.xxx,4kporn.xxx$$script:contains(initPopunder)
+crazyporn.xxx,4kporn.xxx#%#//scriptlet('remove-node-text', 'script', 'initPopunder')
 fetishshrine.com##.container-side > div[id^="next-tv"]
 fetishshrine.com##.player-inner > div:is(#pre-items, #end-play)
 fetishshrine.com##.thumbs-list > .container-side:has(> #main-aside-placeholder)
