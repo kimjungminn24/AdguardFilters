@@ -924,6 +924,7 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+pcguide.com##.code-block:has(a[href*="-ad-inserter-"])
 hornyleak.tv,hdplayer.gives#%#//scriptlet('prevent-addEventListener', '', 'showPopup')
 hornyleak.tv,hdplayer.gives#%#//scriptlet('prevent-window-open')
 hornyleak.tv,hdplayer.gives##div[button="custom-ad-btn"]
