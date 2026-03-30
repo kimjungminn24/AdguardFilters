@@ -924,6 +924,9 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+porn4fans.com###spot_player_start
+porn4fans.com##a.ID_live_cam_inner
+porn4fans.com##.desc-animated-banner3-wrap
 hdporncomics.com##div[data-ad-injected]
 hdporncomics.com###menu-menu > li.menu-item:has(> a[href][target="_blank"][rel="nofollow noopener sponsored"])
 modporn.com#%#//scriptlet("trusted-replace-node-text", "script", "getEmbed", "/adv_pre_src: \'https:\/\/modporn\.com.*mp4/", "adv_pre_src: '")
