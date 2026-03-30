@@ -1416,6 +1416,7 @@ mob.hr##.side_banner
 !
 ! NOTE: Czech and Slovakian
 !
+cas.sk##div[class^="withBlankSpaceReklamnyBox_"]
 novinky.cz##.ogm-branding-advert + div:has(> div > div > .js-ad)
 ||cdn.telekomunikace.cz/banners
 telekomunikace.cz##section[data-static-section="head-banners"]
