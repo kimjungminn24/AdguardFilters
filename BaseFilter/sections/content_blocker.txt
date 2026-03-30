@@ -282,7 +282,6 @@ cdn.braun634.com^$third-party
 @@||afasiaarchzine.com^$generichide
 @@||f1countdown.com^$generichide
 @@||famfonts.com^$generichide
-@@||novelasligera.com^$generichide
 @@||jpopsingles.eu^$generichide
 @@||getpczone.com^$generichide
 @@||myviptuto.com^$generichide
