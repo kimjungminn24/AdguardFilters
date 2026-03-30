@@ -167,6 +167,8 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||detaillog-global-dual.coolgcloud.com^
+||logapi.bodyevey.com^
 ||ingest.skarb.work^
 ||sensor.photogrid.app^
 ||sensor.aqhg.online^
