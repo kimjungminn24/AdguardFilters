@@ -133,6 +133,7 @@ $popup,third-party,domain=dood.ws,badfilter
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228104
 !#if (adguard_app_ios || adguard_ext_safari)
+@@://yandex.com/adv/$~third-party
 @@||ads.yandex.com^$~third-party
 @@||adv.yandex.com^$~third-party
 @@||adv.yandex.ru^$~third-party
