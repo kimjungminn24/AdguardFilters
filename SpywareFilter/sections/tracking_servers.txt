@@ -69,6 +69,7 @@
 !
 !
 !
+||analytics.kelasmalam.net^
 ||metrics.rapidedge.io^
 ||alpha-collector-statistics.nhn-commerce.com^
 ||plausible.vidsonic.net^
