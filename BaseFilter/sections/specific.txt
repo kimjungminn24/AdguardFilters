@@ -924,6 +924,7 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+||cineby.sc/scripts/gk.js
 ||go.inxxx.cam^$xmlhttprequest,domain=inxxx.com
 inxxx.com##.fh-wrapper:has(> .fh-item > a[href^="/fh-out/"] > div.fh-ad-label)
 inxxx.com##div.inxxx-desktop-spot
