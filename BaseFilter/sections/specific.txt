@@ -925,7 +925,6 @@ techarmor.xyz##.my-ad-container
 ! NOTE: Specific rules
 !
 ||static.goplay.su^$script
-goplay.su#%#//scriptlet('json-prune', 'uuid_url rot_url pop_type')
 ||cineby.sc/scripts/gk.js
 ||go.inxxx.cam^$xmlhttprequest,domain=inxxx.com
 inxxx.com##.fh-wrapper:has(> .fh-item > a[href^="/fh-out/"] > div.fh-ad-label)
