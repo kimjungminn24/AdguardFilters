@@ -526,7 +526,6 @@ cdn.braun634.com^$third-party
 @@||nerdmaldito.com^$generichide
 @@||programasvirtualespc.net^$generichide
 @@||sobootlogo.blogspot.com^$generichide
-@@||somosbinarios.es^$generichide
 @@||tibiabr.com^$generichide
 @@||tunovelaligera.com^$generichide
 @@||turiver.com^$generichide
