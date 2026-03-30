@@ -115,7 +115,6 @@ haberler.com#$#.new3imsakiye-right-body { color: #000000 !important; }
 mynet.com##.ramazan-widget > div.col-logo
 mynet.com##.ramazan-widget > div.col-slogan
 ||onedio.com/images/tavuk-dunyasi-logo.png
-diziwatch.to#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'initPop')
 bloomberght.com##.paycell
 r10.net##.rPanel:has(> div[class] > a[href^="https://www.r10.net/hosting-sirketleri"] > img)
 cimri.com##div[class^="OfferCard_offerCard"]:contains(Reklam)
@@ -296,7 +295,8 @@ ntv.com.tr##.text-center:has(> .dyg-masthead)
 ntv.com.tr##.items-center:has(> .container > .dyg-class)
 doviz.com##.top-ad-container
 ||hataymahallihaber.com/VyPicture/Ads/
-||diziwatch.tv/assets/js/pop.js
+||diziwatch.*/assets/js/pop.js
+diziwatch.*#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'initPop')
 ertv.com.tr##.news-detail > div.mx-auto:has(> div.haber-ici-1_greklam)
 ertv.com.tr##div[class*="greklam"]
 hepsiburada.com##div[class^="sf-Recommendation-"] > div[class^="sf-Recommendation-"]:has(> div[class^="sf-reco-"] > a[href^="https://adservice.hepsiburada.com/"])
