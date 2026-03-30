@@ -25,6 +25,8 @@
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/228102
+@@||twincdn.com/videos/$media,stealth=referrer,domain=pornmike.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228035
 @@||fourhoi.com^$image,stealth=referrer,domain=missav.ws
 @@/video.m3u8$stealth=referrer,domain=missav.ws
