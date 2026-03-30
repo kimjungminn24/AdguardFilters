@@ -924,6 +924,8 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+||porcore.com/plugins/nads/
+porcore.com##.videoitems > div.onevideothumb:has(> a[href][data-id="-1"])
 ||cdn.myhentaicomics.com/assets/Frames/banner
 myhentaigallery.com##.comics-grid > li.item.image-block
 myhentaigallery.com##.outstrea
