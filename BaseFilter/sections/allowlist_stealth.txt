@@ -25,6 +25,9 @@
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/228086
+@@||setplay.shop/player/$subdocument,stealth=referrer,domain=hdfilmcehennemi.now
+@@||papagan.shop^$xmlhttprequest,stealth=referrer,domain=setplay.shop
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228102
 @@||twincdn.com/videos/$media,stealth=referrer,domain=pornmike.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228035
