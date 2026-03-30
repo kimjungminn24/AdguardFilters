@@ -18,6 +18,7 @@ rxgo.com,alfastrah.ru,turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepe
 !
 !
 !
+myhentaigallery.com##center:has(> a[href="/page/17"])
 us.trip.com##.booking-linkindexZvyz
 m.supplementler.com###NativeAppBannerArea
 binance.com##.DownloadBarMobile

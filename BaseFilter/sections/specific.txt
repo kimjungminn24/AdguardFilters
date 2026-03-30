@@ -924,6 +924,13 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+||cdn.myhentaicomics.com/assets/Frames/banner
+myhentaigallery.com##.comics-grid > li.item.image-block
+myhentaigallery.com##.outstrea
+myhentaigallery.com##a[href^="https://candyai.gg/"]
+myhentaigallery.com##center:has(> div.gallery2-container)
+myhentaigallery.com#$#.featured-comic { min-height: auto !important; }
+myhentaigallery.com#$#.pagination-image { min-height: auto !important; }
 pornoflix.com###onPauseAdContainer
 porn4fans.com###spot_player_start
 porn4fans.com##a.ID_live_cam_inner
