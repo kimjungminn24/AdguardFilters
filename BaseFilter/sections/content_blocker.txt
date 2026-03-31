@@ -1674,11 +1674,6 @@ yusepjaelani.blogspot.com#@##adcontent
 @@||googletagservices.com/tag/js/gpt.js
 ! basicweb.ru - antiadblock notice
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=basicweb.ru
-! https://github.com/AdguardTeam/AdguardFilters/issues/43790
-@@||static.criteo.net/js/px.js^$domain=techobest.com
-@@||cas.criteo.com/delivery/ajs.php^$domain=techobest.com
-@@||techobest.com^$generichide
-techobest.com##.adsbygoogle
 ! https://github.com/AdguardTeam/AdguardFilters/issues/44066
 @@||rcsobjects.it/rcs_data-tracking/v*/distro/openx/gazzetta/openx_async.js$domain=gazzetta.it
 ! https://github.com/AdguardTeam/AdguardFilters/issues/44070

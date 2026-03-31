@@ -1884,8 +1884,6 @@ techinferno.com##.ipsModal
 techinferno.com##div[aria-label^="AdBlock Detected!"]
 techinferno.com#$#body { overflow: visible !important; }
 technews.tw##.AD_wrapper
-techobest.com#%#//scriptlet("abort-current-inline-script", "document.getElementById", "adback")
-techobest.com$$script[tag-content="adback_configuration"][min-length="100000"][max-length="360000"]
 techonthenet.com##.adsblocked
 techsolutiontips.com#%#window.google_jobrunner = function() { };
 techtobo.com##.notices--block
