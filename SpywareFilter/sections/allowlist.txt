@@ -18,6 +18,8 @@
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/228173
+@@||alicdn.com/alilog/mlog/aplus_v2.js$domain=qianwen.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/227924
 @@||edge.adobedc.net/ee/$xmlhttprequest,domain=vivo.com.br
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228000
