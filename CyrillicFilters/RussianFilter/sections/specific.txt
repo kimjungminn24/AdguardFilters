@@ -123,7 +123,7 @@ snob.ru##.in-content_ad
 cq.ru##.game-single__steam
 ngnovoros.ru##.contentCentralBanner
 joyreactor.com##a[href^="https://candyai.gg/"]
-||tourister.ru/query|$xmlhttprequest
+||tourister.ru/query|
 ||tourister.ru/*^adsense=
 ||tourister.ru/js/banners/
 ||tourister.ru/js/buster.js
