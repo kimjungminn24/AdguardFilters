@@ -11674,9 +11674,6 @@ alemdarleech.com###koddostu-com-adblocker-engelleme
 ! https://github.com/AdguardTeam/AdguardFilters/issues/6842
 !+ PLATFORM(ios, ext_android_cb, ext_ublock)
 @@||journaldev.com^$generichide
-! https://github.com/AdguardTeam/AdguardFilters/issues/6841
-@@||hackingwithphp.com/js/adsbygoogle.js
-hackingwithphp.com#%#window.areAdsDisplayed = true;
 ! https://github.com/AdguardTeam/AdguardFilters/issues/6783
 ! https://github.com/AdguardTeam/AdguardFilters/issues/7402
 @@||anonymousemail.me/*.js$~third-party
