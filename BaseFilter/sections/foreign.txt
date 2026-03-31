@@ -2988,6 +2988,7 @@ autopapa.ge##.top-rek
 !
 ! NOTE: Greek
 !
+lexigram.gr###divAdOthers
 caroto.gr##.stream-item
 caroto.gr##.theiaStickySidebar > div.container-wrapper:has(> div[class] ins.dcmads)
 caroto.gr##.theiaStickySidebar > div.container-wrapper:has(> div ins.adsbygoogle)
