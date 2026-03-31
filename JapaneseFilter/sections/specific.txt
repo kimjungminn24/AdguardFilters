@@ -326,6 +326,7 @@ sun-tv.co.jp##.m-postList_itemAds
 sun-tv.co.jp##.-ad
 eropuru.com##.element_ad_box
 ||reuters.com/pf/resources/dist/reuters-japan/js/index.js
+mamastar.jp##.c-card-ad
 mamastar.jp##.c-list-comment__li.is-content
 phileweb.com###fourm_video_pc
 hrs-game.main.jp##div[class^="ads_"]
