@@ -167,6 +167,9 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||telemetry.split.io^
+||events.split.io^
+||prod-ue1-metrics.hingeprod.net^
 ||api.event.appstack.tech^
 ||detailroi.com^
 ||detaillog-global-dual.coolgcloud.com^
