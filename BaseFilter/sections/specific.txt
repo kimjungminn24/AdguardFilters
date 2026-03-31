@@ -924,6 +924,9 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+sunporno.com##a[href="/to/tiktok-porn/"]
+sunporno.com##a[href="/to/live-sex/"]
+sunporno.com##iframe[src="/api/cams/get-spot-js-full-content/"]
 carmag.co.za##div[id^="ap-popup"]
 ||sarugbymag.co.za^$domain=carmag.co.za
 uindex.org##body > [class][style]:has(> a:is([href="https://MyBunny.TV"], [href="https://torrenting.com"], [href="https://scenetime.com"]))
@@ -934,7 +937,7 @@ livemint.com##.desktopAdWrap
 ||static.goplay.su^$script
 ||cineby.sc/scripts/gk.js
 ||go.inxxx.cam^$xmlhttprequest,domain=inxxx.com
-inxxx.com##.fh-wrapper:has(> .fh-item > a[href^="/fh-out/"] > div.fh-ad-label)
+sunporno.com,inxxx.com##.fh-wrapper:has(> .fh-item > a[href^="/fh-out/"] > div.fh-ad-label)
 inxxx.com##div.inxxx-desktop-spot
 inxxx.com##div.headline:has(a[href="/to/show-more-cams/"])
 pornmike.com##aside.module:has(> .container > .position-relative > .video-grid a[href^="https://go.mavrtracktor.com/"])
@@ -1432,8 +1435,8 @@ rootz.so#%#//scriptlet('prevent-window-open')
 forums.sailinganarchy.com##div[data-widget-key="postcast_sponsors"]
 xhand.net##a[href^="https://tsyndicate.com"]
 bemyhole.com#%#//scriptlet('remove-node-text', 'script', 'egoTab')
-inxxx.com,bemyhole.com##.cams-button
-bemyhole.com##.dropdown > .upd-source
+sunporno.com,inxxx.com,bemyhole.com##.cams-button
+sunporno.com,bemyhole.com##.dropdown > .upd-source
 pornwhite.com##.player-inner > div:is(#pre-items, #end-play)
 pornwhite.com##.container-side > .item:has(> ins[data-zoneid])
 pornwhite.com##.bottom-container:has(> div#bottom-banner1 > ins)
@@ -3094,10 +3097,10 @@ athomedaily.com,atworkdaily.com##.ad-backing
 shemalesin.com##.pignu:has(span.is-av)
 24xxx.porn###under-player-promo
 ||bemyhole.cam^$domain=bemyhole.com
-bemyhole.com##.tah-desktop-spot
+sunporno.com,bemyhole.com##.tah-desktop-spot
 bemyhole.com###live-spots
 bemyhole.com##.main-cams
-bemyhole.com##.headline:has(> a[href="/to/show-more-cams/"])
+sunporno.com,bemyhole.com##.headline:has(> a[href="/to/show-more-cams/"])
 bemyhole.com###videoslist > div[style="width: 100%; display: block; margin-top: -17px; padding: 0 2px; font-size: 8px; text-align: right;"]
 shemale6.com##.twocolumns > div.column:has(> div.video-player) + div.second
 alternativeto.net##div[class*="min-w-ad-"]
