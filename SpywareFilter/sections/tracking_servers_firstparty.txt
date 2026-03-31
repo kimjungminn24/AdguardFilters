@@ -28,6 +28,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||c.qiandao.cn^
 ||logs.tourister.ru^
 ||wa.wawlabs.com^
 ||dsas-t.danawa.com^
