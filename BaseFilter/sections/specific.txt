@@ -924,6 +924,7 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+technologymagazine.com##div[data-isadrow]
 livemint.com##.desktopAdWrap
 ||static.goplay.su^$script
 ||cineby.sc/scripts/gk.js
