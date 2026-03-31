@@ -12250,8 +12250,6 @@ mocospace.com#@#.dfp_ad
 @@||maxcheaters.com^$generichide
 ! https://forum.adguard.com/index.php?threads/10133/
 @@||receivesmsonline.net/ads.js
-! https://forum.adguard.com/index.php?threads/10087/
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js^$domain=blackbird.zoomin.tv
 ! https://github.com/AdguardTeam/ExperimentalFilter/issues/2039
 @@||b.scorecardresearch.com/b$domain=cravetv.ca
 @@||platform.twitter.com/oct.js$domain=cravetv.ca
