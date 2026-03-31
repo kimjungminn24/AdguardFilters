@@ -57,6 +57,7 @@ gaugau.futabanet.jp,newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,n
 !
 ! SECTION: Subscriptions - Regular rules
 !
+meteovesti.ru##main section.d-block .right-line:has(> a.telegram-link)
 techregister.co.uk##.spc-social-block
 bankiros.ru##.xxx-news-banks a[href="https://t.me/bankirosru"]
 bankiros.ru##.xxx-main-subscribe

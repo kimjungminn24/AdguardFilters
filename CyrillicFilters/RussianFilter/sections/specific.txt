@@ -14,6 +14,9 @@ gorod24.online,vedomosti.ru,kommersant.ru,rg.ru,glavbukh.ru,chehov-vid.ru,161.ru
 !
 !
 !
+meteovesti.ru#?#main > div > div > section.d-block[data-fetch-key]:contains(Реклама)
+meteovesti.ru##main > section:not([class]):has(> .container > div[data-fetch-key] > .mx-auto > div[id^="adfox_"])
+meteovesti.ru###adv-slot
 bankiros.ru##span[data-esim-partner-block]
 bankiros.ru##div[data-params*="bank-currency-banner"]
 ofd.beeline.ru##a[href^="https://ofd.beeline.ru/fl3-"]
