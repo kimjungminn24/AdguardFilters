@@ -2595,7 +2595,7 @@ flyairjapan.com#%#//scriptlet('trusted-set-local-storage-item', 'cookie_policy',
 careers.usbank.com#%#//scriptlet('trusted-set-cookie', 'PHPPPE_GCC', 'd')
 wordmark.it#%#//scriptlet('set-local-storage-item', 'cookie_notice', 'true')
 brandcrowd.com,design.com#%#//scriptlet('trusted-set-cookie-reload', 'brandcrowd-cookie-consent', '%7B%22advertisingStorage%22%3Afalse%2C%22analyticsStorage%22%3Afalse%2C%22advertisingUserData%22%3Afalse%2C%22advertisingPersonalization%22%3Afalse%7D')
-store.drivereasy.com###cookie-management
+lodestarjapan.com,store.drivereasy.com###cookie-management
 freenet.de#%#//scriptlet('remove-class', 'fn-sp', 'body.fn-sp')
 fastwebvodafone.it##iframe.ck_if
 ||fastwebvodafone.it/cookie-center/
