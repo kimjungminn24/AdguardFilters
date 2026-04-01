@@ -167,6 +167,7 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||fpconfig.net^
 ||ingest.databuckets.com^
 ||report.tantanapp.com^
 ||pco-sm-log.tantanapp.com^
