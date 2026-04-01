@@ -924,6 +924,11 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+fapello.com##.feedorig
+fapello.com##a[href^="http://camsoda.ai/"]
+fapello.com##.simplebar-content > ul > li:has(> a[href^="https://www.camsoda.com/"])
+fapello.com##.simplebar-content > ul > li:has(> a[href^="https://www.camsoda.com/"]) + li
+fapello.com##.right-side > a[href][target="_blank"]
 ||cdn.hotscope.tv/assets/ai/video-
 hotscope.tv##a[href^="https://www.ourdreamersai.com/"]
 hotscope.tv##main > div.grid + div.mt-1
@@ -15835,7 +15840,7 @@ lifehacker.com##.splashy-ad-container
 ||hqq.tv/js/betterj/ban^
 ||vg247.com/wp-content/themes/vg247/scripts/mvg247-fsm.js
 lifehacker.com##.ad-non-sticky
-japan-whores.com,redfans.org,ryuugames.com,biqle.org,shemaleporn.xxx##a[href^="https://theporndude.com/"]
+fapello.com,japan-whores.com,redfans.org,ryuugames.com,biqle.org,shemaleporn.xxx##a[href^="https://theporndude.com/"]
 shemaleporn.xxx##.content-inner-col > .aside-itempage-col small
 jizz.us,shemaleporn.xxx##.aff-content-col
 ||tubedupe.com/td_fl.js
