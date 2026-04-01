@@ -167,6 +167,7 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||aqueduct-collector-prod.alar.my^
 ||mp-gb-sdklog.kurogames.net^
 -datareceiver.aki-game.net^
 ||telemetry.split.io^
