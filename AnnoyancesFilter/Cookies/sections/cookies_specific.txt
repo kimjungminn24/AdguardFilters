@@ -354,6 +354,7 @@ ra-hoernschemeyer.de,tuhlteim-pedia.de,entwickler.de,lockbarber-supplies.de,raz-
 !
 ! NOTE: Regular rules
 !
+darzdrowia.pl#%#//scriptlet('set-cookie-reload', 'cookies', '1')
 lekizczech.pl#%#//scriptlet('trusted-set-cookie-reload', 'cookiesSettings', '{"necessary":true}')
 benefits.me#$#body.modal-open { overflow: auto !important; }
 benefits.me#$##modal_privacy ~ .modal-backdrop { display: none !important; }
