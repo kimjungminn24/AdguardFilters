@@ -924,6 +924,7 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+decrypt.co##div.post-content > p.tracking-px:empty
 swiftuploads.com#$#.custom-download-button, .custom-download-section, #customDownloadBtn { display: none !important; }
 swiftuploads.com#$#.download-type.original-button, #down_2Form, #originalDownloadBtn { display: block !important; }
 swiftuploads.com#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'decodeURIComponent')

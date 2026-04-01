@@ -69,6 +69,7 @@
 !
 !
 !
+||spindl.link^
 ||tpwdg.com^$script
 ||monitoragc.xyz^
 ||analytics.kelasmalam.net^
