@@ -924,6 +924,10 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+swiftuploads.com#$#.custom-download-button, .custom-download-section, #customDownloadBtn { display: none !important; }
+swiftuploads.com#$#.download-type.original-button, #down_2Form, #originalDownloadBtn { display: block !important; }
+swiftuploads.com#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'decodeURIComponent')
+swiftuploads.com#%#//scriptlet('prevent-addEventListener', 'click', 'document.body.appendChild')
 sunporno.com##a[href="/to/tiktok-porn/"]
 sunporno.com##a[href="/to/live-sex/"]
 sunporno.com##iframe[src="/api/cams/get-spot-js-full-content/"]
