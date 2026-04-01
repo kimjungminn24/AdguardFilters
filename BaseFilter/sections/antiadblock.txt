@@ -1253,6 +1253,10 @@ youporn.com$$script:contains(/window\.[\s\S]*?_zone_[\s\S]*?{"zone_id":/)
 !
 ! NOTE: Regular rules
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/228206
+||freecads.com/wp-content/themes/freecads/library/js/ads-dist.js
+freecads.com#$##adblocker-modal { display: none !important; }
+freecads.com#$#body { overflow: auto !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228197
 kpopflac.xyz#%#//scriptlet('prevent-element-src-loading', 'script', 'adsbygoogle')
 !+ PLATFORM(ios, ext_android_cb)
