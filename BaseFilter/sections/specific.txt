@@ -924,6 +924,9 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+||pornid.xxx/vager/
+pornid.xxx##iframe[src^="/vager/"]
+||pornid.xxx/grt/dev.js
 decrypt.co##div.post-content > p.tracking-px:empty
 swiftuploads.com#$#.custom-download-button, .custom-download-section, #customDownloadBtn { display: none !important; }
 swiftuploads.com#$#.download-type.original-button, #down_2Form, #originalDownloadBtn { display: block !important; }
