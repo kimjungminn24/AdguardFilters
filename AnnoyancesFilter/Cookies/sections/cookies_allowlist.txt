@@ -12,6 +12,8 @@
 !+ NOT_OPTIMIZED PLATFORM(windows, mac, android, cli)
 ||geolocation.onetrust.com/cookieconsentpub/*/geo/location$xmlhttprequest,redirect-rule=noopjson
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/228312
+elines.coscoshipping.com#@#.cookie-content
 ! https://github.com/uBlockOrigin/uAssets/issues/32368
 applecinemas.com#@##cookie-warning
 applecinemas.com#@#.cookie-popup:not(body):not(html)
