@@ -924,6 +924,14 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+aznude.com##.live-button-wrapper
+aznude.com##.single-video-4x4-ad-container
+aznude.com###exo-native-az-container
+aznude.com###direct-link-desktop
+/?zones=[$domain=aznude.com
+||content-api-*.space/?zones=
+||cdn.aznude.com/js/dating.json
+||cdn.aznude.com/player/v*/vast-no-entitlements.js
 techyorker.com#%#//scriptlet('remove-node-text', 'script', '/initBanner|syncTopFixedBanner/')
 ||static.cdnpure.com/www/static/script/prebid-
 ultrahqporn.com##div[style^="width: 300px; height: 250px;"]
