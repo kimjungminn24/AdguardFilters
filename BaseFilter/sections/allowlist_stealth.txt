@@ -25,6 +25,8 @@
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/228309
+@@||shutterstock.com^$stealth=useragent
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228157
 @@||easy.worldthunder.net^$xmlhttprequest,stealth=referrer,domain=player.videasy.net
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228086
