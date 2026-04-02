@@ -8422,7 +8422,7 @@ cdkeyit.it,allkeyshop.com##body > a[class^="blc-"]
 myrateplan.com##.view-id-top_banner_ad
 videogamegeek.com,boardgamegeek.com##gg-leaderboard-ad
 boardgamegeek.com###dfp-leaderboard-lg
-fakazavibes.com,zamusic.org,javhdo.net,movies.meetdownload.com,123movies.la##a[href^="https://bit.ly/"]
+fakazavibes.com,zamusic.org,javhdo.net,movies.meetdownload.com##a[href^="https://bit.ly/"]
 earnhub.net##center ins
 spankbang.party,spankbang.com##.lv_cm_int_come_on
 hdhub4u.*##button[onclick^="btnaction"][data-url]
@@ -15233,11 +15233,6 @@ dramacool9.io##a[href^="https://bodelen.com/"]
 ||cdn.globwo.online/scripts/nwm-pw.min.js
 torrentdownloads.info##a[href^="https://cybertool.co"]
 torrentdownloads.cc##a[href*="bit.ly"][rel="nofollow"] > img[alt]
-123movies.la##a[href][target="_blank"][class^="adsbut_"]
-123movies.la##.mvi-content > div[class^="mvi"] > a.btn[target="_blank"]
-123movies.la##.content-kub
-123movies.la##a[href^="http://bit.ly/"]
-123movies.la##script + div > div[style^="position:relative;"]
 myjest.com###Ustad_MJ
 myjest.com###Mj_728x90_div
 cam4.com###videoBannerMidrollAdWrapper
@@ -15519,7 +15514,6 @@ pcgamesn.com##.sl_wrap
 pcgamesn.com###pcgn_custom_slots
 pcgamesn.com###pcgnAF-_af
 football.fantasysports.yahoo.com##a[class*="yfa-rapid-module-"][class*="Promo"]
-123movies.la##.content-kusss
 hardocp.com##a[href="https://www.hardocp.com/redirect.php"]
 hardocp.com###content-left > div[style="height:280px; width:336px; margin-left: 10px; clear: both;"]:not([class]):not([id])
 ||images.hardocp.com/images/ASUS-2018-COD-BO4-Website_Skins-HardOCP-v3.jpg
@@ -15721,7 +15715,7 @@ thecambabes.com##.head_ifr
 ||thecambabes.com/images/Banners^
 /t63fd79f7055.js$domain=jesseporn.xyz|kendralist.com|erotichdworld.com|freyalist.com|doseofporn.com|guruofporn.com|steezylist.com|moozporn.com|sharkyporn.com|lizardporn.com
 sexysluts.tv##body > .wrapper ~ div[style*="z-index: 9999999;"]
-watchseries.*,123movies.la##.bottom-bnr
+watchseries.*##.bottom-bnr
 pornboss.org##a[href^="https://bullads.net/"]
 pornboss.org###secondary > .widget_execphp
 pornboss.org###menu-menue-1 > li > a[href^="http://toplist.raidrush.ws/"]
