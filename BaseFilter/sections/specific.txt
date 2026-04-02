@@ -924,6 +924,7 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+chatgpt.com##div[class]:has(> div.flex > button[aria-label="Ad options"])
 send.vis.ee##send-intro .w-full.mb-2.text-orange-60
 aznude.com##.live-button-wrapper
 aznude.com##.single-video-4x4-ad-container
