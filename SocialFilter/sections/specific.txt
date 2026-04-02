@@ -85,6 +85,7 @@ cogconnected.com,echofm.online,antirez.com,comicbook.com,alexp.pl,2ality.com,sma
 !
 ! NOTE: Specific rules
 !
+kinoreporter.ru##.post__social-links
 volkskrant.nl##div[class]:has(> button[title="Delen via Facebook"])
 open.online##.container-meta-social
 vdata.nikkei.com###twitterShareBtn
