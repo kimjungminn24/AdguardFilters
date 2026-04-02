@@ -924,6 +924,7 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+c.newsnow.com#%#//scriptlet('trusted-click-element', '.clickthrough-promo-box ~ a.continue-button')
 scrolller.com##div[aria-label="live-models"]
 scrolller.com##div[class^="index-module"][class$="container"] > button[class^="index-module"][class$="wrapper"]:has(> div[class$="imageContainer"] > div[class$="liveCircle"])
 scrolller.com#$?#div[class^="index-module"][class$="galleryItemHandler"]:has(> div[class$="iframeAdContainer"]) { remove: true; }
