@@ -924,6 +924,7 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+linkvertise.com#%#//scriptlet('json-prune', 'data.startTask.ads.* data.getContent.tasks.*.ads.*')
 xfeed.com##a[href^="https://www.ourdreamersai.com/"]
 xfeed.com##.prm-wrapper
 xfeed.com##.spons
