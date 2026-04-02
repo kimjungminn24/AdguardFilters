@@ -25,6 +25,8 @@
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/228278
+@@||iframe.coomeet.me^$stealth=webrtc
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228309
 @@||shutterstock.com^$stealth=useragent
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228157
