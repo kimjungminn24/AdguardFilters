@@ -227,6 +227,7 @@
 ! Clickunders in the players on porn sites
 /assets/jquery/api.js?type=adult$~third-party
 /assets/jquery/api.js?type=mainstream$~third-party
+/assets/jquery/static.js?type=mainstream$~third-party
 /assets/jquery/app100.js?type=$~third-party
 /assets/jquery/api100.js?type=$~third-party
 /assets/jquery/adult100.js?v=$~third-party
