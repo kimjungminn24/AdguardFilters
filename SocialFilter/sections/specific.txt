@@ -9217,8 +9217,7 @@ everydayhealth.com##.share-inline
 scienceplus2ch.com,kaku.reader.bz,pixnet.net,flyblog.cc,maxfoodfun.com##.bookmark
 flyblog.cc,maxfoodfun.com##iframe[src*="facebook.com/plugins/"]
 webtekno.com##.content-timeline__detail__social-media
-tv-lida.by,kkphm.com##a[href^="https://t.me/"]
-kkphm.com###share-square
+tv-lida.by##a[href^="https://t.me/"]
 rbc.ru##.quiz__result__social
 mskguru.ru,mynet.az,mperspektiva.ru##.news_share
 philips.ua##.BVRRReviewSocialLinksContainer
