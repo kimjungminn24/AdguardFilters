@@ -928,6 +928,11 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+||pimpbunny.com/static/v*/images/advertise/
+pimpbunny.com##.row > .col:has(> div[class^="ui-card-root"] > a[rel="noopener noreferrer sponsored"])
+pimpbunny.com##div[class^="pages-view-video-wrapper"] > .row > .d-lg-block
+pimpbunny.com##div[class^="includes-header-inner"] > ul
+pimpbunny.com##a[class*="includes-header-cake"]
 wizgenerator.com##.leaderboard-s-height
 linkvertise.com#%#//scriptlet('prevent-element-src-loading', 'script', 'integrate.linkvertise.com/serp-script.js')
 pcgamebenchmark.com##.video:has(> div#nn_player)
