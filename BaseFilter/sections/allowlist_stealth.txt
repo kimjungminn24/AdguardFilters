@@ -23,8 +23,10 @@
 @@||adguard.com^$stealth
 !#########################################
 !
+! NOTE: Specific rules
 !
-!
+! https://github.com/AdguardTeam/AdguardFilters/issues/228422
+@@||xcams.com/chat/$stealth=webrtc
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228013
 @@||crunchyrollcdn.com^$stealth=referrer,domain=crunchyroll.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228278
