@@ -76,7 +76,11 @@ gjirafa.com##div[id^="an-holder-"]
 !
 ! NOTE: Arabian
 !
+! https://github.com/easylist/listear/issues/43
+stardima.com#%#//scriptlet('prevent-addEventListener', 'click', '/redirect.php?')
+! https://github.com/AdguardTeam/AdguardFilters/issues/205731
 health.mawdoo3.com##.alweb-ad
+! https://github.com/AdguardTeam/AdguardFilters/issues/203991
 mutaz.net##.banners
 ! https://github.com/AdguardTeam/AdguardFilters/issues/223754
 sa7eralkutub.com#%#//scriptlet('abort-current-inline-script', 'document.createElement', 'pagead2.googlesyndication.com')
