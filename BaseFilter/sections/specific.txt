@@ -928,6 +928,9 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+nsfw247.to###network-banner
+nsfw247.to##a[href^="https://go.mavrtracktor.com/"]
+nsfw247.to#$#body { padding-top: 0 !important; }
 ||ogfap.com/ad/
 ||ogfap.com/_astro/AdContainer
 ppv.to##a[href^="https://duel.com/"]
