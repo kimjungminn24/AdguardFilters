@@ -80,6 +80,10 @@ sp.manga.nicovideo.jp##div[style^="--ads-width:"]
 !
 ! SECTION: Regular rules
 !
+||i-pclub.com/m/ama_$script
+||i-pclub.com/m/randam_$script
+i-pclub.com##center > .zoon:has(> div#trip)
+i-pclub.com##.zoon2:has(> div#nex)
 qz.com##.ay-ad-slot
 wikwik.org##.a_v
 ||wikwik.org/a1.js
