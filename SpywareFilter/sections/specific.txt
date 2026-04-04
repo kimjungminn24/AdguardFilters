@@ -83,6 +83,7 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 !
 ! NOTE: Specific rules
 !
+||remarkable.com/api/proxy/marker
 ||poocloud.in/api/event
 ||s.tgrthaber.com/s/js/stats.js
 ||mpsp.mp.br/combo/?$script
