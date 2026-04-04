@@ -13290,6 +13290,7 @@ asilmedia.org###banner
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228155
 ||googleapiscdn.com/admin/api/ads/
 ||googleapiscdn.com/static/jwplayer/vast.js
+storage.googleapiscdn.com#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'evaluate')
 animevietsub.id,storage.googleapiscdn.com,stream.googleapiscdn.com#%#//scriptlet('prevent-setTimeout', 'onDetect')
 animevietsub.id,storage.googleapiscdn.com,stream.googleapiscdn.com#@#.ad-space:not(.textads)
 animevietsub.id,storage.googleapiscdn.com,stream.googleapiscdn.com#@#.ad_unit
