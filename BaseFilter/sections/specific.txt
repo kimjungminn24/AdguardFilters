@@ -928,6 +928,7 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+||xmoviescdn.online/ads/ads_1.gif
 ||veck.io/ads/
 weebcentral.com##div[class][style]:has(> div.notranslate > iframe[sandbox*="allow-popups"])
 weloma.art#%#//scriptlet('abort-current-inline-script', 'document.createElement', 'dataset.zone')
