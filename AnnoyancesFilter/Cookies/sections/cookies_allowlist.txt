@@ -213,6 +213,8 @@ morele.net#@##cookie-consent
 @@||istoreil.co.il/min/?f=*/gdpr.js$domain=istoreil.co.il
 ! https://github.com/uBlockOrigin/uAssets/issues/31162
 hanos.nl#@##cookieModal
+! https://github.com/AdguardTeam/AdguardFilters/issues/228551
+@@||geolocation.onetrust.com/cookieconsentpub/v1/geo/location$domain=bostonglobe.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/220085
 @@||cdn.cookielaw.org/consent/*.json$domain=bostonglobe.com
 @@||cdn.cookielaw.org/scripttemplates/otSDKStub.js$domain=bostonglobe.com
