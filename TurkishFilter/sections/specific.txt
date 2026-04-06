@@ -69,6 +69,8 @@ dirilispostasi.com,turkuazgazetesi.net,yenialanya.com,bugunkocaeli.com.tr,cagdas
 !
 ! NOTE: Specific rules
 !
+utanmazkizlar.com##.custom-ust-banner-alan
+utanmazkizlar.com##.k-post-visual-wrap-alt
 paradurumu.com##a[href^="https://app.adjust.com/"]
 canakkalekalem.com##.no-click.my-3
 kayserianadoluhaber.com.tr##div[class^="mi-rgb reklam"]
@@ -724,7 +726,7 @@ siyahfilmizle.*#$?##wrapper { margin-top: 0px !important; }
 herpet.net##.player-side-ad
 herpet.net##.footer-ad-container
 herpet.net##div[class^="rnd-"] > a[target="_blank"] > img
-||blogger.googleusercontent.com/img/$domain=herpet.net|buenosairesideal.com|inattvgiris.pro|selcuksports.*|selcuk-sports.com|taraftarium.*|selcuksportss.*|hudsonlegalblog.com|taraftariumlive.com|inatspor.xyz
+||blogger.googleusercontent.com/img/$domain=herpet.net|buenosairesideal.com|inattvgiris.pro|selcuksports.*|selcuk-sports.com|taraftarium.*|selcuksportss.*|hudsonlegalblog.com|taraftariumlive.com|inatspor.xyz|utanmazkizlar.com
 hlktrpl.cfd###player > .jw-wrapper > .jw-logo
 hlktrpl.cfd###player > .jw-wrapper > .jw-title
 yatirimnedir.com##.container > div.mb-4:has(> div.col > a[href^="https://www.getmidas.com/"])
