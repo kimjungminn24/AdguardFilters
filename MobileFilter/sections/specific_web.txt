@@ -80,6 +80,8 @@ sp.manga.nicovideo.jp##div[style^="--ads-width:"]
 !
 ! SECTION: Regular rules
 !
+basescan.org##section.container-xxl > .noindex-section[data-nosnippet]
+basescan.org##img[alt="Ad"]
 oppaisan.com##.click_fit__tab_tie_up
 geinoukame.com##.entry_more > a[href="http://geinoukame.com/blog-entry-77130.html"]
 ||i-pclub.com/m/ama_$script
