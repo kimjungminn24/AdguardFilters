@@ -941,7 +941,7 @@ br.de#%#//scriptlet('trusted-click-element', 'button[class^="PrivacyEmbedConsent
 next.hornet.com#%#//scriptlet('trusted-set-local-storage-item', 'local:consent', '{"is_set":true,"ads":false,"traffic":false}')
 hornetapp.com,hornet.com#%#//scriptlet('set-cookie', '_consent_ads', '0')
 hornetapp.com,hornet.com#%#//scriptlet('set-cookie', '_consent_analytics', '0')
-sravni.ru##body > div[sr-portal-container]:has(> div[data-qa="Card"] > div > a[href="https://f.sravni.ru/documents/cookie_file_policy_sravni.pdf"])
+sravni.ru##div[data-qa="Card"]:has(> div > a[href*="cookie_file_policy"])
 landvolkmakler.de###cfsCookieHintContainer
 skinmc.net#%#//scriptlet('trusted-click-element', '.eu-popup #editButton, #cookiesCustom #googleAnalytics, #cookiesCustom #microsoftClarity, #cookiesCustom #saveButton', '!cookie:laravel_eu_cookie_consent')
 itcodik.com##.z-\[1000\].flex.flex-col.items-center.justify-between
