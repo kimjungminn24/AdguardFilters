@@ -11363,9 +11363,6 @@ itprotoday.com#$##body-wrapper { opacity: 1!important; }
 @@||hotcopper.com.au/ads.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/11881
 @@||cdn.broadstreetads.com/init.js$domain=thebatavian.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/31493
-! https://github.com/AdguardTeam/AdguardFilters/issues/11602
-updato.com#%#(function(){var b=window.setTimeout;window.setTimeout=function(a,c){if(!/\!document\.getElementById[\s\S]*?#updato-overlay/.test(a.toString()))return b(a,c)};})();
 ! https://github.com/AdguardTeam/AdguardFilters/issues/11610
 ||mma-core.com/vidjs*.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/11758
@@ -11440,8 +11437,6 @@ observer.com#@#.AdSense
 @@||doomed.io/scripts/ads.min.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/10586
 @@||pagead2.googlesyndication.com/pagead/js/r20180124/r20170110/osd.js$domain=cpu-world.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/10680
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=updato.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/10687
 idsly.com##.adsbygoogle
 @@||idsly.com^$generichide

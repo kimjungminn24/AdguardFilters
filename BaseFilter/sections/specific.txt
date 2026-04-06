@@ -16221,7 +16221,6 @@ yugatech.com###subheader > center > a[href][target="_blank"] > img
 yugatech.com##div[class$="group"] > a[href^="https://bit.ly/"][rel="noopener"] > img
 ||yugatech.com/wp-content/uploads/*/V9_digital-ad-placement_*px-x-*px*.jpg
 ||wp.com/www.yugatech.com/wp-content/uploads/*/V9_digital-ad-placement_*px-x-*px*.jpg$domain=yugatech.com
-updato.com##.main-article-content > div[class][style*="float: left"][style*="margin"]
 |http*://$image,third-party,domain=rmdown.com
 watchhouseonline.net,watchsmallvilleonline.net,watchpsychonline.net,watchdoctorwhoonline.com,watcheverybodylovesraymond.com###contenedor > #keeper
 winporn.*##.afsite > .thr-rcol
@@ -16403,7 +16402,6 @@ sports24.*##a[href^="/vpn"]
 javboys.tv,boyfuck.me,javhay.net,katestube.com,capital.bg,wankoz.com,tubsexer.*,fetishshrine.com,pornicom.com##.advertising
 pornicom.com###data > #related_videos_col + #related_videos_col
 myhentaigallery.com,hdzog.com,voyeurhit.com##.footer-banners
-updato.com##.post-ad-container
 fusionbd.com##body > .path
 fusionbd.com##body > .tmn
 newsarama.com##.page-top-promo
@@ -16484,7 +16482,6 @@ wpbeginner.com##.sidebardeals
 wpbeginner.com##.singleadthumbcontainer
 ||a.spankbang.com^$redirect=nooptext
 theprovince.com##.widget_pn_dfpad
-updato.com##.dataTable .asset
 mma-core.com###rsky
 ||wpnrtnmrewunrtok.xyz/*x*-stripgirls.gif
 /camwhoreshd.com\/[a-z]{1,2}[0-9]{1,2}[a-z]{1,2}[0-9]{1,2}[\S\s]*.js/$domain=camwhoreshd.com
