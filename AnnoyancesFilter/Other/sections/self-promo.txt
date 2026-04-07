@@ -203,6 +203,7 @@ www.kinopoisk.ru##footer > div:has(> div > div[data-testid="kp-ui.amediateka-foo
 !
 ! SECTION: Self-promo - Regular rules
 !
+drugs.com##.ddc-header-nav-item-plus
 www21.vercomics.xxx##.content > a[href^="https://cib.li/"]
 www21.vercomics.xxx##.theiaStickySidebar > div.mia-slider-widget
 docs.nestjs.com##app-banner-devtools
