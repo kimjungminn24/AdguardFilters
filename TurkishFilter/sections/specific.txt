@@ -90,7 +90,6 @@ fotospor.com.tr##.container > div[align="center"]:has(> the-ads)
 halktv.com.tr##.container section > .row > .section-mb:has(> .dfp-ad-loaded)
 halktv.com.tr##.container section > .row > .section-mb:has(> .HLK_VIDEO)
 webtekno.com##a[href^="https://s.mdznconnect.com/"]
-turkleak1.live##body .ad-overlay
 ||blogger.googleusercontent.com/img/*/pshg-min-min.gif
 ||bloomberght.com/adsbht/
 corumtime.com###siteSag > div[style^="width:"]:not([class])
