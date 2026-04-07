@@ -870,7 +870,7 @@ worldstreams.watch,cricfree.stream,mbfsports.com,wizhdsports.be,blogspot.com,hdf
 ! ###floatLayer2
 hentai-id.tv###floatLayer2
 ! ##.sponsor
-hentaigem.com,tabooporn.tv,eroinside.com,pornolovers.net,vipporns.com,shooshtime.com,thothub.org,animefurry.com,hentai420.com,xporn.tv,leak.xxx,jizzoncam.com,pornhits.com,shemalesin.com,porntrex.video,maturetubehere.com,hentai-moon.com,pornxpert.com,crazyporn.xxx,heavyfetish.com,scatkings.com,grahamcluley.com,4kporn.xxx,hairyerotica.com,gettubetv.com,ufile.io,lesbian8.com,zedporn.com,bigtitslust.com,fpo.xxx,fontyukle.net,porno90.online,pornchimp.com,lolhentai.net,vikiporn.com,its.porn,swiftbysundell.com,uiporn.com,heroero.com,camwhores.tv,heroero.com,magnetfox.com,sexwebvideo.com,pornfapr.com,alphaporno.com##.sponsor
+teenager365.to,hentaigem.com,tabooporn.tv,eroinside.com,pornolovers.net,vipporns.com,shooshtime.com,thothub.org,animefurry.com,hentai420.com,xporn.tv,leak.xxx,jizzoncam.com,pornhits.com,shemalesin.com,porntrex.video,maturetubehere.com,hentai-moon.com,pornxpert.com,crazyporn.xxx,heavyfetish.com,scatkings.com,grahamcluley.com,4kporn.xxx,hairyerotica.com,gettubetv.com,ufile.io,lesbian8.com,zedporn.com,bigtitslust.com,fpo.xxx,fontyukle.net,porno90.online,pornchimp.com,lolhentai.net,vikiporn.com,its.porn,swiftbysundell.com,uiporn.com,heroero.com,camwhores.tv,heroero.com,magnetfox.com,sexwebvideo.com,pornfapr.com,alphaporno.com##.sponsor
 ! ##.spot:not(#style_important)
 cremz.com,homo.xxx,ok.porn,pornhat.*,okxxx3.com,okxxx2.com,okxxx1.com,ok.xxx,perfektdamen.*,perfectgirls.*,coralxxx.com,analry.com,hard3r.com,bigbigtits.com,maturexy.com,bigbumfun.com,fuqster.com,bigtitbitches.com,w1mp.com,riverporn.pro,sexpester.com,w4nkr.com,pornwhite.com,gaygo.tv,sextaped.com,ratedgross.com,sleazyneasy.com,litecoin-faucet.com,3prn.com,motherporno.com,pornomovies.com,camhub.tv,max.porn,feetporno.com,familyporn.tv,freehardcore.com,moviesand.com,momvids.com,hdzog.com,pornbimbo.com##.spot:not(#style_important)
 ! ##.advertisement
@@ -2985,7 +2985,6 @@ livelaw.in##body .popup-ad-content-wrap:not(#style_important)
 livelaw.in##body div[id^="after_header_ad_"]:not(#style_important)
 livelaw.in###sidebar-wrapper div[class*="trending_news_row"]:has(> div[id^="trending_"] > .ad_unit_wrapper)
 ashemaletube.com#?#.js-toggle-content-wrapper:has(> div.no-popup > span:contains(/Chat with LIVE models|Chatten Sie mit LIVE-Modellen|Chatea con modelos EN VIVO|Общайтесь с LIVE моделями/))
-camstreams.tv##.top-links
 camstreams.tv###div-cr-inter-0
 camstreams.tv##a[href="https://www.sexedchat.com"]
 ||mangakakalot.gg/images/bns/
@@ -15113,7 +15112,7 @@ rankedboost.com##.ArticleTopInsert
 rankedboost.com##div[class^="ArticleInsert"]
 ||playbuzz.com^$domain=javarevisited.blogspot.com|nsfwyoutube.com|sportsplays.com|dailyhive.com|straightdope.com
 ||speedporn.net/wp-content/themes/retrotube/nex1.js
-teenager365.to,amateur8.com,nudespree.com##.top-links
+camstreams.tv,teenager365.to,amateur8.com,nudespree.com##.top-links
 nudespree.com##.main-menu > li > a[rel="nofollow"]
 ||animehub.ac/api/pop.php
 forebears.io##.banner-h
