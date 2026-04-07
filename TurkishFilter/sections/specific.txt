@@ -69,6 +69,7 @@ dirilispostasi.com,turkuazgazetesi.net,yenialanya.com,bugunkocaeli.com.tr,cagdas
 !
 ! NOTE: Specific rules
 !
+||turkifsahub.com/exoclick-popunder.js
 utanmazkizlar.com##.custom-ust-banner-alan
 utanmazkizlar.com##.k-post-visual-wrap-alt
 paradurumu.com##a[href^="https://app.adjust.com/"]
