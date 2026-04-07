@@ -4417,7 +4417,7 @@ turkporoclub1.sbs,turkporoclub2.sbs,turkporoclub3.sbs,turkporoclub4.sbs,turkporo
 ! Frequently changed domains: hdifsaizle*.com
 ! Source: hdifsaizle4.com
 ! aglint-disable no-invalid-modifiers
-!+ NOT_VALIDATE
+!+ NOT_VALIDATE NOT_PLATFORM(windows, mac, android, cli)
 ||hdgifs.b-cdn.net^$media,domain=/hdifsaizle\d+\.com$/
 ! aglint-enable no-invalid-modifiers
 [$domain=/hdifsaizle\d+\.com$/]##div[style]:has(> a[href^="http://bpkaff.com/"])
