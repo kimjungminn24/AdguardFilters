@@ -24,6 +24,7 @@ eloutput.com,mundobytes.com,techondicas.com,jornalrepercussao.com.br,zonaaps.com
 !
 ! NOTE: Specific rules
 !
+techplaygames.com##body > center:has(> p[style="text-align: center;"] > span[style^="font-size:"])
 technoticiais.com.br###top-bar
 technoticiais.com.br#?#.post-content > p:contains(PUBLICIDADE)
 mashentai.com,hmanga.asia##.exo-wrap-top
