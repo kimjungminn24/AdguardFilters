@@ -928,6 +928,8 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+newsnow.com#%#//scriptlet('trusted-click-element', '.continue-button:not(.is-disabled)')
+newsnow.com##.hero-wrapper
 112.ua##.vertical__banner
 112.ua##p[style="margin-top:-18px;font-size:12px;margin-bottom: 40px;"]
 telgramz.com#%#//scriptlet('set-constant', 'linkOpener', 'undefined')
