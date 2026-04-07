@@ -69,6 +69,7 @@
 !
 !
 !
+||users.videasy.net/api/track
 ||eu-data.kameleoon.io^$third-party
 ||velarium.cc^
 ||maniteka.com^

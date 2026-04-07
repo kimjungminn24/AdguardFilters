@@ -928,6 +928,7 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+cloudnestra.com#%#//scriptlet('abort-on-stack-trace', 'atob', '_0x')
 skinmc.net##aside[aria-label*="advertisement"]
 skinmc.net##div[data-banner-key]
 thehentai.net##main > .gridPosts:has(> .img_cage > a[target="_blank"])
