@@ -4454,7 +4454,7 @@ turkifsalar2.site,turkifsalar3.site,turkifsalar4.site,turkifsalar5.site,turkifsa
 ! Frequently changed domains: amatorifsa*.com
 ! Source: amatorifsa4.com
 ! aglint-disable no-invalid-modifiers
-!+ NOT_VALIDATE
+!+ NOT_VALIDATE NOT_PLATFORM(windows, mac, android, cli)
 ||hdgifs.b-cdn.net^$media,domain=/amatorifsa\d+\.com$/
 ! aglint-enable no-invalid-modifiers
 [$domain=/amatorifsa\d+\.com$/]##div[style="margin-bottom:14px; text-align:center;"]
