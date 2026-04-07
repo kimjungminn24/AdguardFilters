@@ -26,6 +26,7 @@
 ! NOTE: Specific rules
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228157
+@@||bric-a-brac-bulwark.site/content$xmlhttprequest,stealth=referrer,domain=cloudnestra.com
 @@||zenithianzephyr.space/content/$xmlhttprequest,stealth=referrer,domain=cloudnestra.com
 @@||fast.vidplus.dev^$xmlhttprequest,stealth=referrer,domain=player.videasy.net
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228422
