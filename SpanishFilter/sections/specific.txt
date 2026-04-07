@@ -3014,7 +3014,7 @@ es.msn.com###marketingbanne
 mforos.com###matb_adszone
 google.cl,google.com.ar,google.com.br,google.com.co,google.com.ec,google.com.mx,google.com.ni,google.com.pe,google.es,google.pt###mbEnd
 rumbo.es###mega
-terra.com.br###megabanner
+km77.com,terra.com.br###megabanner
 abc.es,diariosur.es,elcorreo.com,larioja.com###mensenwat
 terra.cl###mod-adv
 iol.pt,rr.pt###mrec
