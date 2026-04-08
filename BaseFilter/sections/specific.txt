@@ -928,6 +928,7 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+kodi-guide.com##.privacy-box
 filecrypt.cc##.butt1ns > span
 filecrypt.cc##div[class^="fiIItheadblock"]
 hq-porner.com#%#//scriptlet('remove-attr', 'href', 'a[href="/ai"]')
@@ -15855,7 +15856,7 @@ thehindu.com,radiotimes.com,theargus.co.uk##body .dfp-ad
 kicdam.com##.article-body > .sia[data-ad="true"]
 pixlr.com##body > .pro-app-wrap
 bloomberg.com##.leaderboard-ad-dummy
-techregister.co.uk,pornmium.com,etherealgames.com,androidphone.fr,esports.net,movilforum.com,apkmb.com,snat.co.uk,coursesxpert.com,thefappeningblog.com,nimtools.com,javhoho.com###text-2
+kodi-guide.com,techregister.co.uk,pornmium.com,etherealgames.com,androidphone.fr,esports.net,movilforum.com,apkmb.com,snat.co.uk,coursesxpert.com,thefappeningblog.com,nimtools.com,javhoho.com###text-2
 courseboat.com,courseforfree.net,bestcouponhunter.com###text-8
 bestcouponhunter.com,courseforfree.net,analogictips.com###text-9
 datingsitespot.com,utilitymagazine.com.au###text-16
