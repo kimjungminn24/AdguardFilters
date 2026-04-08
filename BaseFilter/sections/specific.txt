@@ -928,6 +928,7 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+pimpbunny.com##ul[class^="includes-header-"] > li:has(> a[rel^="sponsored"])
 ||exporntoons.net/static/players/*/vast.js
 calculators.ro##.adv728_90
 followfollow.com##.structItemContainer-group > div[style*="text-align: center; width: 100%;"]:has(> .advertisement)
