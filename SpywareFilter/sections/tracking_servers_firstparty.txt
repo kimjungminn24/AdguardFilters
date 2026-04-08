@@ -28,6 +28,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||data-lake-api.internet.apps.samsung.com^
 ||analytics.sberhealth.ru^
 ||pixel-cdp.sberhealth.ru^
 ||static-rmr.reworldmediafactory.com^
