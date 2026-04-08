@@ -1427,7 +1427,6 @@ patient.info#$##header[style="top: 116.75px;"] { top: 0px !important; }
 patient.info#$##navigation[style="height: auto; top: 170px;"] { top: 0px !important; }
 tyla.com##div[class^="floating-video-player_container"]
 goodrx.com##div[data-qa="qa-waterfall-unit-ad_unit"]
-peepvip.com##.agepl-banner
 doctor.com##article.result-featured:has(> header > .result-sponsored__tooltip)
 healthgrades.com#?#div[data-result-type="featured"]:contains(sponsored)
 zocdoc.com##article[data-test="search-result-item-ad"]
@@ -21718,6 +21717,8 @@ adultlingeriepics.com,adultlingeriepics.com,adultspankingtgp.com,allfeetporn.com
 !
 !
 !
+!+ NOT_OPTIMIZED
+peepvip.com##.agepl-banner
 !+ NOT_OPTIMIZED
 pornvee.com##article > div.flex > div.hidden[style="width:300px"]
 !+ NOT_OPTIMIZED
