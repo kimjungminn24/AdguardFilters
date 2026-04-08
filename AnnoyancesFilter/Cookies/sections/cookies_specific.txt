@@ -8846,7 +8846,7 @@ compass.education##.cookieconsentcomponent
 myair.resmed.com##.c-notification-pusher[style="height: 49px;"]
 myair.resmed.com##section[id^="alert-cookie-"]
 wetv.vip##.cookie_uneu_banner
-onedio.com,wildberries.ru##.modal--cookie
+znaet.petrovich.ru,onedio.com,wildberries.ru##.modal--cookie
 2-remove-virus.com##.cookie-inform
 gitpod.io##.bottom.justify-between
 pulitzer.org,columbia.edu###cu-privacy-notice
