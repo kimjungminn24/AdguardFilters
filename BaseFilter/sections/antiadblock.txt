@@ -7655,7 +7655,9 @@ maxstream.video#%#//scriptlet("adjust-setInterval", "counter", "*", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/96899
 ! 1cloudfile.com, koramaup.com - antiadblock
 ! Website checks content of the "pagead2.googlesyndication.com" request, information is stored in ArrayBuffer
+!+ NOT_PLATFORM(ext_ublock)
 bowfile.com,1cloudfile.com,koramaup.com#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com')
+!
 bowfile.com,1cloudfile.com,koramaup.com#%#//scriptlet('trusted-replace-node-text', 'script', '/getNextDownloadPageLink|download-timer/', '200===r.status', '!0')
 bowfile.com,1cloudfile.com,koramaup.com#%#//scriptlet('trusted-replace-node-text', 'script', '/getNextDownloadPageLink|download-timer/', 'return r.responseText', 'return `a.getAttribute("data-ad-client")||""`')
 bowfile.com,1cloudfile.com,koramaup.com#%#//scriptlet('trusted-replace-node-text', 'script', '/getNextDownloadPageLink|download-timer/', '/\.count>=.+?\?/', '.count>=0?')
