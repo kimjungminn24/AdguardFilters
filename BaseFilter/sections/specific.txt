@@ -928,6 +928,8 @@ techarmor.xyz##.my-ad-container
 !
 ! NOTE: Specific rules
 !
+filecrypt.cc##.butt1ns > span
+filecrypt.cc##div[class^="fiIItheadblock"]
 hq-porner.com#%#//scriptlet('remove-attr', 'href', 'a[href="/ai"]')
 tunein.com#%#//scriptlet('json-prune', 'Ads')
 hqporner.com##a[href^="https://go.reebr.com/smartpop"]
