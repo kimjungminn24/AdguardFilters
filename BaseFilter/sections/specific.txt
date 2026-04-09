@@ -927,6 +927,7 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+tik.porn##div[class*="__sponsor"]
 porntok.io##a[href^="https://go.mavrtracktor.com"]
 youporn.com##.js_paidTab:has(> .js_tracking-link)
 recu.me##.video-thumb[data-subscribable="false"]
