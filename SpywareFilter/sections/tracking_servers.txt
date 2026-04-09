@@ -69,6 +69,7 @@
 !
 !
 !
+||containers.dsp.solta.io^
 ||acustomizedgift.com^
 ||jspcdn.cn^
 ||log0-misc-hl.amemv.com^
