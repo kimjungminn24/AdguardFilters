@@ -927,6 +927,7 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+tr.motor1.com##.m1-header-main > div.top-module
 myabandonware.com##.adm-passback
 xmoviesforyou.com##.relative.backdrop-blur-sm:has(a[href^="https://a.adtng.com/"])
 dokkandb.com##.home-ads-block
