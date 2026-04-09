@@ -1254,6 +1254,17 @@ youporn.com$$script:contains(/window\.[\s\S]*?_zone_[\s\S]*?{"zone_id":/)
 !
 ! NOTE: Regular rules
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/228805
+ftuapps.farlad.com$$script:contains(showAntiAdblockOverlay)
+ftuapps.farlad.com#%#//scriptlet('remove-node-text', 'script', 'showAntiAdblockOverlay')
+!#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb)
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ftuapps.farlad.com
+ftuapps.farlad.com#@#.adsbygoogle-noablate
+ftuapps.farlad.com#@#ins.adsbygoogle[data-ad-slot]
+ftuapps.farlad.com#@#ins.adsbygoogle[data-ad-client]
+ftuapps.farlad.com#@#.sponsor-box
+ftuapps.farlad.com##.code-block
+!#endif
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228050
 @@||torupload.com/token/gettoken.php$domain=torupload.com
 torupload.com#$#body { overflow: auto !important; }
