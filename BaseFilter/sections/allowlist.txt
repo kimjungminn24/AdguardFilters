@@ -16,9 +16,6 @@ winaero.com#@#.windia:not(.thank-you-adguard)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228051
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
 @@||p.liadm.com/click?$document
-! https://github.com/AdguardTeam/AdguardFilters/issues/226854
-! Reported to EasyList
-||ad.ari.lt^$badfilter
 ! https://github.com/AdguardTeam/AdguardFilters/issues/226487
 ! caused by external custom list
 @@||jsapi.amap.com^$domain=amap.com
