@@ -927,6 +927,9 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+porntn.com##div[id^="list_videos"] > div.item:has(> a:not([href*="porntn.com"]) > div > iframe)
+porntn.com##body > div.fullbar:has(> a.top-bar-porntn-static)
+||porntn.com/static/js/custom.js
 ||ero-labs.*/assets/js/appBanner.js
 ||ero-labs.*/api/v2/advertise/
 ||ero-labs.*/api/v2/system/config?name=partner_mall_url
@@ -15152,7 +15155,7 @@ rankedboost.com##.ArticleTopInsert
 rankedboost.com##div[class^="ArticleInsert"]
 ||playbuzz.com^$domain=javarevisited.blogspot.com|nsfwyoutube.com|sportsplays.com|dailyhive.com|straightdope.com
 ||speedporn.net/wp-content/themes/retrotube/nex1.js
-shareanynudes.com,camstreams.tv,teenager365.to,amateur8.com,nudespree.com##.top-links
+porntn.com,shareanynudes.com,camstreams.tv,teenager365.to,amateur8.com,nudespree.com##.top-links
 nudespree.com##.main-menu > li > a[rel="nofollow"]
 ||animehub.ac/api/pop.php
 forebears.io##.banner-h
