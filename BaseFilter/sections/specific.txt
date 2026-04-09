@@ -1191,6 +1191,7 @@ thestreet.com##div[class^="styles_headerAdSlot__"]
 primesrc.me#%#//scriptlet('remove-attr', 'href', 'a.splash')
 primevid.click##a[href^="https://fairscrew.com/"]
 2short.club##.mdlAd
+mtpro.xyz##a[class~="wp-block-button__link"][target="_blank"]:not([href*="mtpro"])
 mtpro.xyz##a[href]:contains(/🔐|🚀|Личный|Private/)
 mtpro.xyz##a[href^="/vpn.php"]
 mtpro.xyz##a[href][onclick*="this.href="][target="_blank"]
