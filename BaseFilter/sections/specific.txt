@@ -927,6 +927,11 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+/themes/lite/js/mztn.js$domain=8kporner.com|avporner.com|4k69.com
+8kporner.com,avporner.com##a[href="https://4k69.com"]
+8kporner.com,avporner.com,4k69.com##center > a[href^="https://AVporner.com"]
+8kporner.com,avporner.com,4k69.com##ul.right-part > li:has(> a[target="_blank"])
+8kporner.com,avporner.com,4k69.com##div[id^="hwgrid_"]
 porntn.com##div[id^="list_videos"] > div.item:has(> a:not([href*="porntn.com"]) > div > iframe)
 porntn.com##body > div.fullbar:has(> a.top-bar-porntn-static)
 ||porntn.com/static/js/custom.js
@@ -1267,7 +1272,6 @@ comicbook.com##.lngtd-dynamic-rightrail
 geotastic.net##.publift-zone-container
 7mmtv.upns.live#%#//scriptlet("prevent-window-open")
 omoi.com##azuki-google-ad
-avporner.com##ul.right-part > li:has(> a[target="_blank"])
 ||hornyhill.com/ajax/get_ads_suggest?
 betches.com##div[id^="advert"]
 betches.com##div[class*="bottomAd"]
@@ -1315,12 +1319,6 @@ weloma.art,nicomanga.com##.ad-row-mobile
 aquareader.net##.body-wrap > div.c-sidebar.c-top-sidebar
 mangaberri.com,mangacherri.com#%#//scriptlet('prevent-window-open')
 urldecoder.org,urlencoder.org,uglifycss.com,uglifyjs.net,prettifycss.com,prettifyjs.net,beautifyjson.org,minifyjson.org,base64encode.org,base64decode.org##.column:has(> ins[class^="ad_"]:only-child)
-||4k69.com/themes/lite/js/mztn.js
-4k69.com##center > a[href^="https://AVporner.com/"]
-avporner.com,4k69.com##div[id^="hwgrid_"]
-4k69.com##a[href^="https://theporndude."]
-||avporner.com/themes/lite/js/mztn.js
-avporner.com##a[href="https://4k69.com"]
 ||pornwex.tv/wp.js
 hdporner.tv,sxyporn.tv#%#//scriptlet('prevent-addEventListener', 'message', 'handleTrigger')
 etymonline.com##main .space-y-2:has(> .relative > .w-full > .justify-center > .adsbygoogle)

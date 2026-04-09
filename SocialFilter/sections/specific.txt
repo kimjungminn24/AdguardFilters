@@ -85,12 +85,7 @@ cogconnected.com,echofm.online,antirez.com,comicbook.com,alexp.pl,2ality.com,sma
 !
 ! NOTE: Specific rules
 !
-/themes/lite/js/mztn.js$domain=8kporner.com|avporner.com|4k69.com
-8kporner.com,avporner.com##a[href="https://4k69.com"]
-8kporner.com,avporner.com,4k69.com##center > a[href^="https://AVporner.com"]
 8kporner.com,avporner.com,4k69.com##.video-options
-8kporner.com,avporner.com,4k69.com##ul.right-part > li:has(> a[target="_blank"])
-8kporner.com,avporner.com,4k69.com##div[id^="hwgrid_"]
 ero-labs.com,ero-labs.*###gameShare
 theins.press,theins.ru##div[class^="sideSocials_socialWrapper__"]
 gazetegercek.com.tr###sidebar > div.container:has(> div > a[title="Twitter"])
@@ -170,7 +165,6 @@ cian.ru##iframe[data-name="VKWidget"]
 trial-net.co.jp##.l-main > .fixedbn:has(> a[href^="https://page.line.me/"])
 siyahdergi.com##div > span.jl_sh_t
 jalam.ne.jp##ul[class^="share"]
-avporner.com##.video-options
 tracktollywood.com,telugucinema.com###vuukle-emote
 shopify.com##.sm\:grid-cols-8.md\:grid-cols-12 .md\:flex.flex-col.justify-start
 mercedes-benz.io##.mq4\:flex-row.mq4\:items-center > .gap-4
