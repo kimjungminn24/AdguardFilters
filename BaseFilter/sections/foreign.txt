@@ -76,6 +76,11 @@ gjirafa.com##div[id^="an-holder-"]
 !
 ! NOTE: Arabian
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/228825
+elahmad.org##body > div[id^="ads"]
+elahmad.org##body > div[style^="z-index: 99999; position: fixed;"]
+elahmad.org#%#//scriptlet('prevent-fetch', 'pahtag.tech')
+elahmad.org#%#//scriptlet('prevent-setTimeout', '/\.display==="none"|BlockAdBlock/')
 ! https://github.com/easylist/listear/issues/43
 stardima.com#%#//scriptlet('prevent-addEventListener', 'click', '/redirect.php?')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/205731
