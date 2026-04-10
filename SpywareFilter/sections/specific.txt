@@ -83,6 +83,8 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 !
 ! NOTE: Specific rules
 !
+||nuance.com/tagserver/logging/
+||nuance.com/tagserver/incrementality/onEvent
 giga.chat#%#//scriptlet('set-local-storage-item', '/DEVICE_ID/', '$remove$')
 ||common-api.rozetka.*/collect/
 ||aizhantj.com*/tjpv/?cc=
