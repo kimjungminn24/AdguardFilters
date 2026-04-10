@@ -930,6 +930,8 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+gamerant.com##.ad-zone-container-sidebar-first
+gamerant.com##.adzone-above-latest
 memedroid.com##.empower-ad
 memedroid.com###stakeNavbarAd
 katfile.ws###container > p > a[href]
@@ -14568,7 +14570,6 @@ sendvid.com###ftr
 sendvid.com##a[target="_blank"][style*="position: fixed"][style*="z-index:"]
 sendvid.com###video-js-video > a[href="javascript:void(0)"][style*="z-index: 99999"]
 hcbdsm.com,motherporno.com,momvids.com##.aside
-gamerant.com##.ad-zone-container
 ||a.o333o.com/api/spots^
 ||pub.javwide.com/UN4DlQ5.js
 accuweather.com##.ad-lr
