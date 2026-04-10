@@ -7328,6 +7328,7 @@ mskgazeta.ru##.zen-widget
 society19.com,altyazi.net##.thb-newsletter-form
 efahrer.chip.de##.subscriber-form
 mobilemarketingreads.com##[class*="-newsletter"]
+washingtonpost.com#%#//scriptlet('remove-attr', 'style', '#__next')
 washingtonpost.com#$##qa-modal-body { display: none !important; }
 washingtonpost.com#$##wall-bottom-drawer { display: none !important; }
 washingtonpost.com#$#.regwall-overlay { display: none !important; }
