@@ -930,6 +930,8 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+memedroid.com##.empower-ad
+memedroid.com###stakeNavbarAd
 some.porn##div[class]:has(> div > div[data-spot-new^="ntv-"])
 hotchamas.com##.ad-div
 hotchamas.com##.watch-ad-slot
