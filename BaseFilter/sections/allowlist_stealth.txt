@@ -25,6 +25,8 @@
 !
 ! NOTE: Specific rules
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/228860
+@@||docs.amd.com^$stealth=referrer,domain=docs.amd.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228735
 @@||thirdparty.aliexpress.com^$stealth=flash
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228673
