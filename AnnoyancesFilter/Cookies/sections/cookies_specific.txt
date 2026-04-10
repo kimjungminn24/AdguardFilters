@@ -354,6 +354,7 @@ ra-hoernschemeyer.de,tuhlteim-pedia.de,entwickler.de,lockbarber-supplies.de,raz-
 !
 ! NOTE: Regular rules
 !
+some.porn###app-cookie
 evebattery.com##.t_main_privacy
 ||sdk.privacy-center.org/*/loader.js?target=www.index.hr
 ruplay.market#%#//scriptlet('set-local-storage-item', 'policyAccepted', 'false')
