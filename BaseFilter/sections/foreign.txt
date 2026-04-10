@@ -3102,6 +3102,11 @@ coverapi.store##.home_lefts
 queen.gr##.inline-banner
 kathimerini.gr##.nx-billboard-ad-row
 !
+! alphatv.gr - anti-adblock on https://www.alphatv.gr/live/
+alphatv.gr#%#//scriptlet('google-ima3')
+alphatv.gr#%#//scriptlet('prevent-element-src-loading', 'script', 'imasdk.googleapis.com/js/sdkloader/ima3.js')
+!+ PLATFORM(ios, ext_android_cb, ext_safari)
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=alphatv.gr
 ! https://github.com/AdguardTeam/AdguardFilters/issues/217577
 !+ NOT_OPTIMIZED
 parallaximag.gr##.nx-desktop-ad
