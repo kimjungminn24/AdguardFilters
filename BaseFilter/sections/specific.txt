@@ -930,6 +930,8 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+hotchamas.com##.ad-div
+hotchamas.com##.watch-ad-slot
 porntourist.com##a.nav__link[target="_blank"]
 /themes/lite/js/mztn.js$domain=8kporner.com|avporner.com|4k69.com
 8kporner.com,avporner.com##a[href="https://4k69.com"]
@@ -969,7 +971,7 @@ dokkandb.com##.home-ads-block
 ||workers.dev^$subdocument,domain=katfile.vip
 pornlib.com,pornlib.icu###lcams2
 pornlib.*#%#//scriptlet('prevent-window-open')
-fikfap.com#%#//scriptlet('prevent-window-open', '_blank')
+hotchamas.com,fikfap.com#%#//scriptlet('prevent-window-open')
 kodi-guide.com##.privacy-box
 filecrypt.cc##.butt1ns > span
 filecrypt.cc##div[class^="fiIItheadblock"]
