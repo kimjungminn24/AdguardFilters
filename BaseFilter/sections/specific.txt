@@ -930,6 +930,9 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+cums.net##.promo-content-wrapper
+cums.net##a[href^="https://s.happyleafmotion.com/"]
+cums.net###video-promo---related
 hentai2read.com##iframe[src^="//syndication.traffichaus.com/"]
 gamerant.com##.ad-zone-container-sidebar-first
 gamerant.com##.adzone-above-latest
