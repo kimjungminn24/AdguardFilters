@@ -9694,6 +9694,7 @@ bing.com#$#body .b_adLastChild { display: block !important; position: absolute !
 bing.com#$#.b_ad { display: block !important; position: absolute !important; top: -9999px !important; }
 bing.com#$?#.b_restorableLink { remove: true; }
 ||bing.com^$cookie=ABDEF
+bing.com#%#(()=>{const t={apply:(t,r,e)=>{try{const t=e[0];t?.matches?.('[class^="b_ad"]')&&(e[0]=document.querySelector("#b_results .b_algo"))}catch(t){}return Reflect.apply(t,r,e)}};window.Array.prototype.push=new Proxy(window.Array.prototype.push,t)})();
 bing.com#%#!function(){const e={apply:(e,l,t)=>{const o=t[0];return o?.includes(".b_ad,")?t[0]="#b_results":o?.includes(".b_restorableLink")&&(t[0]=".b_algo"),Reflect.apply(e,l,t)}};window.Element.prototype.querySelectorAll=new Proxy(window.Element.prototype.querySelectorAll,e)}();
 ! https://github.com/AdguardTeam/AdguardFilters/issues/44634
 @@||androiddownload.net/themes/*/js/advertisement.js
