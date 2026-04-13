@@ -85,6 +85,8 @@ cogconnected.com,echofm.online,antirez.com,comicbook.com,alexp.pl,2ality.com,sma
 !
 ! NOTE: Specific rules
 !
+ura.news##div[class^="fixed-shared-button"]
+ura.news##div[class^="shared-button"]
 arabnews.jp##.detail_sns
 sporked.com##share-actions
 openwork.jp##.pagenation_user + aside:has(.fs-16.mt-25.mb-20.t-c)
