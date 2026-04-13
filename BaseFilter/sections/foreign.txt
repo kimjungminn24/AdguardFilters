@@ -12657,6 +12657,10 @@ vatantat.ru##a[href="https://pobeda.onf.ru/"]
 ##.right-menu > div.adhl
 !
 !
+animewaku.com##.module_home_x
+animewaku.com##.content > center
+animewaku.com##a[href^="https://ibit.ly/"]
+||animewaku.com/up/img/webp/*.webp
 ||goldtraders.or.th/api/Banner/
 overmovies.com###header-ad-container-2
 overmovies.com###footer-ad-container-1
