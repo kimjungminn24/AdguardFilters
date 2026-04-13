@@ -1256,7 +1256,6 @@ youporn.com$$script:contains(/window\.[\s\S]*?_zone_[\s\S]*?{"zone_id":/)
 ! NOTE: Regular rules
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228898
-@@||pagead2.googlesyndication.com/pagead/$domain=dicoall.com
 ||fundingchoicesmessages.google.com/$script,domain=dicoall.com
 dicoall.com#@##AdHeader
 dicoall.com#@##AD_Top
