@@ -930,6 +930,9 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+voyeurhit.com##.header__list > li > a[href][target="_blank"]
+voyeurhit.com##footer > div.container > div.footer__keywords a[href][target="_blank"]
+voyeurhit.com##footer > div.container > div.footer__keywords > h2.footer__keyword:not(:has(> a[href][target="_blank"] + a[href]))
 tubeasiancams.com#%#//scriptlet('remove-node-text', 'script', 'adPopped')
 elamigosgamez.net##.content_store
 elamigosgamez.net##.row > div.portfolio-item:not(:has(> div.card > a[href^="https://www.elamigosgamez.net/"]))
