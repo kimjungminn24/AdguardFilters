@@ -930,6 +930,8 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+cumcams.cc$$script:contains(openExternalSite)
+cumcams.cc#%#//scriptlet('remove-node-text', 'script', 'openExternalSite')
 onlychickshub.com##a[href="https://theporndude.com/"]
 onlychickshub.com##a[href^="https://t.ajrkmx1.com/"]
 onlychickshub.com##a[href^="https://t.mbjms.com/"]
