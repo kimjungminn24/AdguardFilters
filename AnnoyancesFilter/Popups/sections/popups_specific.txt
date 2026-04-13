@@ -43,6 +43,7 @@ sport-express.ru,pikabu.ru##iframe[src^="https://autofill.yandex.ru/suggest?"]
 !
 ! SECTION: Popups - Regular rules
 !
+telex.hu##.snackbar--tax
 doutorfinancas.pt##.sticky-bottom
 katfile.ws#$##kModal { display: none !important; }
 katfile.ws#$#.modal-backdrop { display: none !important; }
