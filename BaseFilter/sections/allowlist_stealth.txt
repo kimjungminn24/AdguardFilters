@@ -25,6 +25,8 @@
 !
 ! NOTE: Specific rules
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/229000
+@@||playmogo.com^$subdocument,stealth=flash|java
 ! https://github.com/AdguardTeam/AdguardFilters/issues/229143
 @@||api-protected.protoawegw.com/v2/player/performer/$stealth=referrer,domain=ctcdwm.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/229016
