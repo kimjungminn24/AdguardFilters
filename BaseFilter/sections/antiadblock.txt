@@ -11823,9 +11823,6 @@ nydailynews.com#%#window.Adv_ab = false;
 @@/crossdomain.xml$domain=channel4.com
 @@||ak.http.anno.channel4.com^$domain=channel4.com
 @@||cf.http.anno.channel4.com^$domain=channel4.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/6404
-@@||wallpapersite.com/scripts/ads.js
-wallpapersite.com#%#//scriptlet('set-constant', 'canRunAds', 'true')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/6382
 !+ PLATFORM(ext_ff, ext_opera, ios, ext_android_cb, ext_ublock)
 @@||sat-universe.com^$generichide
