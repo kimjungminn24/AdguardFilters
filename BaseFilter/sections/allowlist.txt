@@ -154,6 +154,9 @@ $script,redirect-rule=noopjs,domain=api-dashboard.search.brave.com
 @@||adv.yandex.com^$~third-party
 @@||adv.yandex.ru^$~third-party
 !#endif
+! https://github.com/AdguardTeam/AdguardFilters/issues/229143
+@@||ctcdwm.com/live-stream/$subdocument,domain=camsfinder.com
+@@||api-protected.protoawegw.com/v2/player/performer/$xmlhttprequest,domain=ctcdwm.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/227958
 paulandshark.com#@#div[data-banner-name]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/227726#issuecomment-4130339208
