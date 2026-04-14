@@ -354,6 +354,7 @@ bayreuth-region.de,ra-hoernschemeyer.de,tuhlteim-pedia.de,entwickler.de,lockbarb
 !
 ! NOTE: Regular rules
 !
+kfc.by##.kfc-cookie-banner
 ||ec.yimg.com/didomi/*/loader.js$domain=aol.com
 ||freddy-fresh.de/main-lib/consent/cookieconsent.js
 originality.ai##.consent_banner
