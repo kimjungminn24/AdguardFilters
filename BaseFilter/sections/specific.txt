@@ -958,6 +958,7 @@ onlychickshub.com##a[href^="https://t.mbjms.com/"]
 onlychickshub.com##a[href^="https://t.acrsmartcam.com/"]
 ||namethatporn.com/assets/prod/fuf4g_*.js
 namethatporn.com##article.sbitm_custom
+namethatporn.com##.item:has(> div.item_media)
 namethatporn.com#%#//scriptlet('abort-on-property-write', 'dataLayer')
 namethatporn.com#%#//scriptlet('prevent-window-open', '!namethatporn')
 rootz.so#%#//scriptlet('trusted-replace-fetch-response', '"adsEnabled":true', '"adsEnabled":false', 'api/files')
