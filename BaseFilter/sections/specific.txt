@@ -930,6 +930,7 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+mcpservers.org##footer ~ div.fixed:has(> a[href^="https://chromewebstore.google.com/"])
 multiup.io#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'window.open')
 multiup.io#%#//scriptlet('prevent-window-open', '!multiup')
 thefinancialexpress.com.bd##.popup-ads-container
