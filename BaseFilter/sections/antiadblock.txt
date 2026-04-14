@@ -11703,9 +11703,6 @@ myuploadedpremium.de#$#.adsbygoogle { position: absolute!important; left: -3000p
 ! https://github.com/AdguardTeam/AdguardFilters/issues/6980
 !+ PLATFORM(ios, ext_android_cb)
 @@||citytv.com^$generichide
-! https://github.com/AdguardTeam/AdguardFilters/issues/6979
-ps4news.com#$##blockblockB { display: block!important; }
-ps4news.com#$##blockblockA { display: none!important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/6888
 !+ PLATFORM(ios, ext_android_cb)
 wiltshiretimes.co.uk#@#.plainAd
