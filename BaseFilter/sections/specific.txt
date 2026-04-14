@@ -15615,7 +15615,6 @@ pornhub.com,pornhub.org,pornhub.net##.sectionWrapper > .videos[id] > li[class^="
 ||xxxdan.com/aa474eaa.js
 ||akaihentai.com/fro_lo*.js
 ||api.whizzco.com/demand/*/rtads
-debka.com##.ads_single_side
 thesaurus.com##aside[id*="_serp_"][id*="tf_"][class]
 desipapa.tv##.video-tb > .video-col
 freepornxxxhd.*##.phdZone.zone

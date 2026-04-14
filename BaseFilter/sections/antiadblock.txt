@@ -10797,17 +10797,11 @@ deepbrid.com#@#.google-ad
 deepbrid.com#@#.ad-banner-top
 @@||deepbrid.com/backend-dl/app/views/site/default/ads/*.js$domain=deepbrid.com
 deepbrid.com#%#//scriptlet('abort-current-inline-script', 'document.createElement', 'adblock')
-! https://github.com/AdguardTeam/AdguardFilters/issues/22753
-! Ad reinject
-debka.com#%#//scriptlet("abort-current-inline-script", "Math.random", "InstallTrigger")
 ! matchat.online
 !+ PLATFORM(ios, ext_android_cb)
 @@||matchat.online^$generichide
 ! https://github.com/AdguardTeam/AdguardFilters/issues/22720
 ||cdn.rawgit.com/MuhBayu/adBDetect^$third-party
-! https://github.com/AdguardTeam/AdguardFilters/issues/22651
-!+ PLATFORM(ios, ext_android_cb)
-@@||intercelestial.com^$generichide
 ! https://github.com/AdguardTeam/AdguardFilters/issues/22526
 !+ PLATFORM(ios, ext_android_cb)
 @@||freaktab.com^$generichide
