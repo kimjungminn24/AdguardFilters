@@ -2959,6 +2959,8 @@ hrnytube.com###adbd
 hrnytube.com#%#//scriptlet('set-constant', 'cRAds', 'true')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/196478
 watch.plex.tv#%#//scriptlet('prevent-fetch', '/doubleclick\.com/ method:HEAD', '', 'opaque')
+watch.plex.tv#%#//scriptlet('google-ima3')
+watch.plex.tv#%#//scriptlet('prevent-element-src-loading', 'script', 'imasdk.googleapis.com/js/sdkloader/ima3.js')
 !+ PLATFORM(ios, ext_android_cb)
 @@://doubleclick.com/|$xmlhttprequest,domain=watch.plex.tv
 ! https://github.com/AdguardTeam/AdguardFilters/issues/196454
