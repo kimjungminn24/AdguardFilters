@@ -83,6 +83,7 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 !
 ! NOTE: Specific rules
 !
+||ubisoft.com/*/global/tracking/
 ||content.powerapps.com/resource/powerappsportal/dist/client-telemetry*.js$domain=sante.quebec
 ||sante.quebec/dist/client-telemetry*.js
 ||edge.sdk.awswaf.com/*/telemetry
