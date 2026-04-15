@@ -8222,8 +8222,6 @@ doubledouble.top##.totally-not-an-ad
 vipleague.im##iframe[src^="//affelseaeinera.org"]
 ||swarm.video/nsns.js
 ibtimes.com##.mgid-content
-techcyan.com##.fixedbtn
-techcyan.com##div[id^="wggen"] a
 baseball-reference.com##.adblock.stn
 modfyp.com,prothomalo.com##body .adsBox
 pokeminers.com###ad-card
@@ -8905,8 +8903,7 @@ watchporn4k.com,mdhstream.cc,fucking-tube.com##.happy-section
 ||hotlinkie.com^*index.php$third-party
 freepreset.net##.theiaStickySidebar > div > div.widget_custom_html
 lightsnovel.com##div[class^="novel-ins"]
-techcyan.com##.elementor-button-link
-analyticsindiamag.com,techcyan.com##.elementor-widget-container > a[target="_blank"] > img
+analyticsindiamag.com##.elementor-widget-container > a[target="_blank"] > img
 sabishare.com##.cmp-roll
 fastpeoplesearch.com##.ad-widget-container
 jasonsavard.com###middle > div[id^="page"] > a[href*="ref=ad"] > img
