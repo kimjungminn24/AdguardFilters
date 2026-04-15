@@ -26,7 +26,7 @@
 ! NOTE: Specific rules
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/229179
-@@||pixabay.com/content-partner/$stealth=3p-cache
+@@||pixabay.com/content-partner/$stealth=3p-cache|referrer,domain=canva.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/229000
 @@||playmogo.com^$subdocument,stealth=flash|java
 ! https://github.com/AdguardTeam/AdguardFilters/issues/229143
