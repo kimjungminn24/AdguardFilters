@@ -481,8 +481,8 @@ newsweek.com##iframe[src="http://sns.europe.newsweek.com/newsletter?popup=1"]
 !##############################
 ! SECTION: Tweaks - JS
 !
-! https://github.com/AdguardTeam/AdguardFilters/issues/229206
-frdl.hk#%#//scriptlet('adjust-setTimeout', 'seconds', '*', '0.02')
+! FreeDlink
+fredl.ru,frdl.hk#%#//scriptlet('adjust-setTimeout', 'seconds', '*', '0.02')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/229154
 ddownload.com#%#//scriptlet('adjust-setInterval', 'timer', '*', '0.001')
 ! devuploads.com
