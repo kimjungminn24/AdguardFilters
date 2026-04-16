@@ -102,7 +102,6 @@
 ||bapi-*.moengage.com^
 ||analystic.365av.net^
 ||mollyflow.com^
-||carsarace.com^
 ||citiservi.es^
 ||api.datahub-srgssr.ch^
 ||statisticslinks.com^
