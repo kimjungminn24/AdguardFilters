@@ -363,7 +363,7 @@ forabank.ru###js-cnotice-window
 rsb.ru###cookie-fixed-popup
 metallinvestbank.ru##.cookies-window
 kk.ru##.kkb-cb
-business.expobank.ru##.cookiePolice
+kebrus.ru,business.expobank.ru##.cookiePolice
 nsd.ru##div[data-testid="cookie-consent-container"]
 ib.online.gpb.ru##div[class^="gpb_internet_bank"] > div[role="alert"]:has( > div > p > a[href="https://www.gazprombank.ru/security/#basic-2955731"])
 bynex.io##footer[class^="Footer_footer"] + div[class^="styles_wrapper"]
