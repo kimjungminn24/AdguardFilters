@@ -69,6 +69,7 @@
 !
 !
 !
+||inventorycache.com^$xmlhttprequest,redirect=noopjson
 ||getter.fun^
 ||clik.by^$third-party
 ||metrix.luxnet.io^
