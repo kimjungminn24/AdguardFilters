@@ -735,9 +735,9 @@ oliberal.com#@#.to-block
 ! https://github.com/AdguardTeam/AdguardFilters/issues/141256
 ||tag.easycontent.com/app.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/141100
-investnewsbrazil.com,ricettafitness.com###adblockbyspider
-/traduzidocode.min.js$domain=investnewsbrazil.com|ricettafitness.com
-investnewsbrazil.com,ricettafitness.com#%#//scriptlet('prevent-element-src-loading', 'script', 'pagead2.googlesyndication.com')
+investnewsbrazil.com###adblockbyspider
+/traduzidocode.min.js$domain=investnewsbrazil.com
+investnewsbrazil.com#%#//scriptlet('prevent-element-src-loading', 'script', 'pagead2.googlesyndication.com')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/158243
 ! https://github.com/AdguardTeam/AdguardFilters/issues/139850
 @@||suaurl.com^$generichide
