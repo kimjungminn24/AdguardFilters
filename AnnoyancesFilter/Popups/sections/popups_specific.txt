@@ -4942,8 +4942,8 @@ globalvoices.org###colorbox[style*="width: 448px; height: 366px;"]
 globalvoices.org##body > div#cboxOverlay
 interia.pl##.survey-popup-container
 ||interia.pl/j/*-surveyPopup-*.js
-runtothefinish.com,troypoint.com#$#html { overflow: visible !important; }
-runtothefinish.com,troypoint.com#$#.cp-popup-container { display: none !important; }
+spaceshipsandlaserbeams.com,runtothefinish.com,troypoint.com#$#html { overflow: visible !important; }
+spaceshipsandlaserbeams.com,runtothefinish.com,troypoint.com#$#.cp-popup-container { display: none !important; }
 open-minds.it,iptvwire.com,my-stuwe.de##.cp-popup-container
 ibtimes.com,medicaldaily.com,catalea.de,player.one##.grwf2_backdrop
 ibtimes.com,medicaldaily.com,catalea.de,player.one##.grwf2-wrapper
