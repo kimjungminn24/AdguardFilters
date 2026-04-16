@@ -932,6 +932,7 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+mmsi01.com#%#//scriptlet('prevent-window-open')
 soopage.com###main > .row > div:has(> .box > .ads)
 gardeningknowhow.com##.sponsored-post--placeholder
 gardeningknowhow.com##.article__sidebar
