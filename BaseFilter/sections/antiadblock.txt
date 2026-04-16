@@ -7037,10 +7037,6 @@ premiumebooks.*#%#//scriptlet('abort-current-inline-script', 'document.getElemen
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=itscybertech.com|premiumebooks.*
 ! rakuten.tv - adblock detection
 @@||tv.ads.spotx.tv^$domain=rakuten.tv
-! https://github.com/AdguardTeam/AdguardFilters/issues/114665
-||cdn.leanhduc.pro.vn/utilities/block-adblock/main.js
-top1iq.com#$#body { overflow: auto !important; }
-top1iq.com#$##levelmaxblock { display: none !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/114454
 coin-free.com#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 !+ PLATFORM(ios, ext_android_cb)
