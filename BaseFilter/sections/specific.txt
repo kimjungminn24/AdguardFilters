@@ -2352,7 +2352,6 @@ redflix.club,redflix.co#%#//scriptlet('set-session-storage-item', 'adsDisabled',
 godownloader.com##.thanks
 dailywire.com##.homepage-articles-ad-wrapper
 dailywire.com#?#article h3:contains(Advertisement)
-bleepingcomputer.com##.articleBody > div[style^="width:"]:not([class]):has(> a[target="_blank"])
 bleepingcomputer.com##.articleBody > div[data-key] > div[style^="width:"]:not([class]):has(> a[target="_blank"])
 ||watchluna.com/load.js
 watchluna.com#%#//scriptlet('prevent-window-open')
@@ -21834,6 +21833,8 @@ adultlingeriepics.com,adultlingeriepics.com,adultspankingtgp.com,allfeetporn.com
 !
 !
 !
+!+ NOT_OPTIMIZED
+bleepingcomputer.com##.articleBody > div[style^="width:"]:not([class]):has(> a[target="_blank"])
 !+ NOT_OPTIMIZED
 porndoe.com##.-ad-top-wrap
 !+ NOT_OPTIMIZED
