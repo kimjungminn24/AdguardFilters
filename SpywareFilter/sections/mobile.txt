@@ -201,7 +201,7 @@ dlsdk.appsflyer.com^
 ||track.hily.com^
 ||ping*.bidease.com^
 ||ntus.bidease.com^
-||thinkingdata.cn^
+||global-receiver-ta.thinkingdata.cn^
 ||mixpanel-proxy-ivbdkvonca-uc.a.run.app^
 ||tc.zxcvbnml.com^
 ||fpconfig.net^
