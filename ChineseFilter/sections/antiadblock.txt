@@ -11,8 +11,12 @@
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228610
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228606
 huaren.live,huavod.com#%#//scriptlet('prevent-setTimeout', 'bait.offsetHeight===0')
+huavod.net,huaren.live,huavod.com#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'showModal')
 huaren.live,huavod.com#@#.ad_unit
 ||static.okokserver.com/js/anti/adblocker.js
+!+ PLATFORM(ios, ext_android_cb)
+@@||okokserver.com/uploads/lesi/*.mp4$domain=huavod.net|huavod.com|huaren.live
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=huavod.net|huavod.com|huaren.live
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228259
 verb.tw#$#.adsbygoogle.ad-slot.ad-banner.textads.banner-ads { display: block !important; }
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
