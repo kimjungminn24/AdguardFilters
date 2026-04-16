@@ -5785,11 +5785,11 @@ androidecuatoriano.xyz#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=androidecuatoriano.xyz
 ! https://github.com/AdguardTeam/AdguardFilters/issues/145793
 ! https://github.com/AdguardTeam/AdguardFilters/issues/144471
-bluetechno.net,healthy4pepole.com,world2our.com#%#//scriptlet('set-constant', 'SanadLoadAds', 'true')
-bluetechno.net,healthy4pepole.com,world2our.com#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
-@@/wp-content/themes/publisher/*/ads/static/adv/sailthru.js$domain=world2our.com|healthy4pepole.com|bluetechno.net
+bluetechno.net,healthy4pepole.com#%#//scriptlet('set-constant', 'SanadLoadAds', 'true')
+bluetechno.net,healthy4pepole.com#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
+@@/wp-content/themes/publisher/*/ads/static/adv/sailthru.js$domain=healthy4pepole.com|bluetechno.net
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=world2our.com|healthy4pepole.com|bluetechno.net
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=healthy4pepole.com|bluetechno.net
 ! https://github.com/AdguardTeam/AdguardFilters/issues/144806
 @@||forum.admiregirls.com/js/*/ad160.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/144751
