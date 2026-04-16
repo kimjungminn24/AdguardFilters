@@ -18,6 +18,7 @@ rxgo.com,alfastrah.ru,turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepe
 !
 !
 !
+online.sovcombank.ru##.auth-page__qr-holder
 gazprombank.ru##div[data-code="mobile_app"]
 bestbuy.com##body.upper-slim-smart-banner-sticky > .align-items-center:has(> a[href^="https://promos.bestbuy.com/"])
 bestbuy.com#$#body.upper-slim-smart-banner-sticky { margin-top: 0px !important; }
