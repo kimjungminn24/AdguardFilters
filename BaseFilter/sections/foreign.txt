@@ -12662,6 +12662,12 @@ vatantat.ru##a[href="https://pobeda.onf.ru/"]
 ##.right-menu > div.adhl
 !
 !
+||jav24hda.com/wp-content/uploads/*.gif
+||jav123hd.com/wp-content/uploads/*ads*.mp4
+||jav123hd.com/wp-content/uploads/Game2.mp4
+jav24hda.com##div[id^="jav24-"] > center
+jav24hda.com##div[id^="jav24-"] > center ~ br
+jav24hda.com##div[id^="banner"]
 animewaku.com##.module_home_x
 animewaku.com##.content > center
 animewaku.com##a[href^="https://ibit.ly/"]
