@@ -933,6 +933,8 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+||guessthe.game/ads/
+guessthe.game##.App > a[href][target="_blank"]
 history.com##div[data-sentry-component="Box"]:has(> div[data-sentry-component="Box"] > div[data-sentry-component="Box"] > div[data-sentry-component="Box"] > span + div[id] > iframe)
 history.com##div[data-name="section"]:has(> div[data-sentry-component="RevContentAds"])
 athlonoutdoors.com#?#p.hr-lines:contains(Advertisement)
