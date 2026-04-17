@@ -1917,6 +1917,7 @@ snopes.com#@#.home_ad_bottom
 !#safari_cb_affinity(general,privacy)
 @@||snopes.com^$generichide
 @@.js?fcd=true$domain=snopes.com
+@@||bigcrunch.com^$script,domain=snopes.com
 @@||googletagmanager.com/gtag/js?id=$domain=snopes.com
 @@||google-analytics.com/analytics.js$domain=snopes.com
 !#safari_cb_affinity
