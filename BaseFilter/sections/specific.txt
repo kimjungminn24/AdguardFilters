@@ -953,7 +953,6 @@ sexydixy.com##app-reddit-post-viewer > div.explore-post:has(> div > app-promo-po
 ||avrebo.com/avrebo-api/v*/advert/
 avrebo.com#%#//scriptlet('json-prune', 'data.[-].ad_url')
 mtpro.xyz##figure > div:has(> a[href="https://px6.me/"])
-mtpro.xyz##figure > div:has(> a[href="tg://resolve?domain=durevpnbot"])
 mtpro.xyz##.wp-block-navigation__submenu-container > li:has(> a[href="https://mod.ovh/proxy"])
 ddownload.com##.dk-banner-row
 zdrive.to#%#//scriptlet('prevent-addEventListener', 'popstate', 'location[_0')
