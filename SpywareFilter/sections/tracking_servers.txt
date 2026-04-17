@@ -69,6 +69,8 @@
 !
 !
 !
+||content-settings.com^
+||config-factory.com^
 ||aan8bq.ru^
 ||bonuscake.ru^$third-party
 ||inventorycache.com^$xmlhttprequest,redirect=noopjson
