@@ -427,6 +427,7 @@ kabutan.jp###kensaku_form + div.main_kensaku_div2_2.font-sans
 kyoto-np.co.jp##div[class^="ad-gliaplayer"]
 kyoto-np.co.jp##div[id^="taboola-below-article-widget"]
 kyoto-np.co.jp###ad-footer-overlay
+xenospectrum.com##.xs-amazon-products
 xenospectrum.com##.xs-ad-slot
 feedwatcher.net###wrapper > div.feed-block > div:has(> ins.adsbygoogle[data-ad-slot])
 news.tv-asahi.co.jp##.ad-timeline-summary-taboola
