@@ -935,7 +935,7 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
-driving.ca,calgaryherald.com,theprovince.com,canoe.com,financialpost.com##section[aria-describedby^="advertisment"]
+edmontonsun.com,driving.ca,calgaryherald.com,theprovince.com,canoe.com,financialpost.com##section[aria-describedby^="advertisment"]
 cybersecuritynews.com##.td-post-content > p.has-background:has(> a[href^="https://any.run/"])
 ||guessthe.game/ads/
 guessthe.game##.App > a[href][target="_blank"]
