@@ -984,7 +984,7 @@ namethatporn.com##article.sbitm_custom
 namethatporn.com##.item:has(> div.item_media)
 namethatporn.com#%#//scriptlet('abort-on-property-write', 'dataLayer')
 namethatporn.com#%#//scriptlet('prevent-window-open', '!namethatporn')
-rootz.so#%#//scriptlet('trusted-replace-fetch-response', '"adsEnabled":true', '"adsEnabled":false', 'api/files')
+rootz.so#%#//scriptlet('trusted-replace-fetch-response', '"isAdsEnabled":true', '"isAdsEnabled":false', 'api/files')
 sporked.com##h2#video-header:has(+ #sv-video-container)
 sporked.com###sv-video-container
 ||tik.porn/popunder.js
