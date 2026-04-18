@@ -6,6 +6,8 @@
 !
 !
 !
+! https://x.com/kina_ko_m_ochi_/status/2045398697102688702
+@@||a8.net/ad/ad.js$domain=ba-goods-search.com
 ! /fanza/ is dedicated for ads
 !#if (adguard)
 [$path=/fanza/]chichi-pui.com#@#section:has(> div.c-section-title-button > a[href^="/fanza/"])
