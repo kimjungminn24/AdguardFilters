@@ -935,6 +935,8 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+top.gg##aside.w-full > div.w-full > div.items-center:has(> div.aspect-video > #desktop-aside-video-ad)
+top.gg##section.w-full > div.items-center:has(> #vote-video-ad)
 vpzserver.com##a[href="https://rvpaste.com"]
 fithelptipz.com,vpzserver.com#%#//scriptlet('remove-attr', 'onclick', '[onclick^="window.open("]', 'stay')
 fithelptipz.com##.banner
