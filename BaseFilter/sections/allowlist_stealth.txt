@@ -25,6 +25,8 @@
 !
 ! NOTE: Specific rules
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/229580
+@@||guide.imggaming.com/prod|$stealth=3p-auth
 ! https://github.com/AdguardTeam/AdguardFilters/issues/229179
 @@||pixabay.com/content-partner/$stealth=3p-cache|referrer,domain=canva.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/229000

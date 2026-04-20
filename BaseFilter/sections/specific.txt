@@ -20723,6 +20723,9 @@ circleofcricket.com#$#.modal-backdrop { display: none !important; }
 circleofcricket.com#$##myModal { display: none !important; }
 circleofcricket.com##div.container-full.add:has(> a[href]:first-child)
 ||circleofcricket.com/assets/adv/
+! AWS MediaTailor SSAI
+watch.shout-tv.com#%#//scriptlet('json-prune', 'streams.*.adUnits.*')
+watch.shout-tv.com#%#//scriptlet('m3u-prune', '-mediatailor-config-via-sdk/', '.m3u8')
 !+ NOT_PLATFORM(ext_ublock)
 nytimes.com#%#//scriptlet('trusted-replace-fetch-response', '"show_ads":true', '"show_ads":false', 'statsig/initialize')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/222622
