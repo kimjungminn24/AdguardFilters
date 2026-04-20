@@ -1255,6 +1255,11 @@ youporn.com$$script:contains(/window\.[\s\S]*?_zone_[\s\S]*?{"zone_id":/)
 !
 ! NOTE: Regular rules
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/229517
+links.lootlabs.gg#%#//scriptlet('prevent-fetch', 'adsbygoogle')
+!#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb)
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=links.lootlabs.gg
+!#endif
 ! https://github.com/AdguardTeam/AdguardFilters/issues/229430
 file-me.top###adblock-overlay
 file-me.top#%#//scriptlet('abort-current-inline-script', 'EventTarget.prototype.addEventListener', '/AdBlock|adsbox/')
