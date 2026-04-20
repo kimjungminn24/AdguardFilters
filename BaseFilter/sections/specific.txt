@@ -935,6 +935,9 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+zpaste.net#%#//scriptlet('prevent-addEventListener', 'click', 'window.open')
+zpaste.net#%#//scriptlet('abort-current-inline-script', '$', 'window.open')
+zpaste.net#%#//scriptlet('prevent-window-open')
 style.yahoo.com##div[data-article-body] > div.commerce
 top.gg##aside.w-full > div.w-full > div.items-center:has(> div.aspect-video > #desktop-aside-video-ad)
 top.gg##section.w-full > div.items-center:has(> #vote-video-ad)
