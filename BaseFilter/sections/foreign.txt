@@ -2999,6 +2999,8 @@ autopapa.ge##.top-rek
 !
 ! NOTE: Greek
 !
+carandmotor.gr##.front-page-banner
+carandmotor.gr##.block-system > article ~ div.heading-container
 lexigram.gr###divAdOthers
 caroto.gr##.stream-item
 caroto.gr##.theiaStickySidebar > div.container-wrapper:has(> div[class] ins.dcmads)
