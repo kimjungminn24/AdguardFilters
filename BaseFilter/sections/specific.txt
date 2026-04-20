@@ -2553,8 +2553,8 @@ getcomics.*##ul.menu > li:not(:has(> a[href^="https://getcomics."]))
 cutout.pro#$#.promeRec { display: none !important; }
 cutout.pro#$#.headerBar { top: 0 !important; }
 mangaread.org##div[id^="promo-"]
-civitai.com##a[aria-label="visit advertiser"]
-civitai.com##div[id][class*="box-content"]:empty
+civitai.red,civitai.com##a[aria-label="visit advertiser"]
+civitai.red,civitai.com##div[id][class*="box-content"]:empty
 now.gg##div[id^="div-ad-"]
 now.gg##div[id^="skyScraper-"]
 porn15s.com,filmnudes.com##.single-side
