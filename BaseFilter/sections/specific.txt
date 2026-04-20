@@ -935,6 +935,9 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+||apimg.net/*.gif$image,domain=affpaying.com
+||apimg.net/slider/propellerads
+affpaying.com##div.bg-white:has(a[href^="https://propellerads.com/"])
 file-me.top#%#//scriptlet('prevent-addEventListener', 'click', 'cc++;')
 moneywise.com##.wise-ad
 porn4days.pw##.col-12 > div.alert:has(> a.theme-link)
