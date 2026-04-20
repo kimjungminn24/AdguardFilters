@@ -356,6 +356,7 @@ bayreuth-region.de,ra-hoernschemeyer.de,tuhlteim-pedia.de,entwickler.de,lockbarb
 !
 ! NOTE: Regular rules
 !
+bsa.org###block-cookiepolicy
 ipb.ru###cookie_jar
 kanopy.com##.non-gdpr-banner
 ||mosgorzdrav.ru/assets/*/ym_banner.js
