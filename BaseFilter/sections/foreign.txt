@@ -13376,6 +13376,8 @@ animevietsub.*##.video-ad-layer
 animevietsub.*##center > a[target="_blank"] > img
 animevietsub.*#%#//scriptlet('set-cookie', 'popupOpened', 'true')
 !
+holitv.org##div[class^="catfish-"]
+holitv.org###top-banner
 ||motphimr.io/rikvip-
 motphimr.io#%#//scriptlet('prevent-addEventListener', 'click', 'document.createElement')
 motphimr.io#%#//scriptlet('trusted-set-session-storage-item', 'popup-ads-last-shown', '$now$')
