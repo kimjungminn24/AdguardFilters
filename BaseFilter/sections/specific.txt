@@ -18602,7 +18602,6 @@ thesimsresource.com##.group div[class^="ad-"]
 autoblog.com##.grv-related
 mixcloud.com##.header-leaderboard
 healthline.com##.hl-loading-mask
-mycokerewards.com##.homePageBannerAdTopComponent
 theatlantic.com##.homepage-ad
 wowhead.com##.horizontal-bg
 trictrac.net##.inner-wrap > .row > .medium-11.text-center > a[href^="https://www.trictrac.net"]

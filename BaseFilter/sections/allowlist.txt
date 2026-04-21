@@ -4331,8 +4331,6 @@ pochta.ru#@#.header-advert
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js^$domain=f5haber.com
 ! https://github.com/AdguardTeam/ExperimentalFilter/issues/1697
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=kingofshrink.com
-! mycokerewards.com - code validation is broken
-@@||partner.googleadservices.com/gpt/pubads_impl_$domain=mycokerewards.com
 ! target.com - search is broken by generic url blocking rule
 @@||metrics.target.com/b/ss/targetcom$domain=target.com
 ! account.microsoft.com - broken interface
