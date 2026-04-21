@@ -4473,8 +4473,6 @@ marca.com#@#div[id^="div-gpt-ad-"]
 @@||bbc.co.uk/modules/branding/css/$domain=bbc.co.uk
 ! https://github.com/AdguardTeam/ExperimentalFilter/issues/501
 @@||hosts-file.net/ad_servers.txt
-! https://github.com/AdguardTeam/ExperimentalFilter/issues/488
-@@||google-analytics.com/analytics.js$domain=orbitum.com
 ! https://github.com/AdguardTeam/ExperimentalFilter/issues/472
 @@||omtrdc.net/b/ss/acsca-prod/$domain=amazon.ca|amazon.co.uk|amazon.com
 ! https://github.com/AdguardTeam/ExperimentalFilter/issues/439
