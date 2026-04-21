@@ -3483,7 +3483,7 @@ y2mate.is#%#//scriptlet('prevent-element-src-loading', 'script', 'pagead2.google
 ! https://github.com/AdguardTeam/AdguardFilters/issues/184913
 ! https://github.com/AdguardTeam/AdguardFilters/issues/183154
 ! sweetalert
-hentaihd.net,xstream.top,blurayufr.cam#%#//scriptlet('prevent-fetch', 'adsbygoogle')
+hentaihd.net,xstream.top#%#//scriptlet('prevent-fetch', 'adsbygoogle')
 !+ PLATFORM(ios, ext_safari, ext_android_cb)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=xstream.top
 ! https://github.com/AdguardTeam/AdguardFilters/issues/182858
