@@ -4566,7 +4566,7 @@ protect-link.biz#$#div[aria-labelledby="myModalLabel"] { display: none !importan
 protect-link.biz#$#div[aria-labelledby="myModalLabel"] ~ div.modal-backdrop { display: none !important; }
 scamadviser.com#$##marketing-popup-overlay { display: none !important; }
 scamadviser.com#$#body { overflow: auto !important; }
-drweb.de,khmertimeskh.com,cryptopotato.com,improveyoursocialskills.com,journaldev.com##.moOptinForm
+drweb.de,khmertimeskh.com,cryptopotato.com,improveyoursocialskills.com##.moOptinForm
 vimeo.com#?#main ~ div[class]:has(> button + p:contains(/^Upload.*all\sin\sHD/))
 yggtorrent.li##.ad-alert-message
 ntr-games.com,irliepaja.lv,asiatimes.com,8lordfilm-0.xyz,thedailybeast.com##.grecaptcha-badge[data-style="bottomright"]
@@ -6715,7 +6715,6 @@ freiepresse.de###fmsurvey
 bisikletforum.com,fav10.net,maxicep.com,mc-tr.com,cabconmodding.com##.FloatingContainer
 video.az###js-dialog-social-overlay
 plantes-et-sante.fr##.jq_inscription_newsletter
-journaldev.com##.stb-bottom-right-container
 rimondo.com##.rimondo_overlay
 m.focus.de###nlgate
 m.sportbild.bild.de##.js-flyin

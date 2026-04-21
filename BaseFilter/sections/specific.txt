@@ -17398,7 +17398,6 @@ ah-me.com##[id^="ntv"][id$="Container"]
 ||xozilla.com/js/pu.js
 ||xozilla.com/62ca745f.js
 ||sexu.com/nb-new
-journaldev.com##[id$="-quick-adsense"]
 hackingwithphp.com##.container > .lead
 hackingwithphp.com##div[style="text-align: center"] > div[style="max-width: 80%; margin: auto; margin-top: 50px; margin-bottom: 50px;"]:not([class]):not([id])
 ://*.streamplay.to/*&zoneid=$popup
