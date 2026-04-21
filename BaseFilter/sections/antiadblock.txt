@@ -1269,8 +1269,10 @@ file-me.top#%#//scriptlet('abort-current-inline-script', 'EventTarget.prototype.
 @@||fileditchfiles.me/js/prebid.js$domain=fileditchfiles.me
 fileditchfiles.me#%#//scriptlet('prevent-setTimeout', 'adblock')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/229395
-mtpro.xyz#$#figure > div:has(> a[href="tg://resolve?domain=durevpnbot"]) { position: absolute !important; left: -9999px !important; }
-mtpro.xyz#$#a[class~="wp-block-button__link"][target="_blank"]:not([href*="mtpro"]) { position: absolute !important; left: -9999px !important; }
+mtpro.xyz#$#figure > div:has(> a[href="tg://resolve?domain=durevpnbot"]) { background-color: var(--wp--preset--color--base) !important; }
+mtpro.xyz#$#a[class~="wp-block-button__link"][target="_blank"]:not([href*="mtpro"]) { background-color: var(--wp--preset--color--base) !important; }
+mtpro.xyz#$#figure[class] > div:has(> a[href="https://px6.me/"]) { background-color: var(--wp--preset--color--base) !important; }
+mtpro.xyz#$#.wp-block-navigation__submenu-container > li[class]:has(> a[href="https://mod.ovh/proxy"]) { background-color: var(--wp--preset--color--base) !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/229143
 camsfinder.com##.stream-embed> div.absolute.inset-x-0
 ! https://github.com/AdguardTeam/AdguardFilters/issues/229058
