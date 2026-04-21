@@ -4795,7 +4795,6 @@ implbits.com#@#.banner_container
 @@||shutterbug.com^$elemhide
 @@||stereophile.com^$elemhide
 ! end: because of adbackground rule
-@@|steamgamesales.com^$urlblock
 @@||content.newegg.com$document
 @@||filecheck.ru^$elemhide
 @@||krebsonsecurity.com
