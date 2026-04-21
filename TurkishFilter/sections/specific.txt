@@ -204,8 +204,6 @@ pornoizle9.icu##body > div[style="display: block;"]:has(ins[data-zoneid])
 pornoizle9.icu##.a-d_Py5f
 pornoizle9.icu#%#//scriptlet('abort-on-property-read', 'open')
 ||pornoizle9.icu/pk8/ntr/b100.js
-sotweturkifsa8.blog###block-35
-sotweturkifsa8.blog#%#//scriptlet('prevent-addEventListener', 'click', 'popUnder')
 trtspor.com.tr##div[class]:has(> div.ad-container)
 velvetporntube.com##.bns-place-ob
 milliyet.com.tr#?#.medyanet-inline-adv
@@ -221,7 +219,6 @@ ifsagram6.com##.banner-wrap
 ||zerotik.space/maczer15.js
 filmgo2.org,filmmolly.com##.sayfa-sol > a[target="_blank"]
 turkifsahub.com##a[href^="https://go.aff.teslaaffilate.com/"]
-turkzzersifsa3.blog,turkifsalife16.blog,turkifsalifetr1.blog#%#//scriptlet('prevent-addEventListener', 'click', 'popUnder')
 *$script,third-party,domain=turkifsalifetr1.blog
 ifsagram6.com###promoPopup
 ifsagram6.com#%#//scriptlet('trusted-replace-node-text', 'script', 'adPlayed', 'let adPlayed = false', 'let adPlayed = true')
@@ -4539,6 +4536,31 @@ taraftarium1033.xyz,taraftarium1034.xyz,taraftarium1035.xyz,taraftarium1036.xyz,
 taraftarium1033.xyz,taraftarium1034.xyz,taraftarium1035.xyz,taraftarium1036.xyz,taraftarium1037.xyz,taraftarium1038.xyz,taraftarium1039.xyz,taraftarium1040.xyz,taraftarium1041.xyz,taraftarium1042.xyz,taraftarium1043.xyz,taraftarium1044.xyz,taraftarium1045.xyz,taraftarium1046.xyz,taraftarium1047.xyz,taraftarium1048.xyz,taraftarium1049.xyz,taraftarium1050.xyz,taraftarium1051.xyz,taraftarium1052.xyz,taraftarium1053.xyz,taraftarium1054.xyz,taraftarium1055.xyz,taraftarium1056.xyz,taraftarium1057.xyz,taraftarium1058.xyz,taraftarium1059.xyz,taraftarium1060.xyz,taraftarium1061.xyz,taraftarium1062.xyz##.pageskin-wrapper
 taraftarium1033.xyz,taraftarium1034.xyz,taraftarium1035.xyz,taraftarium1036.xyz,taraftarium1037.xyz,taraftarium1038.xyz,taraftarium1039.xyz,taraftarium1040.xyz,taraftarium1041.xyz,taraftarium1042.xyz,taraftarium1043.xyz,taraftarium1044.xyz,taraftarium1045.xyz,taraftarium1046.xyz,taraftarium1047.xyz,taraftarium1048.xyz,taraftarium1049.xyz,taraftarium1050.xyz,taraftarium1051.xyz,taraftarium1052.xyz,taraftarium1053.xyz,taraftarium1054.xyz,taraftarium1055.xyz,taraftarium1056.xyz,taraftarium1057.xyz,taraftarium1058.xyz,taraftarium1059.xyz,taraftarium1060.xyz,taraftarium1061.xyz,taraftarium1062.xyz#%#//scriptlet('trusted-replace-node-text', 'script', 'prerollEnabled', 'prerollEnabled:true', 'prerollEnabled:false')
 !#endif
+!
+! Frequently changed domains: turkzzersifsa*.blog
+! Source: turkzzersifsa3.blog
+[$domain=/^turkzzersifsa\d+\.blog$/]#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'app_advert')
+[$domain=/^turkzzersifsa\d+\.blog$/]#%#//scriptlet('prevent-addEventListener', 'click', 'popUnder')
+!#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
+turkzzersifsa3.blog,turkzzersifsa4.blog,turkzzersifsa5.blog,turkzzersifsa6.blog,turkzzersifsa7.blog,turkzzersifsa8.blog,turkzzersifsa9.blog,turkzzersifsa10.blog,turkzzersifsa11.blog,turkzzersifsa12.blog,turkzzersifsa13.blog#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'app_advert')
+turkzzersifsa3.blog,turkzzersifsa4.blog,turkzzersifsa5.blog,turkzzersifsa6.blog,turkzzersifsa7.blog,turkzzersifsa8.blog,turkzzersifsa9.blog,turkzzersifsa10.blog,turkzzersifsa11.blog,turkzzersifsa12.blog,turkzzersifsa13.blog#%#//scriptlet('prevent-addEventListener', 'click', 'popUnder')
+!#endif
+!
+! Frequently changed domains: turkifsalife*.blog
+! Source: turkifsalife16.blog
+[$domain=/^turkifsalife\d+\.blog$/]#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'app_advert')
+[$domain=/^turkifsalife\d+\.blog$/]#%#//scriptlet('prevent-addEventListener', 'click', 'popUnder')
+!#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
+turkifsalife16.blog,turkifsalife17.blog,turkifsalife18.blog,turkifsalife19.blog,turkifsalife20.blog,turkifsalife21.blog,turkifsalife22.blog,turkifsalife23.blog,turkifsalife24.blog,turkifsalife25.blog,turkifsalife26.blog#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'app_advert')
+turkifsalife16.blog,turkifsalife17.blog,turkifsalife18.blog,turkifsalife19.blog,turkifsalife20.blog,turkifsalife21.blog,turkifsalife22.blog,turkifsalife23.blog,turkifsalife24.blog,turkifsalife25.blog,turkifsalife26.blog#%#//scriptlet('prevent-addEventListener', 'click', 'popUnder')
+!#endif
+!
+! Frequently changed domains: sotweturkifsa*.blog
+! Source: sotweturkifsa8.blog
+[$domain=/^sotweturkifsa\d+\.blog$/]#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'app_advert')
+[$domain=/^sotweturkifsa\d+\.blog$/]#%#//scriptlet('prevent-addEventListener', 'click', 'popUnder')
+[$domain=/^sotweturkifsa\d+\.blog$/]##.entry-content > div:has(> a[href="https://t.me/turkifsalifevip"])
+[$domain=/^sotweturkifsa\d+\.blog$/]###block-35
 !
 ! Frequently changed domains: turkifsa*.porn
 ! Source: turkifsa.porn
