@@ -356,6 +356,7 @@ bayreuth-region.de,ra-hoernschemeyer.de,tuhlteim-pedia.de,entwickler.de,lockbarb
 !
 ! NOTE: Regular rules
 !
+xppower.com##div[x-data="cookieConsent(false)"]
 jeans-meile.de###cc-consent-banner
 goodinfo.tw##footer > div[style]:has(> div > input[onclick^="setCookie"])
 ofiii.com##.cookie_consent_section
