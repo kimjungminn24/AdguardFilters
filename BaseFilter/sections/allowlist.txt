@@ -4500,8 +4500,6 @@ ebay.co.uk,ebay.com,ebay.de#@#.adv
 @@||bleepingcomputer.com/download/ads-spy/
 ! http://forum.adguard.com/showthread.php?4482 (fixing videos on cnn.com)
 @@||ht.cdn.turner.com/*.smil$document
-! http://forum.adguard.com/showthread.php?4391 [EasyPrivacy]
-@@||hermes-europe.co.uk/webtracking/
 ! http://forum.adguard.com/showthread.php?4403
 @@||m.dbzstatic.com/assets/js/loader.js
 ! https://github.com/AdguardTeam/ExperimentalFilter/issues/360
