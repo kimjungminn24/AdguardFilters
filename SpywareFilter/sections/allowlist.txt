@@ -6,6 +6,7 @@
 !
 !
 !### Temporary ###
+||acustomizedgift.com^$~xmlhttprequest,badfilter
 ||kindhush.com^$redirect=noopjson,xmlhttprequest,badfilter
 ||kindhush.com^$~xmlhttprequest,badfilter
 ! https://github.com/AdguardTeam/AdguardForWindows/issues/5372
