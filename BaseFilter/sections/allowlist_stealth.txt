@@ -1712,7 +1712,7 @@
 !+ NOT_OPTIMIZED
 @@||dcinside.co.kr/viewmovie.php$stealth
 !+ NOT_OPTIMIZED
-@@||m.dcinside.com/movie/$stealth,app=com.dcinside.app.android|com.dcinside.app
+@@||dcinside.com^$stealth
 !+ NOT_OPTIMIZED
 @@||dcinside.co.kr/viewimage.php?$stealth
 ! https://github.com/AdguardTeam/AdguardFilters/issues/98466
