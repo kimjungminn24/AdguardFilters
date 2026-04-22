@@ -7791,6 +7791,13 @@ analizy.pl##.randomBilboardAd
 analizy.pl##.articleStandardSidebarLongAd
 ! https://github.com/AdguardTeam/AdguardFilters/issues/171503
 nauka.rocks###sticky-anchor
+! https://github.com/AdguardTeam/AdguardFilters/issues/229501
+rp.pl##.overlay--advert
+rp.pl##.inner--ad--breaker
+rp.pl###intextVideoGremiPlayer[data-id="advert-video"]
+rp.pl#$#html.is-locked { overflow: auto !important; }
+rp.pl#%#//scriptlet('set-cookie', 'commercialBreakDailyCounter', '99', '/', 'rp.pl')
+rp.pl#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'loadCommercialBreak')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/199050
 rp.pl##.commercial--component--advert
 rp.pl##.latestArticleWrapper .commercialComponent
