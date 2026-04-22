@@ -3572,8 +3572,6 @@ cryptoslate.com#$#body.scroll #header.top-sticky-display { top: 0 !important; }
 mathway.com#$#.mw-static-left > div#container { width: 100% !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/82256
 readmng.com#$#.header > .scroll_to_top { min-height: 0 !important; }
-! https://github.com/AdguardTeam/AdguardFilters/issues/81794
-toolss.net#$##rightCol { margin-top: 0 !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/80770
 thumpertalk.com#$#div[data-role="commentContent"] a[rel="nofollow"] { color: black !important; text-decoration: none !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/80921

@@ -11916,7 +11916,7 @@ analyticsindiamag.com##a[target="_blank"][data-wpel-link="external"] > img
 adomainscan.com###ad-modal
 rawkuma.com###sidebar > .widget_text > .custom-html-widget:empty
 claimto.xyz##a[href^="https://www.bitsler.com/"] > img
-seopolarity.com,toolss.net,webnots.com##.sidebar_adds
+seopolarity.com,webnots.com##.sidebar_adds
 ||careercontessa.com/img/sidebar-promo-power-moves-*.png
 slideshare.net##.scribd-ad
 ||jav.si/js/mMbVAA7.js
