@@ -69,6 +69,8 @@
 !
 !
 !
+||t.journify.io^
+||static.journify.io^
 ||umamix.fadunews.in^
 ||acustomizedgift.com^$script,redirect=noopjs
 ||globalsiteanalytics.com^
