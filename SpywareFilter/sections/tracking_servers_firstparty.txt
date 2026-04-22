@@ -28,6 +28,15 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||sas.a.int-nft.peacocktv.com^
+||sas.a.peacocktv.com^
+||sas.a.stable-int.peacocktv.com^
+||sas.f.int-nft.peacocktv.com^
+||sas.f.peacocktv.com^
+||sas.f.stable-int.peacocktv.com^
+||sas.int-nft.peacocktv.com^
+||sas.peacocktv.com^
+||sas.stable-int.peacocktv.com^
 ||goto.simplywall.st^
 ||swssp.simplywall.st^
 ||swsdd.simplywall.st^
