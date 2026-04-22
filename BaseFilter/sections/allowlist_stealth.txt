@@ -1013,8 +1013,9 @@
 @@||vidtube.pro/embed$subdocument,stealth=referrer
 ! https://github.com/AdguardTeam/AdguardFilters/issues/181315
 @@embed/$stealth=webrtc,domain=vipbox.lc
+! https://github.com/AdguardTeam/AdguardFilters/issues/229703
 ! https://github.com/AdguardTeam/AdguardFilters/issues/181992#issuecomment-2188273314
-@@||hdmomplayer.com/embed/$domain=dizimom.*,stealth=referrer
+@@||hdmomplayer.com/embed/$domain=dizimom.*|filmbip.com,stealth=referrer
 ! https://github.com/AdguardTeam/AdguardFilters/issues/182121
 @@||myqcloud.com^$stealth=referrer,domain=chinadsl.net
 ! https://github.com/AdguardTeam/AdguardFilters/issues/181648
