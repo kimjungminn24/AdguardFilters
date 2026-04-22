@@ -1470,7 +1470,6 @@
 @@||qccommunity.qcloudimg.com^$stealth=referrer,domain=cloud.tencent.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/155496
 @@||go.tnshort.net^$stealth=referrer
-@@||finclub.in/safe*.php?link=$stealth=referrer
 ! https://github.com/AdguardTeam/AdguardFilters/issues/155363
 @@||furher.in/e/$subdocument,stealth=referrer
 ! https://github.com/AdguardTeam/AdguardFilters/issues/155189
