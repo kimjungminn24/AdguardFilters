@@ -69,6 +69,7 @@
 !
 !
 !
+||acustomizedgift.com^$script,redirect=noopjs
 ||globalsiteanalytics.com^
 ||content-settings.com^
 ||config-factory.com^
