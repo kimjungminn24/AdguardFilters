@@ -5,6 +5,6 @@ sites:
   Turkifsaclub (turkifsaclub*.sbs):
     last_known_mirror: turkifsaclub105.sbs
     last_seen: 2026-04-22
-  Jmanga (jmanga*.army):
+  Jmanga (jmanga.*):
     last_known_mirror: jmanga.host
     last_seen: 2026-04-22
