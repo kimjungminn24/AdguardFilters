@@ -83,6 +83,9 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 !
 ! NOTE: Specific rules
 !
+||rudderstack.com/v1/track|
+||rudderstack.com/v1/identify|
+||rudderstack.com/v1/batch?writeKey=
 ||simplywall.st/backend/flags/proxy/client/metrics
 ||doofinder.com/api/v*/stats/
 ||chatgpt.com/backend-api/beacons/
