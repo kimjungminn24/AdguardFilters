@@ -6755,8 +6755,6 @@ helmiau.com#%#//scriptlet("abort-current-inline-script", "document.createElement
 ! spigotunlocked.org anti-adb
 spigotunlocked.org#%#//scriptlet("prevent-addEventListener", "DOMContentLoaded", "_0x")
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=spigotunlocked.org
-! https://github.com/AdguardTeam/AdguardFilters/issues/121309
-strtapeadblocker.art#@#.skyscraper.ad
 ! https://github.com/AdguardTeam/AdguardFilters/issues/123610
 hotdebrid.com#%#//scriptlet('prevent-element-src-loading', 'script', 'ads.rubiconproject.com/ad/')
 !+ PLATFORM(ios, ext_android_cb)
