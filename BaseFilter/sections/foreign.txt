@@ -8363,6 +8363,7 @@ whitemad.pl##a[href^="https://oakywood.shop/"]
 gramwzielone.pl##a[href^="https://pl.goodwe.com/"]
 gramwzielone.pl#?#div.right-column > section.gwz-box:has(> div > a > div:contains(Reklama))
 ! https://github.com/AdguardTeam/AdguardFilters/issues/138309
+!+ NOT_OPTIMIZED
 cashless.pl#?#.container > div.text-xs:contains(/^Reklama/)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/138100
 se.pl,poradnikzdrowie.pl###hook_box_topboard
