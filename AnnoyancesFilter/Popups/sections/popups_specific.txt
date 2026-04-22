@@ -43,6 +43,8 @@ sport-express.ru,pikabu.ru##iframe[src^="https://autofill.yandex.ru/suggest?"]
 !
 ! SECTION: Popups - Regular rules
 !
+estuary.dev##iframe[title="Close message"]
+estuary.dev##iframe[title="Message from company"]
 money.ca,moneywise.com#%#//scriptlet('trusted-set-local-storage-item', 'comment_notice_dismissed_at', '$now$')
 otterbox.com#$##popUpModal { display: none !important; }
 otterbox.com#$#.modal-backdrop { display: none !important; }
