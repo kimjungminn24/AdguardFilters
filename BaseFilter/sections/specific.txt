@@ -3781,6 +3781,9 @@ picazor.com#%#//scriptlet('trusted-set-local-storage-item', 'lastAdShown', '9999
 picazor.com##main.h-full > div.mx-auto:has(iframe[src^="//bullionglidingscuttle.com/"])
 picazor.com##.bg-rose-500:has(> a[href="/livesex"])
 picazor.com##a[href="/livesex"]
+picazor.com##.mb-3[style^="height:250px;min-height:250px;"]
+picazor.com#$#html[style*="--top-banner:"] > body > .fixed[style^="top:"] { top: 0 !important; }
+picazor.com#$#html[style*="--top-banner:"] > body > .top-0:has(> button[aria-label="Close banner"]) { display: none !important; }
 ||biguz.net/vastcams.xml
 biguz.net##.rig
 mysexgames.com##td[valign="top"] > div[align="center"][style="margin-top:0px;"]
