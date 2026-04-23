@@ -939,6 +939,7 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+loudwire.com##.singlePostGoogleAd-lazyload-placeholder
 mavink.com##.adgrid
 mavink.com##div.box:has(> ins.adsbygoogle)
 cars.com##cars-sticky-footer-ad
