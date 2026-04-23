@@ -69,6 +69,7 @@
 !
 !
 !
+||fubuki-umami.space^
 ||t.journify.io^
 ||static.journify.io^
 ||umamix.fadunews.in^
