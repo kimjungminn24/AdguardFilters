@@ -13976,6 +13976,7 @@ lookmovie.ag##body > iframe[style^="position: fixed; z-index:"][style*="right:"]
 ||rule34hentai.net/javascript_rotator*.php$important
 ||rule34hentai.net/javascript_rotatortopbanner.php$important
 rule34hentai.net##.blockbody > iframe[src^="https://rule34hentai.net/javascript_rotaor"]
+rule34hentai.net#%#//scriptlet('abort-on-stack-trace', 'parseInt', 'runRotator')
 xxxhentai.net##.promo-block
 xxxhentai.net##noindex > .bb-place
 xxxhentai.net##.gallery-list > div[itemprop='associatedMedia'].paid-mix
