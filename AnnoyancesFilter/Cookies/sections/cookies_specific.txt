@@ -356,6 +356,7 @@ bayreuth-region.de,ra-hoernschemeyer.de,tuhlteim-pedia.de,entwickler.de,lockbarb
 !
 ! NOTE: Regular rules
 !
+chelindbank.ru##.bottom-warning
 login.prismamarket.ee#%#//scriptlet('set-cookie', 'cookie-permission', 'accept')
 domlenta.ru##lu-cookie-agree
 forms.wb.*##div[role="region"] > div[role="alertdialog"]:has(span > a[href*="/privacypolicy/"])
