@@ -18,6 +18,8 @@
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/229788
+@@||tag.aticdn.net/piano-analytics.js$domain=rte.ie
 ! https://github.com/AdguardTeam/AdguardFilters/issues/229729
 @@||blob.core.windows.net/comed/src/js/google-analytics.js$domain=comed.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/229733

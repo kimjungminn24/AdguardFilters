@@ -12,6 +12,8 @@
 !+ NOT_OPTIMIZED PLATFORM(windows, mac, android, cli)
 ||geolocation.onetrust.com/cookieconsentpub/*/geo/location$xmlhttprequest,redirect-rule=noopjson
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/229788
+@@||cdn.cookielaw.org/consent/$domain=rte.ie
 ! https://github.com/AdguardTeam/AdguardFilters/issues/229239
 @@||searoute.info/js/cookieControl.js$domain=searoute.info
 ! de.ergo.app - error code on startup
