@@ -6219,11 +6219,6 @@ codingdeft.com#@#.ad-unit:not(.textads)
 codingdeft.com#@#.ad-space
 codingdeft.com#@#.adsbox
 !#endif
-! https://github.com/AdguardTeam/AdguardFilters/issues/136431
-sportsguild.net#%#//scriptlet('abort-current-inline-script', '$', 'keepChecking')
-sportsguild.net#?#.wpb_wrapper > div.wpb_content_element:has(> div.wpb_wrapper > h3:contains(Disable Adblocker))
-||sportsguild.net/block/dublocker.css
-sportsguild.net##.ad-modal
 ! https://github.com/AdguardTeam/AdguardFilters/issues/136293
 @@||ads2.banaraswap.in^$xmlhttprequest,domain=banaraswap.in
 upshrink.com#$#body { overflow: auto !important; }
