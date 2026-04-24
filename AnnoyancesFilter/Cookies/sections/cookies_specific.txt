@@ -358,6 +358,10 @@ bayreuth-region.de,ra-hoernschemeyer.de,tuhlteim-pedia.de,entwickler.de,lockbarb
 !
 ! NOTE: Regular rules
 !
+! cookie
+ettoday.net#$#.i-amphtml-consent-ui-mask { display: none !important; }
+ettoday.net#$#amp-consent { display: none !important; }
+ettoday.net#$?#.i-amphtml-scroll-disabled { overflow-x: auto !important; overflow-y: auto !important; }
 rg.ru#%#//scriptlet('set-cookie', 'cookie_consent', '1')
 truecar.com##a[href="#mainContent"] + .fixed.bottom-0
 chelindbank.ru##.bottom-warning
