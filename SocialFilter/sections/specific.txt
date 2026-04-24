@@ -85,6 +85,8 @@ cogconnected.com,echofm.online,antirez.com,comicbook.com,alexp.pl,2ality.com,sma
 !
 ! NOTE: Specific rules
 !
+fxstreet.cz##.homepage-social-wrap
+fxstreet.cz##.left-side-wrap > div.add:has(> div.promotion > div.fb-share-button)
 goldderby.com##div[data-component="gutenberg-content"] div[data-component="social-media"]
 change.org##div[data-qa="share-section-sunrise"]
 tbank.ru##div[data-qa-file="PostShareButton"]

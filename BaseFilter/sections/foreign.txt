@@ -1430,6 +1430,9 @@ mob.hr##.side_banner
 !
 ! NOTE: Czech and Slovakian
 !
+fxstreet.cz##.partners-wrap
+fxstreet.cz##.ad-top-wrap
+fxstreet.cz##.adsplaceholder
 mediaguru.cz##.row-main div > p.tw-mb-0.tw-border-solid.tw-rounded:has(> a[target="_blank"][rel="noopener noreferrer"])
 cas.sk##div[class^="withBlankSpaceReklamnyBox_"]
 novinky.cz##.ogm-branding-advert + div:has(> div > div > .js-ad)
