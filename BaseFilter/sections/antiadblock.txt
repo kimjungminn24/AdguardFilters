@@ -1292,11 +1292,11 @@ dicoall.com#@##ad-lead
 cnxxx.org#%#//scriptlet('prevent-fetch', 'adsbygoogle')
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cnxxx.org
+! https://github.com/AdguardTeam/AdguardFilters/issues/229823
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228846
-planetf1.com#%#//scriptlet('abort-current-inline-script', 'RegExp.prototype.test', '_0x')
-||ad.doubleclick.net/favicon.ico$redirect=1x1-transparent.gif,domain=planetf1.com,important
+/favicon.ico$image,third-party,redirect=32x32-transparent.png,domain=cricket365.com|football365.com|golf365.com|loverugbyleague.com|planetf1.com|planetfootball.com|planetrugby.com|teamtalk.com|tennis365.com,important
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
-@@||ad.doubleclick.net/favicon.ico$domain=planetf1.com
+@@/favicon.ico$domain=cricket365.com|football365.com|golf365.com|loverugbyleague.com|planetf1.com|planetfootball.com|planetrugby.com|teamtalk.com|tennis365.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228805
 ftuapps.farlad.com$$script:contains(showAntiAdblockOverlay)
 ftuapps.farlad.com#%#//scriptlet('remove-node-text', 'script', 'showAntiAdblockOverlay')
