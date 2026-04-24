@@ -28,8 +28,6 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
-! aglint-disable-next-line no-excluded-rules
-||collector-*.px-cloud.net^
 ||alib.nine.com.au^
 ||data.ssports.com^
 ||sas.a.int-nft.peacocktv.com^
