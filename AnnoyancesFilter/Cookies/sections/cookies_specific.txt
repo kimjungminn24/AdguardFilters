@@ -359,6 +359,7 @@ beamten-infoportal.de,bayreuth-region.de,ra-hoernschemeyer.de,tuhlteim-pedia.de,
 ! NOTE: Regular rules
 !
 ! cookie
+makeup.com.ua##.CookieBanner__cookie
 rundfunkbeitrag.de##.-show.consentDialog
 igetnow.com##app-cookie-banner-wrapper-component
 ettoday.net#$#.i-amphtml-consent-ui-mask { display: none !important; }
