@@ -80,6 +80,7 @@ sp.manga.nicovideo.jp##div[style^="--ads-width:"]
 !
 ! SECTION: Regular rules
 !
+toyokeizai.net##.article-related__list > article.article-related__item:has(> div.ad-container)
 techorange.com#?#.elementor-hidden-desktop:has(> div.e-con-inner:only-child:not(:has(*)))
 immowelt.de##div[data-testid="serp-core-scrollablelistview-testid"] > div[class^="css-"]:has(> div[class] > div[class] > div[id^="div-gam-ad-"])
 immowelt.de##.HideOnPrint:has(> div[class] > div[class] > div#ad-banner-mobile)
