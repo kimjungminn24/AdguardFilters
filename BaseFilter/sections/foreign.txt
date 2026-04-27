@@ -77,13 +77,17 @@ gjirafa.com##div[id^="an-holder-"]
 ! NOTE: Arabian
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228825
+elahmad.org#@#.ad_unit
+elahmad.org#@#.ad-slot
+elahmad.org###close_x
 elahmad.org#@#.ad-unit:not(.textads)
 elahmad.org##body > div[id^="ads"]
 elahmad.org##body > div[style^="z-index: 99999; position: fixed;"]
+elahmad.org#%#//scriptlet('prevent-element-src-loading', 'script', 'adsbygoogle')
 elahmad.org#%#//scriptlet('prevent-fetch', '/pahtag\.tech|adsbygoogle/')
 elahmad.org#%#//scriptlet('prevent-setTimeout', '/\.display==="none"|BlockAdBlock/')
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=elahmad.org
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=elahmad.org
 ! https://github.com/easylist/listear/issues/43
 stardima.com#%#//scriptlet('prevent-addEventListener', 'click', '/redirect.php?')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/205731
