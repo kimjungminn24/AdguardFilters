@@ -9,8 +9,6 @@
 !
 !
 !
-||adradar.io^$third-party
-||adserve.adradar.io^
 ||b-short.link^$all
 ||yoszi.com^$third-party
 ||d3rem.com^
