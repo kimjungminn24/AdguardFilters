@@ -945,6 +945,7 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+seatemperature.info###x27
 babez.live#%#//scriptlet('set-cookie', 'enter', 'true')
 ||komm.saug.us/request|$domain=babez.live
 babez.live##aside[aria-label="Notification Ad"]
