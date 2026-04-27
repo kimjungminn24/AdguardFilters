@@ -5696,7 +5696,6 @@ try-it.jp##.C--ahaArea
 guiadasemana.com.br,ghostintheshell-sac2045.jp###top-share
 fujitv.co.jp###fp-bhp-bottomSp-social
 fujitv.co.jp###fp-bhp-rightBottomSocial
-suzuri.jp##.product__share-button-wrapper
 cybernews.com##.links-bar
 shop.benesse.ne.jp##.item-detail-sns
 benesse.ne.jp##.sns_list_secondary
