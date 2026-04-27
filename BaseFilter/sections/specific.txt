@@ -945,6 +945,11 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+safefileku.com##div[class]:has(> small > em)
+safefileku.com###download + div:has(> a[rel="nofollow"])
+cinevibe.asia#%#//scriptlet('trusted-replace-outbound-text', 'atob', '/.+/', '')
+bavarianfootballworks.com##.duet--layout--rail > div:has(> div[class] > div[data-concert]:only-child)
+bavarianfootballworks.com##div[class]:has(> div[data-concert]:only-child)
 seatemperature.info###x27
 babez.live#%#//scriptlet('set-cookie', 'enter', 'true')
 ||komm.saug.us/request|$domain=babez.live

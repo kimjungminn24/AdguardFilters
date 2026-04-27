@@ -83,6 +83,8 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 !
 ! NOTE: Specific rules
 !
+||safefileku.com/events.js
+||safefileku.com/download/*/event|
 ||fittingbox.com/analytics/
 ||count.bg/js/script.js
 ||share.9cdn.net/share/*/js/tracking/
