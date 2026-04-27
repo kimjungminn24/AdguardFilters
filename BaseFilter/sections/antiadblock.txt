@@ -1253,10 +1253,11 @@ youporn.com$$script:contains(/window\.[\s\S]*?_zone_[\s\S]*?{"zone_id":/)
 !
 ! NOTE: Regular rules
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/230046
 ! https://github.com/AdguardTeam/AdguardFilters/issues/230044
-xswiper.com#%#//scriptlet('prevent-xhr', 'adpresenter.de')
+sexeey.com,xswiper.com#%#//scriptlet('prevent-xhr', 'adpresenter.de')
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
-@@||data.adpresenter.de^$domain=xswiper.com
+@@||data.adpresenter.de^$domain=xswiper.com|sexeey.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/229963
 smksports.live#%#//scriptlet('prevent-addEventListener', 'load', 'checkAdBlock')
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
