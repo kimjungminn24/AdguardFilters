@@ -4,6 +4,8 @@
 ! Good: example.org#@#.ad
 ! Bad:  @@||example.org^$stealth (should be in AdGuard Base - allowlist_stealth.txt)
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/230051
+artuzel.com#@#.bannerBlock
 ! https://github.com/AdguardTeam/AdguardFilters/issues/229198
 @@||mospraz.ru/image/cache/catalog/categories/den-pobedy/icons/bannery-
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228354
