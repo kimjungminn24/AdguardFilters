@@ -360,7 +360,7 @@ authentisch-maennlich.de,beamten-infoportal.de,bayreuth-region.de,ra-hoernscheme
 !
 ! NOTE: Regular rules
 !
-! cookie
+tapo.com###tapo-cookie
 riacurrencyexchange.es#$#body.cookies-no-overflow { overflow: auto !important; }
 riacurrencyexchange.es#$#.cookies-mask { display: none !important; }
 apotekfordeg.no##section[x-init*="showConsentModal"]
