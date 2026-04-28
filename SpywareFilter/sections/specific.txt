@@ -83,6 +83,7 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 !
 ! NOTE: Specific rules
 !
+||watch.foodnetwork.com/events/
 ||us*-prod-direct.*.com/events/$domain=tlc.com|discovery.com
 ||misc.udn.com/record/pageview/
 ||p.udn.com.tw/upf/static/common/udn-fingerprint.umd.js
