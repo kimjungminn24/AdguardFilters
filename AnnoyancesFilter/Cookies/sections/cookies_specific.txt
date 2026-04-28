@@ -3668,6 +3668,7 @@ uga.edu###dp-cookie-notification
 revolut.com##body > div[style]:has(> div[aria-label*="cookies"])
 brso.de#%#//scriptlet('set-cookie', 'cc_hide_prompt', '1')
 l1nieuws.nl#%#//scriptlet('trusted-click-element', '#consent-plugin button[aria-label^="Accepteer alles"]')
+rijnmond.nl#%#//scriptlet('trusted-click-element', '#consent-plugin button[aria-label="Alles accepteren"]')
 etudes-et-analyses.com#%#//scriptlet('prevent-setTimeout', 'privacy_policy_sec')
 /wp-content/plugins/cookie-law-info/lite/frontend/js/script.min.js$important,domain=zamekgrodno.pl|sztolnie.pl
 muzix.eu,elektrodigit.hu#$#body { overflow: auto !important; }
