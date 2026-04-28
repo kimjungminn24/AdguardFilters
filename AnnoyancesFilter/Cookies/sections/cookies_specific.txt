@@ -359,6 +359,7 @@ authentisch-maennlich.de,beamten-infoportal.de,bayreuth-region.de,ra-hoernscheme
 ! NOTE: Regular rules
 !
 ! cookie
+boostmusic.com#%#//scriptlet('trusted-set-cookie', 'starter-cookie-data', 'hasAckowledged')
 animejara.com###aj-cookies-compact
 olx.ua##div[data-testid="cookies-overlay__container"]
 pronto-pizza-moisburg.de#%#//scriptlet('trusted-set-cookie', 'cookie-settings', '{"personalize":false}')
