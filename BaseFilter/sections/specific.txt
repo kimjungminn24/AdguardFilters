@@ -945,9 +945,12 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
-fapnado.com##.text_link_holder
-fapnado.com##a[href^="https://t.javhd-trk.com/"]
-fapnado.com###list_videos_related_videos_items > div.col:has(> div.thumb > a[href^="https://www.tckcandy.com/"])
+fapnado.xxx##.fluid_start_container
+fapnado.xxx##.fluid_html_on_pause_container
+fapnado.xxx##.footer-margin
+fapnado.xxx,fapnado.com##.text_link_holder
+fapnado.xxx,fapnado.com##a[href^="https://t.javhd-trk.com/"]
+fapnado.xxx,fapnado.com###list_videos_related_videos_items > div[class]:has(a[href^="https://www.tckcandy.com/"])
 forums.hardwarezone.com.sg##.hwz-taboola-top
 cbr.com,thegamer.com##.an-injected
 cbr.com,thegamer.com##.an-injector-zone
