@@ -4896,8 +4896,8 @@ agroreview.com,glavcom.ua##.read-us
 castorama.pl##.newsletter-fold
 myseldon.com##.widget-telegram
 qa.opensooq.com##.beTheFirst
-igeeksblog.com##.lepopup-popup-container
-igeeksblog.com##.lepopup-popup-overlay
+greatdeals.com.sg,igeeksblog.com##.lepopup-popup-container
+greatdeals.com.sg,igeeksblog.com##.lepopup-popup-overlay
 zawszepomorze.pl##.patrons-payu
 larepublica.pe,bfi.org.uk##div[class^="NewsletterSignUp"]
 actualidadiphone.com#?##abn_singlestealer:has(> div.nav-youtube)
@@ -6196,7 +6196,7 @@ blogs.constantcontact.com##.trial-optin-cta
 blogs.constantcontact.com##.blogs-cta-wrapper
 blogs.constantcontact.com##.optin-overlay
 ioshacker.com#?#.cnvs-block-section-sidebar-inner > div.wp-block-group:has(> div.wp-block-group__inner-container > h2#sign-up-for-our-weekly-newsletter)
-ioshacker.com##.powerkit_opt_in_subscription_widget
+greatdeals.com.sg,ioshacker.com##.powerkit_opt_in_subscription_widget
 exodus.com##.x__subscribe-popup
 tempo.co,sme.sk##.remp-banner
 rbc.ru##.social-onboarding-place__inner
