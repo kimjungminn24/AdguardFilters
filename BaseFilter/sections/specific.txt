@@ -957,10 +957,11 @@ pcgamesn.com##a[title="Fanatical bundle ad"]
 fapnow.xxx##a[href^="https://go.gsrv.dev/"]
 fapnado.xxx##.fluid_start_container
 fapnado.xxx##.fluid_html_on_pause_container
-fapnow.xxx,fapnado.xxx##.footer-margin
+faptor.com,fapnow.xxx,fapnado.xxx##.footer-margin
 fapnado.xxx,fapnado.com##.text_link_holder
 fapnow.xxx,fapnado.xxx,fapnado.com##a[href^="https://t.javhd-trk.com/"]
-fapnow.xxx,fapnado.xxx,fapnado.com###list_videos_related_videos_items > div[class]:has(a[href^="https://www.tckcandy.com/"])
+faptor.com,fapnow.xxx,fapnado.xxx,fapnado.com###list_videos_related_videos_items > div[class]:has(a[href^="https://www.tckcandy.com/"])
+faptor.com##center:contains(/^Advertisement$/)
 forums.hardwarezone.com.sg##.hwz-taboola-top
 cbr.com,thegamer.com##.an-injected
 cbr.com,thegamer.com##.an-injector-zone
@@ -6866,7 +6867,6 @@ porninblack.com###sidebar > .wp-block-image a[target="_blank"] > img
 andhrafriends.com###ipsLayout_mainArea center:has(table div[data-aaad])
 andhrafriends.com#?#.ipsClear > li.ipsDataItem:has(> center div[data-floatposition="bottom-right"])
 faptor.com#?#.dblock > center:contains(Advertisement)
-starwank.com,faptor.com##.zpot-horizontal-img
 today.com##.topbannerAd
 today.com##div[class^="styles_marqueeBreaking"]
 hockeyfeed.com##body div.ads[class*="device"][class*="svelte"]
@@ -13734,7 +13734,7 @@ lnk.parts##.display-link-layer > .display-300x250
 az511.gov##.adsContainerTop
 sitepoint.com##div[class^="styledHeader__TopBanner-"]
 gamelab.com,play.dictionary.com##div[class^="DisplayAd__container_"]
-fapnado.com,3dporndude.com,fapnow.*,fapcat.com,cambay.tv##.fp-logo
+faptor.com,fapnado.com,3dporndude.com,fapnow.*,fapcat.com,cambay.tv##.fp-logo
 kolombox.com###dlbtn_big
 ||kolombox.com/images/downicon.png
 stylecaster.com##.wrapper-header-ad-slot
@@ -21930,6 +21930,8 @@ adultlingeriepics.com,adultlingeriepics.com,adultspankingtgp.com,allfeetporn.com
 !
 !
 !
+!+ NOT_OPTIMIZED
+starwank.com,faptor.com##.zpot-horizontal-img
 !+ NOT_OPTIMIZED
 fxstreet.*##.fxs_leaderboard
 !+ NOT_OPTIMIZED
