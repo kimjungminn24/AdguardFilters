@@ -5121,6 +5121,7 @@ movie76.com##img[alt="ads"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/222857
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=m2o.it
 !
+iphoneitalia.com##.ipit-ac-remove-ads
 vocegiallorossa.it##div.centra > div.center[style]:has(> .tcc-banner #div-gpt-ad-MaxTicker)
 open.online###primary > div.embed-container:has(> a[href="https://www.rivistaeco.com/"])
 open.online##.adv-banner-container
