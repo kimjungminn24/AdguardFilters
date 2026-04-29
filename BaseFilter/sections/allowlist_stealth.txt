@@ -25,6 +25,8 @@
 !
 ! NOTE: Specific rules
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/230279
+@@||streamdata.vaplayer.ru^$xmlhttprequest,stealth=referrer,domain=brightpathsignals.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/229987
 @@||hisnet.handong.edu^$stealth=dpi
 ! applying DPI protection for the app makes it unresponsive
