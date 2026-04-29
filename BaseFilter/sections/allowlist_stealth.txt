@@ -974,8 +974,9 @@
 @@||securetoken.googleapis.com^$stealth=referrer
 ! https://github.com/AdguardTeam/AdguardFilters/issues/184764
 @@||jetv.xyz/dz/?id=$stealth=referrer
+! https://github.com/AdguardTeam/AdguardFilters/issues/229956
 ! https://github.com/AdguardTeam/AdguardFilters/issues/184773
-@@||video.matchtv.ru^$stealth=donottrack
+@@||video.matchtv.ru^$stealth=donottrack|ip
 ! https://github.com/AdguardTeam/AdguardFilters/issues/184798
 @@||services.radio-canada.ca/ott/$stealth=3p-auth
 @@||services.radio-canada.ca/media/$stealth=ip
