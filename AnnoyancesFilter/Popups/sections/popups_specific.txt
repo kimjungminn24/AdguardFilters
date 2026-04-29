@@ -43,6 +43,7 @@ sport-express.ru,pikabu.ru##iframe[src^="https://autofill.yandex.ru/suggest?"]
 !
 ! SECTION: Popups - Regular rules
 !
+skroutz.gr##.onsite-notification-toast
 thedailycatch.org###meter-message
 hgtv.com###welcome-banner
 cinevibe.asia#$#.inset-0.fixed { display: none !important; }
