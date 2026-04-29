@@ -946,7 +946,7 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
-||javdock.com/wp-content/themes/dock/assets/js/fun.js
+/wp-content/themes/*/assets/js/fun.js$domain=javdock.com|bestjavporn.com
 lewdzone.com##.notice-text
 ||thedailycatch.org/wp-content/uploads/2025/12/Burnett-White-Tower-Ad-Dec-2025.png
 ||thedailycatch.org/wp-content/uploads/2026/04/Spring-is-here-TOWER-LIGHT-1.png
