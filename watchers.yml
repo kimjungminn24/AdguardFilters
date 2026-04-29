@@ -11,3 +11,7 @@ sites:
   Jmanga (jmanga.*):
     last_known_mirror: jmanga.trade
     last_seen: 2026-04-29
+  iNat TV (inattv*.xyz):
+    initial_domain: inattvgiris.one
+    last_known_mirror: inattv1298.xyz
+    last_seen: 2026-04-29
