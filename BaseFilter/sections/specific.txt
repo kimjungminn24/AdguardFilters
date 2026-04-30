@@ -948,6 +948,7 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+woodstocksentinelreview.com##.widget--local-business
 willyweather.com.au##figure[data-ad-type]
 /wp-content/themes/*/assets/js/fun.js$domain=javdock.com|bestjavporn.com|javhdporn.com|javhdporn.net
 lewdzone.com##.notice-text
