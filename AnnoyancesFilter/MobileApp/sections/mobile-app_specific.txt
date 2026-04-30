@@ -18,6 +18,7 @@ rxgo.com,alfastrah.ru,turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepe
 !
 !
 !
+wallpics.app##body > div.fixed:has(> div.w-full a[href^="https://play.google.com/store/apps/"])
 m.soundcloud.com##div[class^="Header_RightContainer"] > button:not([data-testid="sign-in-button"])
 m.soundcloud.com##div[class^="FooterStoreSection"]
 quicksigorta.com##body > header > div.MuiBox-root:has(> div > div > img[src^="https://quicksigorta.com/img/logos"])
