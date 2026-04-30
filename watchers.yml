@@ -9,9 +9,6 @@ sites:
     last_known_mirror: jmanga.trade
     last_seen: 2026-04-29
   iNat TV (inattv*.xyz):
-    initial_domain: inattvgiris.one
+    # initial_domain: inattvgiris.one - no autoredirect to the destination site
     last_known_mirror: inattv1298.xyz
-    force_search_ahead: true
-    probe_text:
-      - mainVideoContainer
     last_seen: 2026-04-29
