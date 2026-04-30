@@ -11,3 +11,7 @@ sites:
   iNat TV (inattv*.xyz):
     last_known_mirror: inattv1299.xyz
     last_seen: 2026-04-30
+  HDFilmCehennemi (hdfilmcehennemi*.org):
+    initial_domain: t.co/3D4ep5ZtK4
+    last_known_mirror: hdfilmcehennemi27.org
+    last_seen: 2026-04-30
