@@ -473,7 +473,7 @@
 @@||ppzj-youtube.cfd/play/$stealth=referrer
 ! https://github.com/AdguardTeam/AdguardFilters/issues/230069
 @@||srv.*/*/*.png$xmlhttprequest,stealth=referrer
-@@||s1.*/cdn/down/*.jpg$xmlhttprequest,stealth=referrer
+@@||s*/cdn/down/*.jpg$xmlhttprequest,stealth=referrer
 ! https://github.com/AdguardTeam/AdguardFilters/issues/211752
 @@||passport.baidu.com^$stealth=referrer
 ! https://github.com/AdguardTeam/AdguardFilters/issues/211225
