@@ -17,9 +17,6 @@ $popup,domain=cloudnestra.com,badfilter
 @@||bidder.criteo.com/amp/rtc$domain=ettoday.net
 ! https://github.com/AdguardTeam/AdguardFilters/issues/229352
 @@||patreonusercontent.com^$image,domain=patreon.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/228617
-! aglint-disable-next-line
-@@||yandex.*/maps/$extension='AdGuard Extra'|'AdGuard Extra (Beta)'
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228554
 ! aglint-disable-next-line
 @@||claude.com^$extension='AdGuard Popup Blocker'|'AdGuard Popup Blocker (Beta)'
