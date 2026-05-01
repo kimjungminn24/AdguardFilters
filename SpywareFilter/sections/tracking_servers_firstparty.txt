@@ -28,6 +28,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.studiodesignapp.com^
 ||stats.cinevibe.asia^
 ||alib.nine.com.au^
 ||data.ssports.com^
