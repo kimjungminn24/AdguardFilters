@@ -58,6 +58,7 @@
 /wp-content/uploads/2024/09/fanza_ad$image
 !
 ! Malware/Phishing
+.com/mailbox.php?talks_id=$document
 /api/v1/verify/fingerprint|$xmlhttprequest
 .cfd/gatway/check.php?r=$document
 -ne-jp.duckdns.org/$document
