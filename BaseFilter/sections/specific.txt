@@ -948,6 +948,8 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+alternativeto.net##.border-official-partner
+alternativeto.net##div[aria-label="Official partner"]
 theprovince.com,woodstocksentinelreview.com,edmontonjournal.com##.widget--local-business
 willyweather.com.au##figure[data-ad-type]
 /wp-content/themes/*/assets/js/fun.js$domain=javdock.com|bestjavporn.com|javhdporn.com|javhdporn.net
