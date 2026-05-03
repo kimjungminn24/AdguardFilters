@@ -2806,6 +2806,8 @@
 @@||vlscppe.microsoft.com/fp/tags.js$stealth=referrer
 ! https://github.com/AdguardTeam/AdguardFilters/issues/33905
 @@||uzmantv.com/metadata/$stealth=referrer
+! https://github.com/AdguardTeam/AdguardFilters/issues/230286
+@@||embed.fbsbx.com/embed_vidyard.php$subdocument,stealth=referrer
 ! https://reddit.com/r/Adguard/comments/bq0cab/how_to_configure_so_that_kinja_sites_gizmodo/
 @@||kinja.com/api/profile/accountwithtoken$stealth=referrer
 ! https://github.com/AdguardTeam/AdguardFilters/issues/33872
