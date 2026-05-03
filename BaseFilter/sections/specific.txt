@@ -948,6 +948,8 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+azcentral.com##aside[aria-label="advertisement"]
+azcentral.com##.gnt_tba
 positioniseverything.net#%#//scriptlet('abort-current-inline-script', 'atob', 'showModal')
 positioniseverything.net###pie-site-wrapper
 positioniseverything.net##.yorker-top
