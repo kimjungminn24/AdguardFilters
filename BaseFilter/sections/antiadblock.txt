@@ -1252,6 +1252,9 @@ youporn.com$$script:contains(/window\.[\s\S]*?_zone_[\s\S]*?{"zone_id":/)
 !
 ! NOTE: Regular rules
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/230473
+waredata.com###adblock-overlay
+waredata.com###adblock-backdrop
 ! https://github.com/AdguardTeam/AdguardFilters/issues/230253
 healthy4pepole.com#%#//scriptlet('remove-node-text', 'script', 'div-gpt-ad-')
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb)
