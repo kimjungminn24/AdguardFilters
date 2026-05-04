@@ -13791,7 +13791,7 @@ vodafone.it###cookiefascia
 gyakorikerdesek.hu###cookiekezeles
 vtb.ru,hex-rays.com,press.pl,oplacalny-software.pl,plfoto.com###cookies-box
 blablatel.es###cookiesBannerContainer
-enjie-recruit.jp,journeyman.tv,ev.org.br,whatfontis.com###cookies_alert
+rasaco.co.jp,enjie-recruit.jp,journeyman.tv,ev.org.br,whatfontis.com###cookies_alert
 tweaktown.com###cookies_footer_sec
 vk.com###cookies_policy_wrap
 rogerfederer.com,runningwarehouse.eu,tennis-warehouse.com,tenniswarehouse-europe.com###data_protection
