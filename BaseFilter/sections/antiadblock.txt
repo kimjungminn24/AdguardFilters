@@ -1252,6 +1252,12 @@ youporn.com$$script:contains(/window\.[\s\S]*?_zone_[\s\S]*?{"zone_id":/)
 !
 ! NOTE: Regular rules
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/230417
+vidbox.dev#%#//scriptlet('prevent-fetch', 'method:HEAD')
+vidbox.dev#%#//scriptlet('prevent-setTimeout', 'getComputedStyle')
+vidbox.dev#%#//scriptlet('prevent-element-src-loading', 'script', 'bait')
+vidbox.dev#$#div[aria-labelledby="adblock-title"] { display: none !important; }
+vidbox.dev#$#html { overflow: auto !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/230473
 waredata.com###adblock-overlay
 waredata.com###adblock-backdrop
