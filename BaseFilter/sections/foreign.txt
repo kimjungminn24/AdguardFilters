@@ -13379,6 +13379,7 @@ animehay01.site#%#//scriptlet('prevent-window-open')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228540
 arigl.com#%#//scriptlet('prevent-window-open')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228155
+animevietsub.bz###_preload-ads-1
 ||googleapiscdn.com/admin/api/ads/
 ||googleapiscdn.com/static/jwplayer/vast.js
 storage.googleapiscdn.com#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'evaluate')
