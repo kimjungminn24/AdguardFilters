@@ -141,8 +141,6 @@ $popup,third-party,domain=dood.ws,badfilter
 !
 !
 !
-! https://github.com/AdguardTeam/AdguardFilters/issues/230530
-@@||media-amazon.com/images/S/sash/$domain=help.imdb.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/229798
 @@||pubads.g.doubleclick.net/ondemand/hls/content/$domain=play.aetv.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/229568
