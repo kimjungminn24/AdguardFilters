@@ -28,6 +28,7 @@
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics-proxy-501188673100.us-central1.run.app^
 ||analytics.studiodesignapp.com^
 ||stats.cinevibe.asia^
 ||alib.nine.com.au^
