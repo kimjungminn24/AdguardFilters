@@ -1252,6 +1252,16 @@ youporn.com$$script:contains(/window\.[\s\S]*?_zone_[\s\S]*?{"zone_id":/)
 !
 ! NOTE: Regular rules
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/230593
+||play.gamepix.com/player/assets/js/prebid.js$script,redirect=noopjs,domain=play.gamepix.com
+||api.adinplay.com/libs/aiptag/*/tag.min.js$script,redirect=noopjs,domain=play.gamepix.com
+||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=play.gamepix.com
+!#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb)
+@@||play.gamepix.com/player/assets/js/prebid.js$domain=play.gamepix.com
+@@||api.adinplay.com/libs/aiptag/*/tag.min.js$domain=play.gamepix.com
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=play.gamepix.com
+@@||securepubads.g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=play.gamepix.com
+!#endif
 ! https://github.com/AdguardTeam/AdguardFilters/issues/230011
 avnsgames.com#%#//scriptlet('prevent-setTimeout', 'adblockDetected')
 avnsgames.com#%#//scriptlet('abort-on-property-read', 'fuckAdBlock')
