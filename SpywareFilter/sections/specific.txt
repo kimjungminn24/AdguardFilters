@@ -87,6 +87,8 @@ mexc.com#%#//scriptlet('set-local-storage-item', '_yjsu_yjad', '$remove$')
 !
 ! NOTE: Specific rules
 !
+nhnieuws.nl#%#//scriptlet('set-local-storage-item', 'udid', '$remove$')
+nhnieuws.nl#%#//scriptlet('set-local-storage-item', 'cs_fpid', '$remove$')
 ||regfiles.net/0/|$script
 ||static.mocortech.com/mx-fingerprintjs/
 ||static.mocortech.com/mx-remote-packages/mxc-web-remote-script/lib/tag_ww.js
