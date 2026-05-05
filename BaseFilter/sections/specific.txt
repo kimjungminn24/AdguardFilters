@@ -949,6 +949,7 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+regfiles.net##.important-container
 ||streamex.sh/pop.js
 xnxx.*,xnxx-ru.com###ad-footer
 xnxx.*###video-right.mobile-hide
