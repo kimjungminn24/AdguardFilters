@@ -25,6 +25,8 @@
 !
 ! NOTE: Specific rules
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/230628
+@@||shop.getthefuturist.com^$stealth=flash
 ! https://github.com/AdguardTeam/AdguardFilters/issues/230334
 @@||forms.tildaapi.com/payment/promocode/$stealth=referrer
 ! https://github.com/AdguardTeam/AdguardFilters/issues/230565
