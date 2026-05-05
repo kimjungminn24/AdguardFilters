@@ -1528,8 +1528,9 @@ whistleout.com.au##.results-list > div[data-feature="SuperFeature"]
 *$script,third-party,domain=ziperto.com
 ziperto.com#%#//scriptlet('remove-node-text', 'script', 'newHref = href.replace')
 appagg.com##.si_li:has(> .short_info > .si > ins.adsbygoogle)
-watchporn4k.com,lolpol2.com##.order-1:has(> .video-block-happy)
-watchporn4k.com,lolpol2.com#$?#.row.no-gutters > div.d-none:empty { remove: true; }
+||3d-hentai.co/ad.xml
+3d-hentai.co,watchporn4k.com,lolpol2.com##.order-1:has(> .video-block-happy)
+3d-hentai.co,watchporn4k.com,lolpol2.com#$?#.row.no-gutters > div.d-none:empty { remove: true; }
 thegamebusiness.com##a[href^="https://careers.playstation.com/"]
 manhuarmtl.com##.da-container-wrapper
 viduyy.com##a[href^="https://s.shopee.co.id/"]
