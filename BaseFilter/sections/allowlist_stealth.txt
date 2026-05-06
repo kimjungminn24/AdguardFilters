@@ -38,7 +38,7 @@
 ! https://github.com/AdguardTeam/AdguardFilters/issues/230334
 @@||forms.tildaapi.com/payment/promocode/$stealth=referrer
 ! https://github.com/AdguardTeam/AdguardFilters/issues/230565
-@@||eslite.com^$stealth=flash
+@@||eslite.com^$stealth=flash|java
 ! https://github.com/AdguardTeam/AdguardFilters/issues/230272
 @@||gw.cds.amcn.com/auth-orchestration-id/api/$stealth=3p-auth
 ! https://github.com/AdguardTeam/AdguardFilters/issues/230279
