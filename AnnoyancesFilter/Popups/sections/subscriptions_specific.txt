@@ -57,6 +57,7 @@ gaugau.futabanet.jp,newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,n
 !
 ! SECTION: Subscriptions - Regular rules
 !
+zalando.de##.DvqavZ
 operationsports.com###os-offerwall-overlay
 hqerotica.com##.tg-wrap
 hqerotica.com##.lista li:has(> div.thumb-conteudo > a[href="https://t.me/NhentaiBR"])
