@@ -9,6 +9,11 @@
 !
 ! NOTE: Generic rules
 !
+! Not identified, popular in emails
+$removeparam=eml-name
+$removeparam=eml-mediaplan
+$removeparam=eml-publisher
+$removeparam=eurl
 ! True Anthem
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228929
 ! https://github.com/AdguardTeam/AdguardFilters/issues/222986

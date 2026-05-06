@@ -6,6 +6,10 @@
 ! Bad: ||example.org^$xmlhttprequest,redirect=noopvast-3.0 (for instance, should be in specific.txt)
 !
 !
+! nte.onelink.me
+$removeparam=af_sub1
+$removeparam=c
+$removeparam=shortlink
 ! https://github.com/DandelionSprout/adfilt/discussions/163#discussioncomment-16774089
 ||t.info.telus.com^$removeparam=s
 ! ridibooks.com - book detail page reference tracker
