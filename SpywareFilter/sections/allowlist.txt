@@ -18,6 +18,8 @@
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/229453
+@@||g.alicdn.com/alilog/mlog/aplus_o.js$domain=v.youku.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/229265
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=parade.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/230374
