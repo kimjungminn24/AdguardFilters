@@ -1007,8 +1007,8 @@ fapnow.xxx,fapnado.xxx,fapnado.com##a[href^="https://t.javhd-trk.com/"]
 faptor.com,fapnow.xxx,fapnado.xxx,fapnado.com###list_videos_related_videos_items > div[class]:has(a[href^="https://www.tckcandy.com/"])
 faptor.com##center:contains(/^Advertisement$/)
 forums.hardwarezone.com.sg##.hwz-taboola-top
-cbr.com,thegamer.com##.an-injected
-cbr.com,thegamer.com##.an-injector-zone
+xda-developers.com,cbr.com,thegamer.com##.an-injected
+xda-developers.com,cbr.com,thegamer.com##.an-injector-zone
 ||cdn.thelayoff.com/asc.thelayoff.js
 safefileku.com##div[class]:has(> small > em)
 safefileku.com###download + div:has(> a[rel="nofollow"])
