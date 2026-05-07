@@ -24,6 +24,7 @@ kltutors.com,eloutput.com,mundobytes.com,techondicas.com,jornalrepercussao.com.b
 !
 ! NOTE: Specific rules
 !
+verfutbollibre.pe#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'NEW_LINK')
 diariodocomercio.com.br###al-adwall-ui
 diariodocomercio.com.br###preloader
 diariodocomercio.com.br#%#//scriptlet('set-local-storage-item', 'adwallLocked', '$remove$')
