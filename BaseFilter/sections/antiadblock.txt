@@ -5174,10 +5174,6 @@ motherless.com#%#//scriptlet('prevent-setTimeout', 'WebAssembly')
 natomanga.com#%#//scriptlet('prevent-setTimeout', 'this.ast')
 /^https:\/\/www\.natomanga\.com\/js\/[a-f0-9]{32}\.js$/$script,domain=natomanga.com
 /aas/r45d/vki/*$script,redirect=noopjs
-! https://github.com/AdguardTeam/AdguardFilters/issues/155887
-! https://github.com/AdguardTeam/AdguardFilters/issues/155883
-luxusmail.org#%#//scriptlet('prevent-setTimeout', '/Ad Blocker|ad_block/')
-@@/storage/js/taboola_ads.js$~third-party,domain=luxusmail.org
 ! https://github.com/AdguardTeam/AdguardFilters/issues/156120
 topbubbleindex.com#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
