@@ -80,6 +80,7 @@ sp.manga.nicovideo.jp##div[style^="--ads-width:"]
 !
 ! SECTION: Regular rules
 !
+s.kabutan.jp##main > div > div.justify-center[style="min-height:280px;"]
 yay.porn,1porno.net##.rekspan
 fishingjapan.jp##.common__adv_chowari_app
 greatandhra.com##.mob-Ad
