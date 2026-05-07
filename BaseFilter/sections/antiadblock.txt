@@ -2043,18 +2043,6 @@ packers.com#%#//scriptlet('prevent-fetch', 'imasdk.googleapis.com/js/sdkloader/i
 spedostream2.shop,play.watch20.space#%#//scriptlet('set-constant', 'adblock_detect', 'noopFunc')
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
 @@||bvtpk.com/tag.min.js$xmlhttprequest,domain=spedostream2.shop|play.watch20.space
-! https://github.com/AdguardTeam/AdguardFilters/issues/215647
-@@||omuzaani.me^$generichide
-omuzaani.me#$#body:not(#style_important) > div[id].jwplayer { display: block !important; }
-omuzaani.me#$#body > #ad_banner { display: block !important; }
-omuzaani.me#%#//scriptlet('prevent-fetch', 'summerday.christmas')
-omuzaani.me#%#//scriptlet('prevent-setTimeout', '/window\.location\.(replace|href)|stopAndExitFullscreen/')
-omuzaani.me#%#//scriptlet('abort-current-inline-script', 'Number', 'probeScript')
-omuzaani.me#%#//scriptlet('prevent-element-src-loading', 'img', 'summerday.christmas')
-omuzaani.me#%#//scriptlet('trusted-replace-node-text', 'script', 'forceKillplayer', '/forceKillplayer\(/g', '//forceKillplayer(')
-omuzaani.me#%#//scriptlet('trusted-replace-node-text', 'script', 'window.location', '/(window\.location\.(replace|href))/g', '//$1')
-||omuzaani.me^$replace=/forceKillplayer\(/\/\/forceKillplayer(/,document,subdocument
-||omuzaani.me^$replace=/(window\.location\.(replace|href))/\/\/\$1/,document,subdocument
 ! https://github.com/AdguardTeam/AdguardFilters/issues/215573
 convert.guru#%#//scriptlet('prevent-element-src-loading', 'script', 'pagead2.googlesyndication.com')
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication-adsbygoogle,domain=convert.guru
