@@ -24,6 +24,9 @@ kltutors.com,eloutput.com,mundobytes.com,techondicas.com,jornalrepercussao.com.b
 !
 ! NOTE: Specific rules
 !
+diariodocomercio.com.br###al-adwall-ui
+diariodocomercio.com.br###preloader
+diariodocomercio.com.br#%#//scriptlet('set-local-storage-item', 'adwallLocked', '$remove$')
 promodescuentos.com##div[id$="AdSlotPortal"]
 promodescuentos.com##.slot:has(div[id^="ad-"])
 promodescuentos.com##.box--content > .flex:has(> .slot--bg:only-child)
