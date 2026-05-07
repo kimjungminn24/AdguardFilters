@@ -3577,9 +3577,9 @@ live.golato.io#@#.ad-placeholder:not(#filter_ads_by_classname):not(#detect_ad_em
 decompiler.com#%#//scriptlet('abort-current-inline-script', 'document.createElement', '/disabled-link[\s\S]*?advertisement/')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/180134
 ! shrtfly
-airevue.net,veroan.com,amalot.net,carribo.net,stfly.biz,stfly.cc,bookbucketlyst.com#%#//scriptlet('abort-on-property-read', 'abwn')
+airevue.net,veroan.com,amalot.net,carribo.net,stfly.biz,stfly.cc#%#//scriptlet('abort-on-property-read', 'abwn')
 !#if (adguard_ext_android_cb)
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=stfly.biz|stfly.cc|bookbucketlyst.com|airevue.net|veroan.com|amalot.net|carribo.net
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=stfly.biz|stfly.cc|airevue.net|veroan.com|amalot.net|carribo.net
 @@||cdn.runative-syndicate.com/sdk/v*/bi.js$domain=stfly.cc
 @@||tsyndicate.com/iframes*/$domain=stfly.cc
 !#endif
