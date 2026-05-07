@@ -2151,9 +2151,6 @@ flcity.site,1movierulzhd.*,topshare.in,tempmaile.me,filydot.fun#%#//scriptlet('p
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication-adsbygoogle,domain=xcandid.top
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=xcandid.top|1movierulzhd.*
-! https://github.com/AdguardTeam/AdguardFilters/issues/213725
-||tamilprint51.online/ads/adblocker
-tamilprint51.online#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/213645
 owlzo.com#@##ad_unit
 @@||owlzo.com/gpt_ads-public.js$domain=owlzo.com
