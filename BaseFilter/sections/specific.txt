@@ -950,7 +950,6 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
-mangaball.net#%#//scriptlet('remove-node-text', 'script', 'pop1stp_pop')
 pornhottube.com#%#//scriptlet('prevent-window-open')
 inverse.com##body .adWrapper
 audiobookbay.lu##a[href^="/dl-14-days-trial"]
@@ -3545,7 +3544,7 @@ crypt.cybar.xyz,gamedrive.org#%#//scriptlet('prevent-addEventListener', 'click',
 steam-repacks.net##.single-post > div[style] > a[target="_blank"]
 manga1.org##.sektion-wrapper
 manga1.org###execphp-2
-familypornhd.com,porn4days.pw,arigl.com,hispajav.com,erothots1.com,erothots.co,erothots.is,erothots.*,sexlatino.com,bellezashot.com,hentaihd.xyz,bighentai.org,hentaitv.fun,tabooporn.tv,justthegays.tv,mens1069.com,animeyy.com,likemanga.*,brokensilenze.net,kaliscan.me,fastream.to,hdhentai.tv#%#//scriptlet('abort-current-inline-script', 'Node.prototype.insertBefore', 'pop1stp')
+mangaball.net,familypornhd.com,porn4days.pw,arigl.com,hispajav.com,erothots1.com,erothots.co,erothots.is,erothots.*,sexlatino.com,bellezashot.com,hentaihd.xyz,bighentai.org,hentaitv.fun,tabooporn.tv,justthegays.tv,mens1069.com,animeyy.com,likemanga.*,brokensilenze.net,kaliscan.me,fastream.to,hdhentai.tv#%#//scriptlet('abort-current-inline-script', 'Node.prototype.insertBefore', 'pop1stp')
 metacritic.com##.c-expressvpn
 apnews.com#$#:root { --stickyPos: 0 !important; }
 wouterplanet.com###minigameplayer > .container > .panel:has(> .panel-body > ng-adsense)
