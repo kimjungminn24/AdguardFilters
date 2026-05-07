@@ -950,6 +950,7 @@ $third-party,script,domain=klto9.com|f2movies.to|hacamchicac.com|yourporngod.com
 !
 ! NOTE: Specific rules
 !
+mangaball.net#%#//scriptlet('remove-node-text', 'script', 'pop1stp_pop')
 pornhottube.com#%#//scriptlet('prevent-window-open')
 inverse.com##body .adWrapper
 audiobookbay.lu##a[href^="/dl-14-days-trial"]
