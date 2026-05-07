@@ -12088,8 +12088,6 @@ vulture.com###article > #bottom > div.nymab-response
 @@||s3.amazonaws.com/khachack/*.js$script,domain=ndtv.com
 ! https://forum.adguard.com/index.php?threads/14313/
 @@||gadgets360.com/*ad$script
-! https://forum.adguard.com/index.php?threads/16112/
-zippymusic.co##.modal-bg
 ! https://forum.adguard.com/index.php?threads/http-www-vipleague-co.15776/
 vipleague.tv###warningdiv + div[id][style]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/3353
