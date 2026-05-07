@@ -4391,7 +4391,6 @@ velo.outsideonline.com#$#main.l-main { margin-top: 10px !important; }
 alive.com##div[class*="-PromoBanner"]
 alive.com##div[class*=" css-"]:has(> .assmbly-ad-text:first-child + .assmbly-ad:last-child)
 carsized.com###FreeStarVideoAdContainer
-vinomo.xyz#%#//scriptlet('prevent-setTimeout', 'afterOpen')
 wellandgood.com##div[data-ad-region]
 girlsofdesire.org##.wide_boxcontent:has(td > ins[data-zoneid])
 girlsofdesire.org##a[href^="/click/o/"]

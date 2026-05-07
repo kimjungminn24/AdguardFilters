@@ -2887,15 +2887,6 @@ tamilyogi.wiki#%#//scriptlet('abort-current-inline-script', 'document.createElem
 certificateland.com#%#//scriptlet('prevent-element-src-loading', 'script', 'adsbygoogle')
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=certificateland.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/198612
-vinomo.xyz#%#//scriptlet('json-prune', 'AffiliateAdBlock')
-!#if (adguard_app_ios || adguard_ext_android_cb)
-@@||widgets.outbrain.com/outbrain.js$domain=vinomo.xyz
-@@||adligature.com^|$xmlhttprequest,domain=vinomo.xyz
-@@||cdn.adligature.com/work.ink/prod/rules.css$domain=vinomo.xyz
-@@||srvtrck.com/assets/css/LineIcons.css$domain=vinomo.xyz
-@@||js.srvtrck.com/v1/js?api_key=$xmlhttprequest,domain=vinomo.xyz
-!#endif
 ! https://github.com/AdguardTeam/AdguardFilters/issues/198654
 kapang.com#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
