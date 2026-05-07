@@ -12316,11 +12316,6 @@ uptobox.com$$script[tag-content="adblock.html"][max-length="3000"]
 ! http://forum.adguard.com/showthread.php?1444
 drivermax.com#$#.ad-block-enabled { visibility: hidden; }
 ||solidice.com/js/sneaky.js
-! n8fanclub.com
-n8fanclub.com##body > center[id]
-n8fanclub.com##body > i[id]
-n8fanclub.com##body > p[id]
-n8fanclub.com##body > strong[id]
 ! https://github.com/AdguardTeam/ExperimentalFilter/issues/372
 doulci.net#@##adlabel
 doulci.net#@##advertbox3
