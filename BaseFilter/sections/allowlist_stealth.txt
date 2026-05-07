@@ -380,6 +380,9 @@
 @@||stream1.store^$stealth=referrer
 ! https://github.com/AdguardTeam/AdguardFilters/issues/217031
 @@||tp-link.com^$stealth=referrer
+! https://github.com/AdguardTeam/AdguardFilters/issues/230309
+!+ PLATFORM(windows, mac, android, cli)
+@@||ieee.org^$stealth=donottrack|java|location|push|useragent|webrtc
 ! https://github.com/AdguardTeam/AdguardFilters/issues/217001
 !+ PLATFORM(windows, mac, android, cli)
 @@||iplark.com^$stealth=donottrack|java|location|push|useragent|webrtc
