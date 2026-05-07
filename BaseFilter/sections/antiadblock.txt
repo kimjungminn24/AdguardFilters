@@ -5176,8 +5176,8 @@ natomanga.com#%#//scriptlet('prevent-setTimeout', 'this.ast')
 /aas/r45d/vki/*$script,redirect=noopjs
 ! https://github.com/AdguardTeam/AdguardFilters/issues/155887
 ! https://github.com/AdguardTeam/AdguardFilters/issues/155883
-10minuteemails.com,luxusmail.org#%#//scriptlet('prevent-setTimeout', '/Ad Blocker|ad_block/')
-@@/storage/js/taboola_ads.js$~third-party,domain=luxusmail.org|10minuteemails.com
+luxusmail.org#%#//scriptlet('prevent-setTimeout', '/Ad Blocker|ad_block/')
+@@/storage/js/taboola_ads.js$~third-party,domain=luxusmail.org
 ! https://github.com/AdguardTeam/AdguardFilters/issues/156120
 topbubbleindex.com#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
