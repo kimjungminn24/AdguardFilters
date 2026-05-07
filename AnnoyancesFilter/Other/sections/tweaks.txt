@@ -853,8 +853,6 @@ plog.com.br#%#//scriptlet('adjust-setInterval', 'countdown', '*', '0.001')
 theparking.eu#%#//scriptlet('remove-class', 'viously-sticked-top-right', '.viously-ui-container')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/156256
 moegirl.org.cn#%#//scriptlet('remove-class', 'skin-moeskin', 'body')
-! https://github.com/AdguardTeam/AdguardFilters/issues/155761
-wellness4live.com#%#//scriptlet('adjust-setInterval', 'timer', '*', '0.001')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/155841
 finsurances.co#%#//scriptlet('remove-attr', 'disabled', '#getlink')
 finsurances.co#%#//scriptlet('adjust-setInterval', 'counter')
